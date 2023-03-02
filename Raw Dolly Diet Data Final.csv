@@ -1,0 +1,1368 @@
+Waterbody,Species,Date,Sample.code,Taxon,Stage,Insect,Origin,Higher.classification,Order,Family,Common.name,Length,Abundance,Biomass
+Montana Creek,Dolly Varden, 2021-05-05,8,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,13,1,0.505809855
+Montana Creek,Dolly Varden, 2021-05-05,8,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,25,1,0.82062513
+Montana Creek,Dolly Varden, 2021-05-05,8,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,14,1,10.38313412
+Montana Creek,Dolly Varden, 2021-05-05,6,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-05-05,6,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-05-05,6,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-05-11,2,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-05-11,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-05-11,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-05-11,2,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,12,1,4.698991774
+Montana Creek,Dolly Varden, 2021-05-11,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-05-11,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,3,1,0.13221494
+Montana Creek,Dolly Varden, 2021-05-11,4,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,3.5,1,0.197221705
+Montana Creek,Dolly Varden, 2021-05-11,4,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,19,1,7.775644598
+Montana Creek,Dolly Varden, 2021-05-11,6,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-05-11,6,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-05-11,7,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-05-11,7,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-05-11,27,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,2,2.606096022
+Montana Creek,Dolly Varden, 2021-05-11,27,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-05-11,28,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-05-11,29,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,8,1,1.719089004
+Montana Creek,Dolly Varden, 2021-05-11,33,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-05-11,34,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,10,1,2.989752203
+Montana Creek,Dolly Varden, 2021-05-11,34,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,8,1,2.022030231
+Montana Creek,Dolly Varden, 2021-05-14,14,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-05-14,14,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-05-14,14,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-05-14,14,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,15,1,12.70576609
+Montana Creek,Dolly Varden, 2021-05-14,17,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-05-14,10,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,1,1.568559982
+Montana Creek,Dolly Varden, 2021-05-14,10,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,10,1,3.428151381
+Montana Creek,Dolly Varden, 2021-05-14,10,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,7,1,1.204294056
+Montana Creek,Dolly Varden, 2021-05-18,3,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-05-18,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-05-18,4,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-05-18,4,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,2.5,1,0.055076295
+Montana Creek,Dolly Varden, 2021-05-18,4,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,3,1.063291995
+Montana Creek,Dolly Varden, 2021-05-18,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,2,0.147700985
+Montana Creek,Dolly Varden, 2021-05-18,19,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-05-18,19,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,55,1,1.470745729
+Montana Creek,Dolly Varden, 2021-05-18,19,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,25,1,0.82062513
+Montana Creek,Dolly Varden, 2021-05-18,20,Pisces,E,Vertebrata,Marine.pisces,Vertebrata,x,x,x,21,2,84.96564825
+Montana Creek,Dolly Varden, 2021-05-18,20,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,2,2.323932957
+Montana Creek,Dolly Varden, 2021-05-18,20,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,25,2,1.641250259
+Montana Creek,Dolly Varden, 2021-05-18,20,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-05-18,22,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,5,1,0.477246969
+Montana Creek,Dolly Varden, 2021-05-18,26,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,4,1,0.28374275
+Montana Creek,Dolly Varden, 2021-05-18,26,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-05-18,26,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-05-18,26,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-05-21,7,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,11,1,3.786945489
+Montana Creek,Dolly Varden, 2021-05-21,7,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-05-21,8,Simuliidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.881524093
+Montana Creek,Dolly Varden, 2021-05-21,8,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-05-21,8,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-05-21,9,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-05-21,9,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,10,1,1.391227001
+Montana Creek,Dolly Varden, 2021-05-21,12,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,8,1,1.874694396
+Montana Creek,Dolly Varden, 2021-05-21,12,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,10,1,3.428151381
+Montana Creek,Dolly Varden, 2021-05-21,12,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-05-21,12,Pisces,E,Vertebrata,Marine.pisces,Vertebrata,x,x,x,21,1,41.98282412
+Montana Creek,Dolly Varden, 2021-05-21,13,Micrasema,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Brachycentridae,caddisflies,3,1,0.2555882
+Montana Creek,Dolly Varden, 2021-05-21,13,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,2,1,0.018597708
+Montana Creek,Dolly Varden, 2021-05-21,13,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,2,1,0.055231849
+Montana Creek,Dolly Varden, 2021-05-26,7,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-05-26,7,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,3,2,0.20067193
+Montana Creek,Dolly Varden, 2021-05-26,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-05-26,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-05-26,8,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-05-26,8,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.005201197
+Montana Creek,Dolly Varden, 2021-05-26,8,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,4,1,0.170873131
+Montana Creek,Dolly Varden, 2021-05-26,8,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,2,1.712487296
+Montana Creek,Dolly Varden, 2021-05-26,8,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,2.5,1,0.082482054
+Montana Creek,Dolly Varden, 2021-05-28,2,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-05-28,2,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,2,1,0.018515414
+Montana Creek,Dolly Varden, 2021-05-28,7,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-05-28,9,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,25,1,16.22837973
+Montana Creek,Dolly Varden, 2021-05-28,10,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,4,1,0.495116394
+Montana Creek,Dolly Varden, 2021-05-28,10,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,5,3,2.874010695
+Montana Creek,Dolly Varden, 2021-05-28,10,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,6,1,1.642802106
+Montana Creek,Dolly Varden, 2021-05-28,10,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-05-28,10,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-05-28,11,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,5,1,0.477246969
+Montana Creek,Dolly Varden, 2021-05-28,11,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-05-28,13,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,1,1.161966478
+Montana Creek,Dolly Varden, 2021-05-28,13,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,11,1,3.786945489
+Montana Creek,Dolly Varden, 2021-05-28,14,Pisces,E,Vertebrata,Marine.pisces,Vertebrata,x,x,x,21,1,41.98282412
+Montana Creek,Dolly Varden, 2021-05-28,14,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-05-28,14,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,12,1,4.698991774
+Montana Creek,Dolly Varden, 2021-05-28,14,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,11,1,4.463412558
+Montana Creek,Dolly Varden, 2021-05-28,14,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,14,1,3.428998235
+Montana Creek,Dolly Varden, 2021-05-28,14,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,5,0.194404857
+Montana Creek,Dolly Varden, 2021-05-28,14,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,4,0.498952805
+Montana Creek,Dolly Varden, 2021-05-28,14,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,7,1.996624448
+Montana Creek,Dolly Varden, 2021-05-28,14,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-05-28,14,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-05-28,14,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-05-28,14,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-05-28,14,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-05-28,14,Syrphidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Syrphidae,rattail maggots,15,1,5.574712266
+Montana Creek,Dolly Varden, 2021-05-28,16,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,5,1,0.477246969
+Montana Creek,Dolly Varden, 2021-05-28,17,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,18,1,10.4017742
+Montana Creek,Dolly Varden, 2021-05-28,17,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,18,1,17.07165638
+Montana Creek,Dolly Varden, 2021-05-31,3,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,5,1,25.33793808
+Montana Creek,Dolly Varden, 2021-05-31,3,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-05-31,3,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,2,5.063781428
+Montana Creek,Dolly Varden, 2021-05-31,3,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,12,1,5.851922771
+Montana Creek,Dolly Varden, 2021-05-31,3,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,18,1,6.726413847
+Montana Creek,Dolly Varden, 2021-05-31,3,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-05-31,3,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-05-31,3,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,15,1,5.555510023
+Montana Creek,Dolly Varden, 2021-05-31,6,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,1,1.568559982
+Montana Creek,Dolly Varden, 2021-05-31,6,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,80,1,1.940688338
+Montana Creek,Dolly Varden, 2021-05-31,6,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,7,1,1.208784308
+Montana Creek,Dolly Varden, 2021-05-31,6,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,10,1,0.885866022
+Montana Creek,Dolly Varden, 2021-05-31,10,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-05-31,10,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,5,1,0.477246969
+Montana Creek,Dolly Varden, 2021-05-31,10,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-06-01,2,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,18,1,6.726413847
+Montana Creek,Dolly Varden, 2021-06-01,2,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-01,2,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-01,2,Dolichopodidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Dolichopodidae,long-legged flies,3,1,0.088541011
+Montana Creek,Dolly Varden, 2021-06-01,2,Juvenile Salmonid,E,Pisces,Marine.pisces,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-01,2,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,8,1,1.874694396
+Montana Creek,Dolly Varden, 2021-06-01,2,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,1,1.075624948
+Montana Creek,Dolly Varden, 2021-06-01,5,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-01,5,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-01,5,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,4,2.068363354
+Montana Creek,Dolly Varden, 2021-06-01,5,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-01,5,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,3,0.364416692
+Montana Creek,Dolly Varden, 2021-06-01,5,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-06-01,5,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-06-01,5,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-06-01,5,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-06-01,5,Dolichopodidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Dolichopodidae,long-legged flies,3,1,0.088541011
+Montana Creek,Dolly Varden, 2021-06-01,10,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,1,1.568559982
+Montana Creek,Dolly Varden, 2021-06-01,10,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2.5,1,0.13469471
+Montana Creek,Dolly Varden, 2021-06-01,10,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,9,1,2.516826462
+Montana Creek,Dolly Varden, 2021-06-01,10,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,10,1,0.416551982
+Montana Creek,Dolly Varden, 2021-06-01,10,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-01,10,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-01,10,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,3,1,0.13221494
+Montana Creek,Dolly Varden, 2021-06-01,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-01,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-01,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-01,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-01,16,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,2,1,0.046297374
+Montana Creek,Dolly Varden, 2021-06-01,16,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,5,0.36427584
+Montana Creek,Dolly Varden, 2021-06-01,16,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-06-01,16,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-06-01,16,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,2,1,0.018435656
+Montana Creek,Dolly Varden, 2021-06-01,16,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,3,1,0.055520162
+Montana Creek,Dolly Varden, 2021-06-01,16,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-06-01,16,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,6,1,0.285430995
+Montana Creek,Dolly Varden, 2021-06-01,16,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,9,1,0.385308565
+Montana Creek,Dolly Varden, 2021-06-01,16,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-06-01,18,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-06-01,18,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,3.5,1,0.08442655
+Montana Creek,Dolly Varden, 2021-06-01,18,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-06-01,18,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,3,0.203228568
+Montana Creek,Dolly Varden, 2021-06-01,18,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,1.5,1,0.032989754
+Montana Creek,Dolly Varden, 2021-06-01,18,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,4,1,0.144207261
+Montana Creek,Dolly Varden, 2021-06-01,18,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-06-01,19,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,2,0.147700985
+Montana Creek,Dolly Varden, 2021-06-01,19,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,13,1,2.811124793
+Montana Creek,Dolly Varden, 2021-06-01,19,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-01,19,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-01,19,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,8,7,2.472030564
+Montana Creek,Dolly Varden, 2021-06-01,19,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,10,2,0.833103965
+Montana Creek,Dolly Varden, 2021-06-01,19,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-06-01,19,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-06-01,19,Brachycera,P,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,6,1,0.411489848
+Montana Creek,Dolly Varden, 2021-06-01,19,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,8,1,1.874694396
+Montana Creek,Dolly Varden, 2021-06-01,19,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-06-01,19,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-06-01,19,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-06-01,19,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,5,1,0.302661536
+Montana Creek,Dolly Varden, 2021-06-01,19,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3.5,2,0.680482789
+Montana Creek,Dolly Varden, 2021-06-04,13,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-04,13,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,15,2,20.7785837
+Montana Creek,Dolly Varden, 2021-06-04,13,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,15,1,12.70576609
+Montana Creek,Dolly Varden, 2021-06-04,13,Chilopoda,U,non-insect,Terrestrial,Arthropoda: Chilopoda,miscellaneous non-insect,x,centipedes,12,1,2.887679101
+Montana Creek,Dolly Varden, 2021-06-04,13,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,12,1,4.698991774
+Montana Creek,Dolly Varden, 2021-06-04,13,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-06-04,14,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-06-04,14,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.413179363
+Montana Creek,Dolly Varden, 2021-06-04,14,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-04,15,Pisces,E,Vertebrata,Marine.pisces,Vertebrata,x,x,x,21,4,164.8454171
+Montana Creek,Dolly Varden, 2021-06-04,15,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-06-04,15,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,9,1,4.585720981
+Montana Creek,Dolly Varden, 2021-06-04,15,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,9,1,2.516826462
+Montana Creek,Dolly Varden, 2021-06-04,15,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-06-04,15,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,17,1,14.61020193
+Montana Creek,Dolly Varden, 2021-06-04,15,Isopoda (terrestrial),U,non-insect,Terrestrial,Crustacea: Isopoda,x,x,sow and pill bugs,8,1,7.283909323
+Montana Creek,Dolly Varden, 2021-06-04,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-06-04,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-06-04,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,2,1.0835392
+Montana Creek,Dolly Varden, 2021-06-04,15,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,9,1,4.585720981
+Montana Creek,Dolly Varden, 2021-06-04,18,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.088851081
+Montana Creek,Dolly Varden, 2021-06-04,18,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,2,0.135485712
+Montana Creek,Dolly Varden, 2021-06-04,19,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-06-09,1,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,6,0.748429207
+Montana Creek,Dolly Varden, 2021-06-09,1,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-06-09,1,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,3,1.6253088
+Montana Creek,Dolly Varden, 2021-06-09,1,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-06-09,1,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,2,0.460162439
+Montana Creek,Dolly Varden, 2021-06-09,1,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-06-09,1,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1.5,1,0.010654246
+Montana Creek,Dolly Varden, 2021-06-09,1,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,5,2,1.91600713
+Montana Creek,Dolly Varden, 2021-06-09,1,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,2.5,1,0.10627943
+Montana Creek,Dolly Varden, 2021-06-09,1,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,3,0.059402232
+Montana Creek,Dolly Varden, 2021-06-09,1,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-09,1,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.005201197
+Montana Creek,Dolly Varden, 2021-06-09,1,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.005201197
+Montana Creek,Dolly Varden, 2021-06-09,1,Brachycera,A,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,2.5,1,0.098145022
+Montana Creek,Dolly Varden, 2021-06-09,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-09,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,3,0.095723834
+Montana Creek,Dolly Varden, 2021-06-09,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,2,0.39149329
+Montana Creek,Dolly Varden, 2021-06-09,2,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.047763768
+Montana Creek,Dolly Varden, 2021-06-09,2,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,7,1,1.204294056
+Montana Creek,Dolly Varden, 2021-06-09,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-06-09,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,5,1.42616032
+Montana Creek,Dolly Varden, 2021-06-09,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,4,2.1670784
+Montana Creek,Dolly Varden, 2021-06-09,2,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,2.5,1,0.10627943
+Montana Creek,Dolly Varden, 2021-06-09,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-06-09,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-06-09,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,2,3.002495013
+Montana Creek,Dolly Varden, 2021-06-09,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2.5,1,0.13469471
+Montana Creek,Dolly Varden, 2021-06-09,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,6,2,1.589923238
+Montana Creek,Dolly Varden, 2021-06-09,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,7,1,1.184689264
+Montana Creek,Dolly Varden, 2021-06-09,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,5,2,0.99187077
+Montana Creek,Dolly Varden, 2021-06-09,4,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,1,0.509069418
+Montana Creek,Dolly Varden, 2021-06-09,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-06-09,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-06-09,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,8,Empididae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3,2,0.95804084
+Montana Creek,Dolly Varden, 2021-06-09,8,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-09,8,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-09,8,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,8,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,2,0.39149329
+Montana Creek,Dolly Varden, 2021-06-09,8,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,10,1,0.416551982
+Montana Creek,Dolly Varden, 2021-06-09,8,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,8,1,1.781652178
+Montana Creek,Dolly Varden, 2021-06-09,8,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,17,3,48.76272109
+Montana Creek,Dolly Varden, 2021-06-09,8,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1.5,35,0.372898601
+Montana Creek,Dolly Varden, 2021-06-09,8,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2,1,0.030675914
+Montana Creek,Dolly Varden, 2021-06-09,8,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-06-09,8,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-09,8,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-09,8,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-06-09,11,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,4,1,0.308137087
+Montana Creek,Dolly Varden, 2021-06-09,11,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-06-09,11,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,4,1,0.121383358
+Montana Creek,Dolly Varden, 2021-06-09,11,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-09,11,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,11,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,1,0.072855168
+Montana Creek,Dolly Varden, 2021-06-09,11,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,2.5,1,0.082482054
+Montana Creek,Dolly Varden, 2021-06-09,11,Perlodidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Perlodidae,stoneflies,7,1,4.069254918
+Montana Creek,Dolly Varden, 2021-06-09,11,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.088851081
+Montana Creek,Dolly Varden, 2021-06-09,12,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-09,12,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,3,0.203228568
+Montana Creek,Dolly Varden, 2021-06-09,12,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-06-09,12,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,3,0.095723834
+Montana Creek,Dolly Varden, 2021-06-09,12,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-06-09,12,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,4,1,0.495116394
+Montana Creek,Dolly Varden, 2021-06-09,12,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-09,12,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,11,1,3.786945489
+Montana Creek,Dolly Varden, 2021-06-09,12,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-06-09,12,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-06-09,12,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-06-09,12,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,4,1,0.194639506
+Montana Creek,Dolly Varden, 2021-06-09,12,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,4,1,0.278369714
+Montana Creek,Dolly Varden, 2021-06-09,17,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-06-09,17,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-09,17,Brachycera,P,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,9,1,1.174170381
+Montana Creek,Dolly Varden, 2021-06-09,17,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-06-09,18,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,5,1,0.947191171
+Montana Creek,Dolly Varden, 2021-06-09,18,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-06-09,19,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,10,1.247382012
+Montana Creek,Dolly Varden, 2021-06-09,19,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-06-09,19,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,4,0.155523886
+Montana Creek,Dolly Varden, 2021-06-09,19,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,3,0.667631694
+Montana Creek,Dolly Varden, 2021-06-09,19,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-09,19,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,2.5,2,0.090501552
+Montana Creek,Dolly Varden, 2021-06-09,19,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,2,0.170068209
+Montana Creek,Dolly Varden, 2021-06-09,19,Perlodidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Perlodidae,stoneflies,15,1,32.89260757
+Montana Creek,Dolly Varden, 2021-06-09,19,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,3,1,0.081767503
+Montana Creek,Dolly Varden, 2021-06-09,19,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,19,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,1,0.509069418
+Montana Creek,Dolly Varden, 2021-06-09,20,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-09,20,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-06-09,20,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-06-09,20,Blephariceridae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Blephariceridae,net-winged midges,2.5,1,0.136802272
+Montana Creek,Dolly Varden, 2021-06-09,20,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-09,20,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-06-09,20,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-09,20,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-09,21,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,2,1.018138837
+Montana Creek,Dolly Varden, 2021-06-09,21,Neothremma,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Uenoidae,caddisflies,5,1,0.540211555
+Montana Creek,Dolly Varden, 2021-06-09,21,Ephemerellidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.880700239
+Montana Creek,Dolly Varden, 2021-06-09,21,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,8,1,1.719089004
+Montana Creek,Dolly Varden, 2021-06-09,21,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-06-09,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-06-09,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,4,2.1670784
+Montana Creek,Dolly Varden, 2021-06-09,21,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,12,1,4.698991774
+Montana Creek,Dolly Varden, 2021-06-09,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-06-09,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,15,1,10.38929185
+Montana Creek,Dolly Varden, 2021-06-09,25,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,7,1,0.534694656
+Montana Creek,Dolly Varden, 2021-06-09,25,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,7,1,0.700842119
+Montana Creek,Dolly Varden, 2021-06-09,25,Baetidae,A,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.770128768
+Montana Creek,Dolly Varden, 2021-06-09,25,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-09,25,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,2,1.018138837
+Montana Creek,Dolly Varden, 2021-06-09,25,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,4,1,1.463533877
+Montana Creek,Dolly Varden, 2021-06-09,25,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,2,3.002495013
+Montana Creek,Dolly Varden, 2021-06-09,25,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-06-09,25,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,9,2,9.171441962
+Montana Creek,Dolly Varden, 2021-06-09,25,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,5,1,0.535896358
+Montana Creek,Dolly Varden, 2021-06-09,25,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-06-09,25,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-09,25,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,5,1,0.958003565
+Montana Creek,Dolly Varden, 2021-06-09,26,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,1,2.531890714
+Montana Creek,Dolly Varden, 2021-06-09,26,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.375929266
+Montana Creek,Dolly Varden, 2021-06-09,26,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-06-09,26,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-06-09,26,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,2,0.039601488
+Montana Creek,Dolly Varden, 2021-06-09,26,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-09,26,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,10,1,2.989752203
+Montana Creek,Dolly Varden, 2021-06-09,26,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,6,1,0.482858169
+Montana Creek,Dolly Varden, 2021-06-15,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,9,1,0.565620514
+Montana Creek,Dolly Varden, 2021-06-15,16,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-06-15,16,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-06-15,16,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,8,2,3.563304357
+Montana Creek,Dolly Varden, 2021-06-15,16,Limnephilidae,P,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,17,1,16.25424036
+Montana Creek,Dolly Varden, 2021-06-15,16,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-06-15,16,Chilopoda,U,non-insect,Terrestrial,Arthropoda: Chilopoda,miscellaneous non-insect,x,centipedes,6,1,0.379510164
+Montana Creek,Dolly Varden, 2021-06-15,16,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,10,1,0.416551982
+Montana Creek,Dolly Varden, 2021-06-15,16,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,3,1,0.65230374
+Montana Creek,Dolly Varden, 2021-06-15,17,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,7,1,1.204294056
+Montana Creek,Dolly Varden, 2021-06-15,17,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-06-15,17,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-15,17,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-15,17,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-06-15,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-15,21,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,2,0.498812128
+Montana Creek,Dolly Varden, 2021-06-15,21,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,6,2,0.570861989
+Montana Creek,Dolly Varden, 2021-06-15,21,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,1,2.531890714
+Montana Creek,Dolly Varden, 2021-06-15,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-06-15,21,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,4,1,0.288532266
+Montana Creek,Dolly Varden, 2021-06-15,21,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-06-15,21,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-06-15,21,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-06-15,21,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,11,1,1.796270704
+Montana Creek,Dolly Varden, 2021-06-15,21,Brachycera,P,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,6,1,0.411489848
+Montana Creek,Dolly Varden, 2021-06-15,27,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,4,1,0.194639506
+Montana Creek,Dolly Varden, 2021-06-15,27,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-15,27,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-06-15,27,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-06-15,27,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,10,1,0.416551982
+Montana Creek,Dolly Varden, 2021-06-15,27,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,5,1,0.477246969
+Montana Creek,Dolly Varden, 2021-06-15,27,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-15,28,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-15,28,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-06-15,28,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,4,1,0.170873131
+Montana Creek,Dolly Varden, 2021-06-15,28,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.141361926
+Montana Creek,Dolly Varden, 2021-06-15,28,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-15,28,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-06-15,28,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-06-15,29,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-06-15,29,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-15,29,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-06-15,29,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-06-15,29,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,2.5,1,0.0338187
+Montana Creek,Dolly Varden, 2021-06-15,29,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,4,1,0.28374275
+Montana Creek,Dolly Varden, 2021-06-15,30,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,5,1,2.739195353
+Montana Creek,Dolly Varden, 2021-06-15,30,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-15,30,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-15,30,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,6,1,0.766262564
+Montana Creek,Dolly Varden, 2021-06-15,30,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-06-15,33,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,9,1,2.302271927
+Montana Creek,Dolly Varden, 2021-06-15,33,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,3,1,0.049060679
+Montana Creek,Dolly Varden, 2021-06-15,33,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,5,2,0.380712605
+Montana Creek,Dolly Varden, 2021-06-15,33,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,6,2,0.621946704
+Montana Creek,Dolly Varden, 2021-06-15,33,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-15,33,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-06-15,33,Tipuloidea,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,7,1,1.204670612
+Montana Creek,Dolly Varden, 2021-06-15,34,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-15,35,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,11,17.2541598
+Montana Creek,Dolly Varden, 2021-06-15,35,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,11,1,7.620303902
+Montana Creek,Dolly Varden, 2021-06-15,35,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,30,1,60.29303151
+Montana Creek,Dolly Varden, 2021-06-15,36,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,1,1.161966478
+Montana Creek,Dolly Varden, 2021-06-15,36,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,4,5.482353057
+Montana Creek,Dolly Varden, 2021-06-15,36,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,5,7.842799911
+Montana Creek,Dolly Varden, 2021-06-15,36,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-06-15,36,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-15,39,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,2,2.741176529
+Montana Creek,Dolly Varden, 2021-06-15,39,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-15,39,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-15,39,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-17,31,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,2,1.018138837
+Montana Creek,Dolly Varden, 2021-06-17,37,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,1,0.509069418
+Montana Creek,Dolly Varden, 2021-06-17,37,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,13,1,7.400411062
+Montana Creek,Dolly Varden, 2021-06-17,40,Amphizoa,L,insect,Aquatic,Arthropoda: Insecta,Coleoptera,Amphizoidae,trout stream beetles,8,1,3.269509377
+Montana Creek,Dolly Varden, 2021-06-17,40,Tabanidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tabanidae,horse & deer flies,9,1,1.483926349
+Montana Creek,Dolly Varden, 2021-06-17,40,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-17,40,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,18,1,10.4017742
+Montana Creek,Dolly Varden, 2021-06-17,43,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,5,1,0.495935385
+Montana Creek,Dolly Varden, 2021-06-17,43,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,1,2.531890714
+Montana Creek,Dolly Varden, 2021-06-17,44,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,1,0.509069418
+Montana Creek,Dolly Varden, 2021-06-17,44,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-06-17,48,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-17,48,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.595118013
+Montana Creek,Dolly Varden, 2021-06-17,48,Oribatida,U,non-insect,Terrestrial,Arachnida: Acari,x,x,mites,1,1,0.053
+Montana Creek,Dolly Varden, 2021-06-17,48,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,9,1,4.585720981
+Montana Creek,Dolly Varden, 2021-06-17,48,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-06-17,48,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,3,1,0.054656535
+Montana Creek,Dolly Varden, 2021-06-17,48,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-06-17,48,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,12,1,5.657220037
+Montana Creek,Dolly Varden, 2021-06-17,48,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,2,1.156756936
+Montana Creek,Dolly Varden, 2021-06-17,48,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,7,1,0.875046624
+Montana Creek,Dolly Varden, 2021-06-17,48,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,3,1,0.211416327
+Montana Creek,Dolly Varden, 2021-06-17,48,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,4,2,0.990232788
+Montana Creek,Dolly Varden, 2021-06-17,48,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,5,1,0.958003565
+Montana Creek,Dolly Varden, 2021-06-17,48,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-06-17,48,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,3,1,0.13221494
+Montana Creek,Dolly Varden, 2021-06-17,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-06-17,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,12,1.496858414
+Montana Creek,Dolly Varden, 2021-06-17,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,6,1.711392384
+Montana Creek,Dolly Varden, 2021-06-17,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,5,2.708848
+Montana Creek,Dolly Varden, 2021-06-17,48,Blephariceridae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Blephariceridae,net-winged midges,3,3,0.747961473
+Montana Creek,Dolly Varden, 2021-06-17,48,Blephariceridae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Blephariceridae,net-winged midges,4,2,1.285542058
+Montana Creek,Dolly Varden, 2021-06-17,48,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-06-17,48,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,2,0.460162439
+Montana Creek,Dolly Varden, 2021-06-17,48,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,6,1,0.766262564
+Montana Creek,Dolly Varden, 2021-06-17,48,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-06-17,48,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-17,49,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,2,1.156756936
+Montana Creek,Dolly Varden, 2021-06-17,50,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.047763768
+Montana Creek,Dolly Varden, 2021-06-17,52,Perlodidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Perlodidae,stoneflies,6,2,5.333064001
+Montana Creek,Dolly Varden, 2021-06-17,52,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,11,1,4.463412558
+Montana Creek,Dolly Varden, 2021-06-17,52,Blephariceridae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Blephariceridae,net-winged midges,4,1,0.642771029
+Montana Creek,Dolly Varden, 2021-06-17,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-06-17,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-06-17,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,9,1,4.585720981
+Montana Creek,Dolly Varden, 2021-06-17,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,10,1,6.129481738
+Montana Creek,Dolly Varden, 2021-06-17,52,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-06-17,52,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3.5,1,0.14495361
+Montana Creek,Dolly Varden, 2021-06-17,52,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.595118013
+Montana Creek,Dolly Varden, 2021-06-17,52,Ephemerellidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,6,2,2.490003551
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.005201197
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,3,0.033127545
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,2,0.135485712
+Montana Creek,Dolly Varden, 2021-06-17,53,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-17,53,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-17,53,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,8,1,1.874694396
+Montana Creek,Dolly Varden, 2021-06-17,53,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,2,0.232823561
+Montana Creek,Dolly Varden, 2021-06-17,53,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,2.5,1,0.082482054
+Montana Creek,Dolly Varden, 2021-06-17,53,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,13,1,7.035501311
+Montana Creek,Dolly Varden, 2021-06-21,1,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,31,1,67.49230044
+Montana Creek,Dolly Varden, 2021-06-21,1,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-21,1,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,10,1,1.391227001
+Montana Creek,Dolly Varden, 2021-06-21,1,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-06-21,1,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,3,3.485899435
+Montana Creek,Dolly Varden, 2021-06-21,1,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,65,1,1.664275
+Montana Creek,Dolly Varden, 2021-06-21,3,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-06-21,3,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-21,3,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-21,3,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-21,4,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-06-21,4,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-06-21,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-21,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-06-21,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-06-21,4,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,5,2,1.018138837
+Montana Creek,Dolly Varden, 2021-06-21,4,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-06-21,23,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-21,23,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,6,1,4.571335817
+Montana Creek,Dolly Varden, 2021-06-21,23,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,8,1,0.353147223
+Montana Creek,Dolly Varden, 2021-06-21,23,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-21,23,Empididae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3.5,1,0.131096471
+Montana Creek,Dolly Varden, 2021-06-21,23,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-06-21,23,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,9,1,1.048871212
+Montana Creek,Dolly Varden, 2021-06-21,23,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-21,25,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,3,2,0.26442988
+Montana Creek,Dolly Varden, 2021-06-21,25,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,4,1,0.278369714
+Montana Creek,Dolly Varden, 2021-06-21,25,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-06-21,25,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,2,0.445087796
+Montana Creek,Dolly Varden, 2021-06-21,25,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-06-21,25,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-06-21,25,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,7,1,0.534694656
+Montana Creek,Dolly Varden, 2021-06-21,25,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-06-21,27,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,5,0.623691006
+Montana Creek,Dolly Varden, 2021-06-21,27,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-06-21,27,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-06-21,27,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.088851081
+Montana Creek,Dolly Varden, 2021-06-21,27,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-21,27,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-06-21,27,Ceratopogoninae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Ceratopogonidae,no-see-um midges,8,1,0.424296243
+Montana Creek,Dolly Varden, 2021-06-21,27,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,4,1,0.28374275
+Montana Creek,Dolly Varden, 2021-06-21,27,Aphididae,L,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,1.5,1,0.120304678
+Montana Creek,Dolly Varden, 2021-06-21,30,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-21,30,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-06-21,30,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-21,30,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-06-21,30,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-06-21,30,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-21,35,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,3,1,0.65230374
+Montana Creek,Dolly Varden, 2021-06-21,35,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,7,1,0.875046624
+Montana Creek,Dolly Varden, 2021-06-21,35,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,2,2.741176529
+Montana Creek,Dolly Varden, 2021-06-21,35,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-21,35,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-06-21,35,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,5,5,126.6896904
+Montana Creek,Dolly Varden, 2021-06-21,36,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-21,36,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-21,36,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,1.5,1,0.032989754
+Montana Creek,Dolly Varden, 2021-06-21,36,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.413179363
+Montana Creek,Dolly Varden, 2021-06-21,37,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,5,6.852941322
+Montana Creek,Dolly Varden, 2021-06-21,37,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,5,1,0.958003565
+Montana Creek,Dolly Varden, 2021-06-21,37,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-06-21,37,Perlodidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Perlodidae,stoneflies,8,1,5.868523063
+Montana Creek,Dolly Varden, 2021-06-21,37,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-06-21,37,Trichoptera,A,insect,Aquatic,Arthropoda: Insecta,Trichoptera,x,caddisflies,6,1,1.805671012
+Montana Creek,Dolly Varden, 2021-06-24,34,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-24,34,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.595118013
+Montana Creek,Dolly Varden, 2021-06-24,58,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,19,1,22.96290008
+Montana Creek,Dolly Varden, 2021-06-24,58,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-06-24,58,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,2,1.034181677
+Montana Creek,Dolly Varden, 2021-06-24,58,Empididae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,1.519610204
+Montana Creek,Dolly Varden, 2021-06-24,58,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,10,2,10.95931971
+Montana Creek,Dolly Varden, 2021-06-24,86,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-30,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,6,0.748429207
+Montana Creek,Dolly Varden, 2021-06-30,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-06-30,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,2,1.0835392
+Montana Creek,Dolly Varden, 2021-06-30,2,Ephydridae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Ephydridae,shore and brine flies,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-06-30,2,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-06-30,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,1.5,1,0.032989754
+Montana Creek,Dolly Varden, 2021-06-30,20,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-30,20,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-06-30,20,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-06-30,20,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-06-30,20,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-06-30,21,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-06-30,21,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-06-30,22,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,34,1,92.73794733
+Montana Creek,Dolly Varden, 2021-06-30,22,Baetidae,A,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.441832252
+Montana Creek,Dolly Varden, 2021-06-30,22,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-30,22,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-06-30,25,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-30,36,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-30,39,Dytiscidae,A,insect,Aquatic,Arthropoda: Insecta,Coleoptera,Dytiscidae,predaceous diving beetles,3,1,0.965485719
+Montana Creek,Dolly Varden, 2021-06-30,39,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,2,0.508930729
+Montana Creek,Dolly Varden, 2021-06-30,39,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-30,39,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,6,1.711392384
+Montana Creek,Dolly Varden, 2021-06-30,39,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,2,1.0835392
+Montana Creek,Dolly Varden, 2021-06-30,39,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-06-30,39,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3.5,1,0.14495361
+Montana Creek,Dolly Varden, 2021-06-30,39,Taeniopterygidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Taeniopterygidae,stoneflies,2,1,0.045348939
+Montana Creek,Dolly Varden, 2021-06-30,40,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-30,42,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-06-30,42,Dolophilodes,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Philopotamidae,caddisflies,7,1,0.662233556
+Montana Creek,Dolly Varden, 2021-06-30,42,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-06-30,43,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-06-30,44,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-06-30,44,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-06-30,44,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-06-30,44,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-06-30,44,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,2,0.145710336
+Montana Creek,Dolly Varden, 2021-06-30,44,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-06-30,44,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-06-30,44,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-06-30,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-06-30,48,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-06-30,48,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,5,1,0.190356302
+Montana Creek,Dolly Varden, 2021-07-02,3,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,6,1,0.766262564
+Montana Creek,Dolly Varden, 2021-07-02,39,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,2,0.508930729
+Montana Creek,Dolly Varden, 2021-07-02,41,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,16,1,12.38614584
+Montana Creek,Dolly Varden, 2021-07-02,41,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-02,41,Brachycera,A,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,5,1,0.81284879
+Montana Creek,Dolly Varden, 2021-07-02,41,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-02,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,1.5,1,0.032989754
+Montana Creek,Dolly Varden, 2021-07-02,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,2,1.817260317
+Montana Creek,Dolly Varden, 2021-07-02,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-02,41,Empididae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.917731359
+Montana Creek,Dolly Varden, 2021-07-02,41,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,7,1,1.234463728
+Montana Creek,Dolly Varden, 2021-07-02,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-02,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-02,44,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-02,45,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-02,46,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-07-02,47,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,4,1,0.097948733
+Montana Creek,Dolly Varden, 2021-07-02,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-07-02,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-07-02,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-02,48,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-02,48,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-02,48,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,2,0.445087796
+Montana Creek,Dolly Varden, 2021-07-02,49,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-02,49,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-07-02,49,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,5,0.623691006
+Montana Creek,Dolly Varden, 2021-07-02,49,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-07-02,49,Tipuloidea,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.598102853
+Montana Creek,Dolly Varden, 2021-07-02,49,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,1,1.161966478
+Montana Creek,Dolly Varden, 2021-07-02,49,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-07-02,50,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-06,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-07-06,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-07-06,2,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,2.5,1,0.290234983
+Montana Creek,Dolly Varden, 2021-07-06,7,Neothremma,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Uenoidae,caddisflies,5,1,0.540211555
+Montana Creek,Dolly Varden, 2021-07-06,7,Neuroptera,L,insect,Terrestrial,Arthropoda: Insecta,Neuroptera,x,x,7,1,0.9513652
+Montana Creek,Dolly Varden, 2021-07-06,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-07-06,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-06,7,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-07-06,15,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,2,0.356396936
+Montana Creek,Dolly Varden, 2021-07-06,15,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,4,1,0.144207261
+Montana Creek,Dolly Varden, 2021-07-06,15,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,13,1,5.730792823
+Montana Creek,Dolly Varden, 2021-07-06,15,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,8,1,0.415584174
+Montana Creek,Dolly Varden, 2021-07-06,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-07-06,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-07-06,15,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-07-06,15,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-06,15,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,7,2,1.401684238
+Montana Creek,Dolly Varden, 2021-07-06,17,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,4,1,0.21144314
+Montana Creek,Dolly Varden, 2021-07-06,17,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-07-06,17,Carabidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Carabidae,ground beetles,5,1,1.843918815
+Montana Creek,Dolly Varden, 2021-07-06,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,11,1.372120213
+Montana Creek,Dolly Varden, 2021-07-06,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,16,4.563713025
+Montana Creek,Dolly Varden, 2021-07-06,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,11,5.9594656
+Montana Creek,Dolly Varden, 2021-07-06,21,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.216938473
+Montana Creek,Dolly Varden, 2021-07-06,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,4,1,0.28374275
+Montana Creek,Dolly Varden, 2021-07-06,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-07-06,21,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-07-06,21,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-06,21,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.047763768
+Montana Creek,Dolly Varden, 2021-07-06,21,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,3,0.364416692
+Montana Creek,Dolly Varden, 2021-07-06,21,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.216938473
+Montana Creek,Dolly Varden, 2021-07-06,21,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-07-06,21,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,3,0.389900583
+Montana Creek,Dolly Varden, 2021-07-06,21,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-07-06,21,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,7,1,0.555878148
+Montana Creek,Dolly Varden, 2021-07-06,21,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,4,2,0.515356453
+Montana Creek,Dolly Varden, 2021-07-06,21,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-07-06,21,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-07-06,26,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,4,1,0.119267148
+Montana Creek,Dolly Varden, 2021-07-06,26,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,4,0.498952805
+Montana Creek,Dolly Varden, 2021-07-06,26,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-06,26,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-07-06,33,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-06,33,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-06,33,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-07-06,33,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-07-06,33,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,10,1,5.184581496
+Montana Creek,Dolly Varden, 2021-07-06,33,Carabidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Carabidae,ground beetles,6,1,3.019664816
+Montana Creek,Dolly Varden, 2021-07-06,35,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-06,36,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-07-06,36,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,9,1,2.302271927
+Montana Creek,Dolly Varden, 2021-07-06,36,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,9,1,3.805683643
+Montana Creek,Dolly Varden, 2021-07-06,36,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-07-06,36,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,2,0.570464128
+Montana Creek,Dolly Varden, 2021-07-06,36,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,3,1.6253088
+Montana Creek,Dolly Varden, 2021-07-06,36,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-07-06,36,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-06,36,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,20,1,14.94559431
+Montana Creek,Dolly Varden, 2021-07-06,36,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,4,1,0.652608324
+Montana Creek,Dolly Varden, 2021-07-06,36,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,6,1,0.794961619
+Montana Creek,Dolly Varden, 2021-07-06,40,Dytiscidae,A,insect,Aquatic,Arthropoda: Insecta,Coleoptera,Dytiscidae,predaceous diving beetles,3.5,1,1.419863915
+Montana Creek,Dolly Varden, 2021-07-06,40,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-07-06,40,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-06,51,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,13,2,14.80082212
+Montana Creek,Dolly Varden, 2021-07-06,52,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-06,53,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-06,53,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,15,1,16.62533833
+Montana Creek,Dolly Varden, 2021-07-06,53,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,18,1,22.61665824
+Montana Creek,Dolly Varden, 2021-07-06,53,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,3,1,0.160471841
+Montana Creek,Dolly Varden, 2021-07-06,55,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,5,1,0.448889053
+Montana Creek,Dolly Varden, 2021-07-06,55,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,15,1,11.25992905
+Montana Creek,Dolly Varden, 2021-07-06,55,Tipuloidea,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,10,1,2.530575475
+Montana Creek,Dolly Varden, 2021-07-06,55,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,1.5,1,0.049439893
+Montana Creek,Dolly Varden, 2021-07-06,55,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-07-06,55,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1.5,1,0.010654246
+Montana Creek,Dolly Varden, 2021-07-06,55,Aphididae,L,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,1.5,1,0.120304678
+Montana Creek,Dolly Varden, 2021-07-13,4,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.048827581
+Montana Creek,Dolly Varden, 2021-07-13,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-07-13,4,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,2,0.39149329
+Montana Creek,Dolly Varden, 2021-07-13,4,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,3,2,0.320943681
+Montana Creek,Dolly Varden, 2021-07-13,4,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,14,1,8.609265989
+Montana Creek,Dolly Varden, 2021-07-13,4,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,8,2,1.52972107
+Montana Creek,Dolly Varden, 2021-07-13,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,5,1,0.495935385
+Montana Creek,Dolly Varden, 2021-07-13,4,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,7,1,1.184689264
+Montana Creek,Dolly Varden, 2021-07-13,4,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,7,1,1.389595072
+Montana Creek,Dolly Varden, 2021-07-13,4,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,20,1,14.94559431
+Montana Creek,Dolly Varden, 2021-07-13,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-07-13,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,5,0.623691006
+Montana Creek,Dolly Varden, 2021-07-13,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-07-13,4,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-13,4,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-07-13,4,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-13,4,Oribatida,U,non-insect,Terrestrial,Arachnida: Acari,x,x,mites,1.5,1,0.145695947
+Montana Creek,Dolly Varden, 2021-07-13,4,Empididae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-07-13,4,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3,1,0.088541011
+Montana Creek,Dolly Varden, 2021-07-13,4,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.216938473
+Montana Creek,Dolly Varden, 2021-07-13,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-07-13,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-13,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-07-13,4,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,5,2,0.334913498
+Montana Creek,Dolly Varden, 2021-07-13,4,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,17,1,3.171070789
+Montana Creek,Dolly Varden, 2021-07-13,4,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,5,1,0.302661536
+Montana Creek,Dolly Varden, 2021-07-13,4,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,12,2,4.536416425
+Montana Creek,Dolly Varden, 2021-07-13,4,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,1.5,1,0.049439893
+Montana Creek,Dolly Varden, 2021-07-13,4,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-07-13,7,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-07-13,7,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-07-13,7,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,3,3.226874844
+Montana Creek,Dolly Varden, 2021-07-13,7,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2,1,0.030675914
+Montana Creek,Dolly Varden, 2021-07-13,7,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-13,7,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-07-13,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-07-13,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-07-13,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,5,1.42616032
+Montana Creek,Dolly Varden, 2021-07-13,7,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-13,7,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-07-13,7,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,4,1,0.278369714
+Montana Creek,Dolly Varden, 2021-07-13,7,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,7,1,1.184689264
+Montana Creek,Dolly Varden, 2021-07-13,7,Trombidiformes,U,non-insect,Aquatic,Arachnida: Acari,Trombidiformes,x,mites,1,1,0.053
+Montana Creek,Dolly Varden, 2021-07-13,7,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-07-13,7,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,2.5,1,0.04276937
+Montana Creek,Dolly Varden, 2021-07-13,7,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,4,1,0.547981421
+Montana Creek,Dolly Varden, 2021-07-13,7,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,3,0.763396094
+Montana Creek,Dolly Varden, 2021-07-13,7,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,2,0.259933722
+Montana Creek,Dolly Varden, 2021-07-13,7,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-07-13,7,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,2,0.145710336
+Montana Creek,Dolly Varden, 2021-07-13,7,Neuroptera,L,insect,Terrestrial,Arthropoda: Insecta,Neuroptera,x,x,7,1,0.9513652
+Montana Creek,Dolly Varden, 2021-07-13,7,Aphididae,L,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,1.5,1,0.120304678
+Montana Creek,Dolly Varden, 2021-07-13,10,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-13,10,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-07-13,10,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-13,10,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.595118013
+Montana Creek,Dolly Varden, 2021-07-13,10,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,0.5,1,0.000661611
+Montana Creek,Dolly Varden, 2021-07-13,10,Hydrophilidae,L,insect,Aquatic,Arthropoda: Insecta,Coleoptera,Hydrophilidae,water scavenger beetles,5,1,0.832709344
+Montana Creek,Dolly Varden, 2021-07-13,10,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,6,9.007485038
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,11,25.24738733
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,2,6.630764067
+Montana Creek,Dolly Varden, 2021-07-13,13,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,4,1.017861459
+Montana Creek,Dolly Varden, 2021-07-13,13,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-07-13,13,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-07-13,13,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,6,1,0.935743733
+Montana Creek,Dolly Varden, 2021-07-13,13,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,3,0.203228568
+Montana Creek,Dolly Varden, 2021-07-13,13,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,3,0.364416692
+Montana Creek,Dolly Varden, 2021-07-13,13,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,2,0.39149329
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,2,0.445087796
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,4,1.965879812
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,3,2.725890475
+Montana Creek,Dolly Varden, 2021-07-13,13,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,6,2,1.589923238
+Montana Creek,Dolly Varden, 2021-07-13,13,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,6,1,0.365553782
+Montana Creek,Dolly Varden, 2021-07-13,13,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-07-13,13,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-07-13,13,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,2,0.077761943
+Montana Creek,Dolly Varden, 2021-07-13,13,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,7,0.873167408
+Montana Creek,Dolly Varden, 2021-07-13,13,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,20,5.704641281
+Montana Creek,Dolly Varden, 2021-07-13,13,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,8,4.3341568
+Montana Creek,Dolly Varden, 2021-07-13,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2.5,1,0.13469471
+Montana Creek,Dolly Varden, 2021-07-13,13,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,13,1,5.730792823
+Montana Creek,Dolly Varden, 2021-07-13,13,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,3,1,0.068532339
+Montana Creek,Dolly Varden, 2021-07-13,13,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,4,1,0.194639506
+Montana Creek,Dolly Varden, 2021-07-13,13,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,4,2.313513871
+Montana Creek,Dolly Varden, 2021-07-13,13,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,6,1,0.310973352
+Montana Creek,Dolly Varden, 2021-07-13,13,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-07-13,13,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,9,1,2.302271927
+Montana Creek,Dolly Varden, 2021-07-13,13,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,10,1,1.391227001
+Montana Creek,Dolly Varden, 2021-07-13,17,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-07-13,17,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,5,1,0.448889053
+Montana Creek,Dolly Varden, 2021-07-13,17,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-07-13,17,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-07-13,17,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,2,0.460162439
+Montana Creek,Dolly Varden, 2021-07-13,17,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-07-13,20,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2,2,0.061351827
+Montana Creek,Dolly Varden, 2021-07-13,20,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-07-13,20,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-13,20,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-07-13,20,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,25,1,32.20205847
+Montana Creek,Dolly Varden, 2021-07-13,20,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-13,25,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.047763768
+Montana Creek,Dolly Varden, 2021-07-13,25,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-07-13,25,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-07-13,25,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,2,0.460162439
+Montana Creek,Dolly Varden, 2021-07-13,25,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,3,1,0.397427786
+Montana Creek,Dolly Varden, 2021-07-13,25,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,3.5,1,0.071060257
+Montana Creek,Dolly Varden, 2021-07-13,25,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-13,25,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,1,1.075624948
+Montana Creek,Dolly Varden, 2021-07-13,54,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-07-13,54,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,4,1,0.119267148
+Montana Creek,Dolly Varden, 2021-07-13,54,Coleoptera,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,6,1,4.532932921
+Montana Creek,Dolly Varden, 2021-07-13,54,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,3,1.493864032
+Montana Creek,Dolly Varden, 2021-07-13,54,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3,1,0.085034104
+Montana Creek,Dolly Varden, 2021-07-13,54,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,7,1,1.204294056
+Montana Creek,Dolly Varden, 2021-07-13,54,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,18,1,6.726413847
+Montana Creek,Dolly Varden, 2021-07-13,54,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-07-13,64,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,3,0.116642914
+Montana Creek,Dolly Varden, 2021-07-13,64,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,1.5,3,0.05101049
+Montana Creek,Dolly Varden, 2021-07-13,64,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-13,64,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-13,64,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-13,64,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-13,64,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-07-13,64,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-07-13,64,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,1.5,4,0.131959018
+Montana Creek,Dolly Varden, 2021-07-13,64,Muscidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Muscidae,higher flies,3,1,0.048122749
+Montana Creek,Dolly Varden, 2021-07-13,64,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-07-15,38,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-07-15,38,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,2,0.249476402
+Montana Creek,Dolly Varden, 2021-07-15,38,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-07-15,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-15,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-15,41,Glossosomatidae,A,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,7,1,2.823477401
+Montana Creek,Dolly Varden, 2021-07-15,41,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-07-15,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-07-15,41,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-15,41,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-15,47,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,5,0.623691006
+Montana Creek,Dolly Varden, 2021-07-15,47,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,5,1.42616032
+Montana Creek,Dolly Varden, 2021-07-15,47,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,8,4.3341568
+Montana Creek,Dolly Varden, 2021-07-15,47,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-15,47,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-07-15,47,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-07-15,47,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-07-15,47,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,1,1.075624948
+Montana Creek,Dolly Varden, 2021-07-15,47,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,3,1,0.13221494
+Montana Creek,Dolly Varden, 2021-07-15,47,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,29,1,24.15944928
+Montana Creek,Dolly Varden, 2021-07-15,47,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-07-15,47,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,7,1,0.293017849
+Montana Creek,Dolly Varden, 2021-07-15,49,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-07-15,50,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,9,1,1.451761212
+Montana Creek,Dolly Varden, 2021-07-15,50,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2,1,0.030675914
+Montana Creek,Dolly Varden, 2021-07-15,50,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-15,50,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-15,50,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,2.5,1,0.10627943
+Montana Creek,Dolly Varden, 2021-07-15,50,Tipuloidea,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.874081738
+Montana Creek,Dolly Varden, 2021-07-15,50,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,2,0.995909354
+Montana Creek,Dolly Varden, 2021-07-15,50,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,7,1,0.700842119
+Montana Creek,Dolly Varden, 2021-07-15,50,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-07-15,50,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-07-15,50,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-07-15,50,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,3,6.885651091
+Montana Creek,Dolly Varden, 2021-07-15,50,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-15,50,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-07-15,50,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,5,1,0.302661536
+Montana Creek,Dolly Varden, 2021-07-15,50,Capniidae,A,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,6,1,5.370923432
+Montana Creek,Dolly Varden, 2021-07-15,51,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-07-15,51,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,3,0.203228568
+Montana Creek,Dolly Varden, 2021-07-15,51,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,4,0.485888922
+Montana Creek,Dolly Varden, 2021-07-15,51,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,3,0.095723834
+Montana Creek,Dolly Varden, 2021-07-15,51,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,3,2,0.320943681
+Montana Creek,Dolly Varden, 2021-07-15,51,Brachycera,A,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,5,1,0.81284879
+Montana Creek,Dolly Varden, 2021-07-15,51,Blephariceridae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Blephariceridae,net-winged midges,6,1,2.442017203
+Montana Creek,Dolly Varden, 2021-07-15,51,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,13,1,5.730792823
+Montana Creek,Dolly Varden, 2021-07-15,51,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-15,51,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,6,1,0.365553782
+Montana Creek,Dolly Varden, 2021-07-15,51,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-07-15,51,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-07-15,51,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-15,51,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,7,1,0.700842119
+Montana Creek,Dolly Varden, 2021-07-15,51,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,2.5,2,0.580469967
+Montana Creek,Dolly Varden, 2021-07-15,51,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,1.5,1,0.120304678
+Montana Creek,Dolly Varden, 2021-07-15,51,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,4,1.965879812
+Montana Creek,Dolly Varden, 2021-07-15,51,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,3,2.725890475
+Montana Creek,Dolly Varden, 2021-07-15,51,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,5,7.506237532
+Montana Creek,Dolly Varden, 2021-07-15,51,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-07-15,51,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,2,2.606096022
+Montana Creek,Dolly Varden, 2021-07-15,51,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3,1,0.088541011
+Montana Creek,Dolly Varden, 2021-07-15,51,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-07-15,51,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,3,3.226874844
+Montana Creek,Dolly Varden, 2021-07-15,51,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-07-15,51,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,4,1,0.308137087
+Montana Creek,Dolly Varden, 2021-07-15,51,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,5,1,0.947191171
+Montana Creek,Dolly Varden, 2021-07-15,51,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,5,1,0.497954677
+Montana Creek,Dolly Varden, 2021-07-15,51,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,6,1,0.935743733
+Montana Creek,Dolly Varden, 2021-07-15,51,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,9,1,1.048871212
+Montana Creek,Dolly Varden, 2021-07-15,51,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,6,0.748429207
+Montana Creek,Dolly Varden, 2021-07-15,51,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,9,2.567088576
+Montana Creek,Dolly Varden, 2021-07-15,51,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,4,2.1670784
+Montana Creek,Dolly Varden, 2021-07-15,52,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,14,1,6.887041866
+Montana Creek,Dolly Varden, 2021-07-15,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-07-15,52,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,9,1,2.814978486
+Montana Creek,Dolly Varden, 2021-07-15,52,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,15,1,11.8208367
+Montana Creek,Dolly Varden, 2021-07-15,52,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-15,52,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,2,1.0835392
+Montana Creek,Dolly Varden, 2021-07-15,52,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,4,1,0.170873131
+Montana Creek,Dolly Varden, 2021-07-15,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-15,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,2,1.817260317
+Montana Creek,Dolly Varden, 2021-07-15,52,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-07-15,52,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-07-15,52,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-07-15,52,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.048827581
+Montana Creek,Dolly Varden, 2021-07-15,52,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,5,1,0.354430665
+Montana Creek,Dolly Varden, 2021-07-15,52,Aphididae,L,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,1.5,1,0.120304678
+Montana Creek,Dolly Varden, 2021-07-15,52,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-07-15,52,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-07-15,52,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,1,0.440598902
+Montana Creek,Dolly Varden, 2021-07-15,52,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.216938473
+Montana Creek,Dolly Varden, 2021-07-15,52,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,6,1,0.794961619
+Montana Creek,Dolly Varden, 2021-07-15,52,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-07-15,54,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1,1,0.0024
+Montana Creek,Dolly Varden, 2021-07-15,55,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,3,1,0.160471841
+Montana Creek,Dolly Varden, 2021-07-15,55,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,4,1,0.28374275
+Montana Creek,Dolly Varden, 2021-07-15,55,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,6,1,0.856243648
+Montana Creek,Dolly Varden, 2021-07-15,55,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,8,1,1.874694396
+Montana Creek,Dolly Varden, 2021-07-15,55,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,4,1,0.170873131
+Montana Creek,Dolly Varden, 2021-07-15,55,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-07-15,55,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-07-15,55,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,8,1,0.764860535
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,4,1.965879812
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,3,2.725890475
+Montana Creek,Dolly Varden, 2021-07-15,55,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-07-15,55,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-07-15,55,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,12,3.422784769
+Montana Creek,Dolly Varden, 2021-07-15,55,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,10,5.417696
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,1,0.072855168
+Montana Creek,Dolly Varden, 2021-07-15,55,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,2,0.445087796
+Montana Creek,Dolly Varden, 2021-07-15,55,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-15,55,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-07-15,55,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-07-15,55,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,8,1,1.075624948
+Montana Creek,Dolly Varden, 2021-07-15,55,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-07-15,55,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,6,5,2.20299451
+Montana Creek,Dolly Varden, 2021-07-15,55,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,4,1,0.278369714
+Montana Creek,Dolly Varden, 2021-07-15,55,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,5,1,0.216938473
+Montana Creek,Dolly Varden, 2021-07-15,55,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,2,0.356396936
+Montana Creek,Dolly Varden, 2021-07-20,9,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-07-20,9,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,10,1,8.38549003
+Montana Creek,Dolly Varden, 2021-07-20,9,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-07-20,23,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,2,0.147700985
+Montana Creek,Dolly Varden, 2021-07-20,23,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-20,23,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-20,23,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,2,0.135485712
+Montana Creek,Dolly Varden, 2021-07-20,23,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-07-20,23,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2.5,1,0.019800744
+Montana Creek,Dolly Varden, 2021-07-20,24,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-20,24,Neuroptera,L,insect,Terrestrial,Arthropoda: Insecta,Neuroptera,x,x,8,1,1.489649926
+Montana Creek,Dolly Varden, 2021-07-20,25,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-07-20,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,8,12.00998005
+Montana Creek,Dolly Varden, 2021-07-20,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,9,20.65695327
+Montana Creek,Dolly Varden, 2021-07-20,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,10,33.15382034
+Montana Creek,Dolly Varden, 2021-07-20,62,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-07-20,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,10,4.914699531
+Montana Creek,Dolly Varden, 2021-07-20,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,4,3.634520634
+Montana Creek,Dolly Varden, 2021-07-20,62,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,1,0.038880971
+Montana Creek,Dolly Varden, 2021-07-20,62,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-07-20,62,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-07-20,62,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,2,1.0835392
+Montana Creek,Dolly Varden, 2021-07-20,63,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,4,0.498952805
+Montana Creek,Dolly Varden, 2021-07-20,63,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-07-20,63,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,4,2.1670784
+Montana Creek,Dolly Varden, 2021-07-20,63,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,3,0.116642914
+Montana Creek,Dolly Varden, 2021-07-20,63,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,6,5.451780951
+Montana Creek,Dolly Varden, 2021-07-20,63,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,2,3.002495013
+Montana Creek,Dolly Varden, 2021-07-20,63,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,4,1.965879812
+Montana Creek,Dolly Varden, 2021-07-20,63,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,20,1,29.48299501
+Montana Creek,Dolly Varden, 2021-07-20,63,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,6,13.77130218
+Montana Creek,Dolly Varden, 2021-07-20,63,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-07-20,63,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,4,0.127631778
+Montana Creek,Dolly Varden, 2021-07-20,63,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,4,1,0.23008122
+Montana Creek,Dolly Varden, 2021-07-20,65,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-07-20,65,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-07-20,65,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-07-20,65,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-07-20,65,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,12,1,4.698991774
+Montana Creek,Dolly Varden, 2021-07-20,65,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-07-20,2,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-07-20,2,Tipuloidea,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-07-20,2,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,3,1,0.089876375
+Montana Creek,Dolly Varden, 2021-07-20,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-20,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2,13,0.505452629
+Montana Creek,Dolly Varden, 2021-07-20,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-07-20,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,3,0.855696192
+Montana Creek,Dolly Varden, 2021-07-20,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,2,1,0.072855168
+Montana Creek,Dolly Varden, 2021-07-20,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1,1,0.0018
+Montana Creek,Dolly Varden, 2021-07-20,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,4,0.270971424
+Montana Creek,Dolly Varden, 2021-07-20,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,2,0.242944461
+Montana Creek,Dolly Varden, 2021-07-20,2,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-29,18,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-07-29,18,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-07-29,24,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,15,1,11.25992905
+Montana Creek,Dolly Varden, 2021-07-29,24,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-07-29,24,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-07-29,41,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,5,2,0.99187077
+Montana Creek,Dolly Varden, 2021-07-29,41,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,7,1,0.319920268
+Montana Creek,Dolly Varden, 2021-07-29,53,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-07-29,53,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,2,3.002495013
+Montana Creek,Dolly Varden, 2021-07-29,53,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,2,0.508930729
+Montana Creek,Dolly Varden, 2021-07-29,53,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,2,0.368356632
+Montana Creek,Dolly Varden, 2021-07-29,53,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,2,1.531240352
+Montana Creek,Dolly Varden, 2021-07-29,53,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-07-29,53,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-07-29,53,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-07-29,53,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-07-29,68,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,15,1,16.62533833
+Montana Creek,Dolly Varden, 2021-07-29,68,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,16,1,13.60642087
+Montana Creek,Dolly Varden, 2021-08-03,3,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-08-03,3,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,2,0.445087796
+Montana Creek,Dolly Varden, 2021-08-03,3,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-08-03,3,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-08-04,5,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,7,293.8797689
+Montana Creek,Dolly Varden, 2021-08-04,5,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-08-04,5,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-08-04,5,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-08-04,66,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-08-04,66,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,5,2,0.99187077
+Montana Creek,Dolly Varden, 2021-08-04,67,Staphylinidae,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,Staphylinidae,rove beetles,3.5,1,0.227351895
+Montana Creek,Dolly Varden, 2021-08-04,71,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,20,1,27.01886365
+Montana Creek,Dolly Varden, 2021-08-04,71,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,6,1,0.766262564
+Montana Creek,Dolly Varden, 2021-08-04,71,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3.5,1,0.194299417
+Montana Creek,Dolly Varden, 2021-08-09,1,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,9,377.8454171
+Montana Creek,Dolly Varden, 2021-08-09,1,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-08-09,1,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,9,9,13.35533714
+Montana Creek,Dolly Varden, 2021-08-09,29,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-08-12,4,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,7,293.8797689
+Montana Creek,Dolly Varden, 2021-08-12,4,Muscidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Muscidae,higher flies,5,1,0.190356302
+Montana Creek,Dolly Varden, 2021-08-12,4,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,2,3.899419867
+Montana Creek,Dolly Varden, 2021-08-12,7,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,12,503.7938895
+Montana Creek,Dolly Varden, 2021-08-12,7,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-08-12,13,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,29,1217.5019
+Montana Creek,Dolly Varden, 2021-08-12,13,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,15,1,11.8208367
+Montana Creek,Dolly Varden, 2021-08-12,13,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-08-12,13,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-08-12,13,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,3,1.556973242
+Montana Creek,Dolly Varden, 2021-08-12,13,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,7,7.655511278
+Montana Creek,Dolly Varden, 2021-08-12,13,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,8,15.59767947
+Montana Creek,Dolly Varden, 2021-08-12,28,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,11,461.8110654
+Montana Creek,Dolly Varden, 2021-08-12,28,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,13,2,15.81629451
+Montana Creek,Dolly Varden, 2021-08-12,28,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,1,1.093644468
+Montana Creek,Dolly Varden, 2021-08-12,28,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,7,1,0.555878148
+Montana Creek,Dolly Varden, 2021-08-12,32,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,27,1133.536251
+Montana Creek,Dolly Varden, 2021-08-12,32,Chilopoda,U,non-insect,Terrestrial,Arthropoda: Chilopoda,miscellaneous non-insect,x,centipedes,15,1,5.549736645
+Montana Creek,Dolly Varden, 2021-08-12,32,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,2,3.899419867
+Montana Creek,Dolly Varden, 2021-08-12,32,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-08-12,34,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,24,1007.587779
+Montana Creek,Dolly Varden, 2021-08-12,34,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,17,2,11.54148129
+Montana Creek,Dolly Varden, 2021-08-12,34,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-08-12,34,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-08-12,34,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,3,9.381015803
+Montana Creek,Dolly Varden, 2021-08-12,34,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,2,2.187288937
+Montana Creek,Dolly Varden, 2021-08-12,35,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,6,251.8969447
+Montana Creek,Dolly Varden, 2021-08-12,35,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,8,15.59767947
+Montana Creek,Dolly Varden, 2021-08-12,35,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-08-12,35,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,1,1.161966478
+Montana Creek,Dolly Varden, 2021-08-12,35,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-08-12,37,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,72,3022.763337
+Montana Creek,Dolly Varden, 2021-08-12,37,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,1.5,1,0.009274023
+Montana Creek,Dolly Varden, 2021-08-12,37,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-08-12,37,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,1,1.093644468
+Montana Creek,Dolly Varden, 2021-08-12,37,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,1,1.949709933
+Montana Creek,Dolly Varden, 2021-08-12,39,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,28,1175.519075
+Montana Creek,Dolly Varden, 2021-08-12,39,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,2,1.817260317
+Montana Creek,Dolly Varden, 2021-08-12,39,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,10,10.93644468
+Montana Creek,Dolly Varden, 2021-08-12,39,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,6,11.6982596
+Montana Creek,Dolly Varden, 2021-08-12,41,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,11,461.8110654
+Montana Creek,Dolly Varden, 2021-08-12,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,4,1.140928256
+Montana Creek,Dolly Varden, 2021-08-12,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,3,1,0.222543898
+Montana Creek,Dolly Varden, 2021-08-12,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,4,3.634520634
+Montana Creek,Dolly Varden, 2021-08-12,41,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-08-12,41,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,7,1,0.875046624
+Montana Creek,Dolly Varden, 2021-08-12,41,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,23,44.84332847
+Montana Creek,Dolly Varden, 2021-08-12,41,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,5,1,0.521083892
+Montana Creek,Dolly Varden, 2021-08-12,48,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-08-12,48,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,25,1,32.20205847
+Montana Creek,Dolly Varden, 2021-08-12,51,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,70,1,1.758092638
+Montana Creek,Dolly Varden, 2021-08-12,51,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,13,1,7.400411062
+Montana Creek,Dolly Varden, 2021-08-12,51,Limnephilidae,P,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,17,1,16.25424036
+Montana Creek,Dolly Varden, 2021-08-12,28,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,5,3,76.01381425
+Montana Creek,Dolly Varden, 2021-08-14,21,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,15,1,11.25992905
+Montana Creek,Dolly Varden, 2021-08-14,21,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-08-14,21,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,12,1,5.657220037
+Montana Creek,Dolly Varden, 2021-08-14,21,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-08-14,21,Ephemerellidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,7,1,1.880700239
+Montana Creek,Dolly Varden, 2021-08-14,21,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-08-14,21,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,9,17.5473894
+Montana Creek,Dolly Varden, 2021-08-14,49,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,5,209.9141206
+Montana Creek,Dolly Varden, 2021-08-14,49,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-08-14,49,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,12,1,10.29723709
+Montana Creek,Dolly Varden, 2021-08-14,49,Dolophilodes,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Philopotamidae,caddisflies,9,1,1.244723662
+Montana Creek,Dolly Varden, 2021-08-14,49,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,7,1,0.375917171
+Montana Creek,Dolly Varden, 2021-08-14,49,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,2,6.630764067
+Montana Creek,Dolly Varden, 2021-08-14,49,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,3,4.503742519
+Montana Creek,Dolly Varden, 2021-08-14,49,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,4,9.180868121
+Montana Creek,Dolly Varden, 2021-08-14,49,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,3,0.374214604
+Montana Creek,Dolly Varden, 2021-08-14,49,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,4,1,0.121383358
+Montana Creek,Dolly Varden, 2021-08-14,49,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,9,1,2.850174264
+Montana Creek,Dolly Varden, 2021-08-14,49,Hydropsychidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Hydropsychidae,caddisflies,12,1,6.613664462
+Montana Creek,Dolly Varden, 2021-08-14,49,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-08-14,49,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,2,5.063781428
+Montana Creek,Dolly Varden, 2021-08-14,49,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,10,1,5.479659856
+Montana Creek,Dolly Varden, 2021-08-14,49,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,11,3,7.487549496
+Montana Creek,Dolly Varden, 2021-08-14,49,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,1,1.093644468
+Montana Creek,Dolly Varden, 2021-08-14,52,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,6,251.8969447
+Montana Creek,Dolly Varden, 2021-08-14,52,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,7,1,0.773782718
+Montana Creek,Dolly Varden, 2021-08-14,52,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,9,1,1.483926349
+Montana Creek,Dolly Varden, 2021-08-14,52,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,1,1.949709933
+Montana Creek,Dolly Varden, 2021-08-14,52,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,11,2,3.945767313
+Montana Creek,Dolly Varden, 2021-08-14,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,2,3.002495013
+Montana Creek,Dolly Varden, 2021-08-14,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-08-14,52,Dolophilodes,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Philopotamidae,caddisflies,8,1,0.926038327
+Montana Creek,Dolly Varden, 2021-08-14,52,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-08-14,52,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,6,1,0.578378468
+Montana Creek,Dolly Varden, 2021-08-14,62,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,38,1595.347317
+Montana Creek,Dolly Varden, 2021-08-14,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,13,11.81219206
+Montana Creek,Dolly Varden, 2021-08-14,62,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,11,1,2.495849832
+Montana Creek,Dolly Varden, 2021-08-14,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,17,8.354989203
+Montana Creek,Dolly Varden, 2021-08-14,62,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,1,2.29521703
+Montana Creek,Dolly Varden, 2021-08-14,62,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,5,1.42616032
+Montana Creek,Dolly Varden, 2021-08-18,4,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,6,251.8969447
+Montana Creek,Dolly Varden, 2021-08-18,5,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,14,587.7595377
+Montana Creek,Dolly Varden, 2021-08-18,5,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-08-18,5,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-08-18,5,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1,1,0.0024
+Montana Creek,Dolly Varden, 2021-08-18,10,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,4,167.9312965
+Montana Creek,Dolly Varden, 2021-08-18,10,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.047763768
+Montana Creek,Dolly Varden, 2021-08-18,11,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,8,335.862593
+Montana Creek,Dolly Varden, 2021-08-18,11,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,9,1,2.583865792
+Montana Creek,Dolly Varden, 2021-08-18,20,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,20,839.6564825
+Montana Creek,Dolly Varden, 2021-08-18,20,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,1,1.568559982
+Montana Creek,Dolly Varden, 2021-08-18,21,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,11,461.8110654
+Montana Creek,Dolly Varden, 2021-08-18,26,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,4,167.9312965
+Montana Creek,Dolly Varden, 2021-08-18,26,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,11,1,4.463412558
+Montana Creek,Dolly Varden, 2021-08-18,26,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,7,2,4.590434061
+Montana Creek,Dolly Varden, 2021-08-18,26,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-08-18,38,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,33,1385.433196
+Montana Creek,Dolly Varden, 2021-08-18,53,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-08-18,53,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,1,3.127005268
+Montana Creek,Dolly Varden, 2021-08-25,11,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,30,1,82.84026423
+Montana Creek,Dolly Varden, 2021-08-25,37,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-08-28,4,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,7,1,0.773782718
+Montana Creek,Dolly Varden, 2021-08-28,4,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,11,2,4.991699664
+Montana Creek,Dolly Varden, 2021-08-28,4,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-08-28,6,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,4,167.9312965
+Montana Creek,Dolly Varden, 2021-08-28,6,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,43,1,227.7302708
+Montana Creek,Dolly Varden, 2021-08-28,6,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,4,1,0.181512878
+Montana Creek,Dolly Varden, 2021-08-28,6,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,2,1.037982161
+Montana Creek,Dolly Varden, 2021-08-28,6,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,2,2.187288937
+Montana Creek,Dolly Varden, 2021-08-28,6,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,7,1,1.303048011
+Montana Creek,Dolly Varden, 2021-08-28,6,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-08-28,6,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,15,1,4.125709674
+Montana Creek,Dolly Varden, 2021-08-28,6,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-08-28,8,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,4,167.9312965
+Montana Creek,Dolly Varden, 2021-08-28,8,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-08-28,8,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,2,2.187288937
+Montana Creek,Dolly Varden, 2021-08-28,8,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,2,1.037982161
+Montana Creek,Dolly Varden, 2021-08-28,8,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,16,1,6.589384946
+Montana Creek,Dolly Varden, 2021-08-28,9,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,10,419.8282412
+Montana Creek,Dolly Varden, 2021-08-28,9,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-08-28,9,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-08-28,9,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,60,1,1.568559982
+Montana Creek,Dolly Varden, 2021-08-28,9,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,40,1,1.161966478
+Montana Creek,Dolly Varden, 2021-08-28,9,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,1,3.127005268
+Montana Creek,Dolly Varden, 2021-08-28,9,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,1,3.847664799
+Montana Creek,Dolly Varden, 2021-08-28,9,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,16,1,6.589384946
+Montana Creek,Dolly Varden, 2021-08-28,14,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,20,839.6564825
+Montana Creek,Dolly Varden, 2021-08-28,14,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.184178316
+Montana Creek,Dolly Varden, 2021-08-28,14,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,3,3.280933405
+Montana Creek,Dolly Varden, 2021-08-28,14,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,1,1.949709933
+Montana Creek,Dolly Varden, 2021-08-28,14,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,4,15.3906592
+Montana Creek,Dolly Varden, 2021-08-28,14,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,14,1,4.662166128
+Montana Creek,Dolly Varden, 2021-08-28,14,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,3,1,0.086137284
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,5,1,0.323594615
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,3,1.556973242
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,6,6.56186681
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,2,3.899419867
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,1,3.127005268
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,3,11.5429944
+Montana Creek,Dolly Varden, 2021-08-28,18,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,14,2,9.324332256
+Montana Creek,Dolly Varden, 2021-08-28,18,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,5,1,0.121472231
+Montana Creek,Dolly Varden, 2021-08-28,18,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-08-28,18,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,20,2,1.391430113
+Montana Creek,Dolly Varden, 2021-08-28,18,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,13,1,2.811124793
+Montana Creek,Dolly Varden, 2021-08-28,18,Empididae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,4,1,0.917731359
+Montana Creek,Dolly Varden, 2021-08-28,19,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,3,125.9484724
+Montana Creek,Dolly Varden, 2021-08-28,19,Muscidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Muscidae,higher flies,4,1,0.104396396
+Montana Creek,Dolly Varden, 2021-08-28,19,Empididae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3,1,0.088541011
+Montana Creek,Dolly Varden, 2021-08-28,19,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-08-28,19,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,7,1,0.534694656
+Montana Creek,Dolly Varden, 2021-08-28,19,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,3.5,1,0.131096471
+Montana Creek,Dolly Varden, 2021-08-28,19,Araneae,U,non-insect,Terrestrial,Arthropoda: Arachnida,x,x,spiders,2.5,1,0.390867669
+Montana Creek,Dolly Varden, 2021-08-28,19,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,8,1,0.353147223
+Montana Creek,Dolly Varden, 2021-08-28,19,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,4,1,0.181512878
+Montana Creek,Dolly Varden, 2021-08-28,19,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,2,1.037982161
+Montana Creek,Dolly Varden, 2021-08-28,19,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,2,2.187288937
+Montana Creek,Dolly Varden, 2021-08-28,19,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,2,3.899419867
+Montana Creek,Dolly Varden, 2021-08-28,19,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-08-28,19,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-08-28,20,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,8,335.862593
+Montana Creek,Dolly Varden, 2021-08-28,20,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,10,1,0.416551982
+Montana Creek,Dolly Varden, 2021-08-28,20,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,70,2,3.516185275
+Montana Creek,Dolly Varden, 2021-08-28,20,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,30,2,1.878317176
+Montana Creek,Dolly Varden, 2021-08-28,20,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,14,53.86730719
+Montana Creek,Dolly Varden, 2021-08-28,20,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,16,31.19535893
+Montana Creek,Dolly Varden, 2021-08-28,20,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,27,29.52840065
+Montana Creek,Dolly Varden, 2021-08-28,21,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,70,2,3.516185275
+Montana Creek,Dolly Varden, 2021-08-28,21,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-08-28,21,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,1,3.847664799
+Montana Creek,Dolly Varden, 2021-08-28,23,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,8,1,2.022030231
+Montana Creek,Dolly Varden, 2021-08-28,23,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,12,1,6.315794505
+Montana Creek,Dolly Varden, 2021-08-28,23,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,4,2,0.363025755
+Montana Creek,Dolly Varden, 2021-08-28,23,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,2,1.037982161
+Montana Creek,Dolly Varden, 2021-08-28,23,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,15,1,10.38929185
+Montana Creek,Dolly Varden, 2021-08-28,23,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-08-28,30,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,15,2,33.25067667
+Montana Creek,Dolly Varden, 2021-08-28,30,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,1,1.370588264
+Montana Creek,Dolly Varden, 2021-08-28,31,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,7,1,0.319920268
+Montana Creek,Dolly Varden, 2021-08-28,31,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,20,2,1.391430113
+Montana Creek,Dolly Varden, 2021-08-28,31,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,50,4,5.482353057
+Montana Creek,Dolly Varden, 2021-09-02,2,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3.5,1,0.14495361
+Montana Creek,Dolly Varden, 2021-09-02,15,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,14,587.7595377
+Montana Creek,Dolly Varden, 2021-09-02,15,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,8,2,5.063781428
+Montana Creek,Dolly Varden, 2021-09-02,15,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,14,1,9.738263535
+Montana Creek,Dolly Varden, 2021-09-02,15,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,13,2,7.695329599
+Montana Creek,Dolly Varden, 2021-09-02,28,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-09-02,28,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,0.5,1,0.000187769
+Montana Creek,Dolly Varden, 2021-09-02,33,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,3,125.9484724
+Montana Creek,Dolly Varden, 2021-09-02,33,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-09-02,33,Ceratopogonidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Ceratopogonidae,no-see-um midges,1.5,1,0.048827581
+Montana Creek,Dolly Varden, 2021-09-02,33,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,3,1.556973242
+Montana Creek,Dolly Varden, 2021-09-02,33,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,15,46.90507902
+Montana Creek,Dolly Varden, 2021-09-02,33,Muscidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Muscidae,higher flies,9,1,0.92631958
+Montana Creek,Dolly Varden, 2021-09-02,43,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-09-02,43,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,11,1,2.495849832
+Montana Creek,Dolly Varden, 2021-09-02,43,Simuliidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,5,1,0.254465365
+Montana Creek,Dolly Varden, 2021-09-02,43,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,5,1,0.908630158
+Montana Creek,Dolly Varden, 2021-09-02,68,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,3,125.9484724
+Montana Creek,Dolly Varden, 2021-09-02,68,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,12,3,9.381015803
+Montana Creek,Dolly Varden, 2021-09-02,74,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-02,74,Coleoptera,A,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,3,1,0.727210438
+Montana Creek,Dolly Varden, 2021-09-02,74,Stylommatophora,U,non-insect,Terrestrial,Mollusca: Gastropoda,x,x,land slugs,15,1,16.62533833
+Montana Creek,Dolly Varden, 2021-09-02,74,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,1,0.518991081
+Montana Creek,Dolly Varden, 2021-09-02,74,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-09-02,77,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-09-03,5,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-09-03,5,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-09-03,2,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,5,1,25.33793808
+Montana Creek,Dolly Varden, 2021-09-03,2,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,6,1,1.501247506
+Montana Creek,Dolly Varden, 2021-09-03,2,Calyptratae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,6,1,0.411489848
+Montana Creek,Dolly Varden, 2021-09-03,2,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,3,1,0.124738201
+Montana Creek,Dolly Varden, 2021-09-10,5,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,2,1.830166957
+Montana Creek,Dolly Varden, 2021-09-10,5,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-09-10,9,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-09-10,10,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-09-10,10,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-09-10,10,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-09-10,10,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,20,1,26.52168599
+Montana Creek,Dolly Varden, 2021-09-10,11,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-10,11,Lepidoptera,L,insect,Terrestrial,Arthropoda: Insecta,Lepidoptera,x,moths,33,1,108.2713441
+Montana Creek,Dolly Varden, 2021-09-10,12,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,6,1,0.915083479
+Montana Creek,Dolly Varden, 2021-09-10,12,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,15,1,0.562311205
+Montana Creek,Dolly Varden, 2021-09-10,12,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,3,1,0.089876375
+Montana Creek,Dolly Varden, 2021-09-10,67,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3.5,1,0.178198468
+Montana Creek,Dolly Varden, 2021-09-10,67,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-09-10,85,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,80,1,1.940688338
+Montana Creek,Dolly Varden, 2021-09-10,87,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-09-14,23,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-14,23,Chloroperlidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Chloroperlidae,stoneflies,10,1,3.442812385
+Montana Creek,Dolly Varden, 2021-09-14,23,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,9,1,1.451761212
+Montana Creek,Dolly Varden, 2021-09-14,28,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-09-14,30,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-09-14,34,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,19,797.6736583
+Montana Creek,Dolly Varden, 2021-09-14,34,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-09-14,34,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1.5,1,0.010654246
+Montana Creek,Dolly Varden, 2021-09-14,34,Glossosomatidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Glossosomatidae,caddisflies,6,1,1.642802106
+Montana Creek,Dolly Varden, 2021-09-14,39,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-14,39,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2,1,0.037986814
+Montana Creek,Dolly Varden, 2021-09-14,39,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-09-14,39,Ameletus,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ameletidae,mayflies,6,1,0.794961619
+Montana Creek,Dolly Varden, 2021-09-14,39,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,1.5,1,0.010654246
+Montana Creek,Dolly Varden, 2021-09-14,39,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,2,1,0.028935762
+Montana Creek,Dolly Varden, 2021-09-14,39,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,4,1,0.129966861
+Montana Creek,Dolly Varden, 2021-09-14,41,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-09-14,41,Drunella,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Ephemerellidae,mayflies,3.5,1,0.14495361
+Montana Creek,Dolly Varden, 2021-09-14,41,Simuliidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Simuliidae,black flies,2.5,1,0.031566568
+Montana Creek,Dolly Varden, 2021-09-14,41,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,5,1,0.190356302
+Montana Creek,Dolly Varden, 2021-09-14,41,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,2.5,1,0.073850492
+Montana Creek,Dolly Varden, 2021-09-14,43,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,18,1,0.643533055
+Montana Creek,Dolly Varden, 2021-09-14,43,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856
+Montana Creek,Dolly Varden, 2021-09-14,43,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-09-14,99,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,21,881.6393066
+Montana Creek,Dolly Varden, 2021-09-14,99,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,4,1,0.285232064
+Montana Creek,Dolly Varden, 2021-09-14,99,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-09-14,99,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,10,1,1.949709933
+Montana Creek,Dolly Varden, 2021-09-14,99,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,1.5,1,0.048827581
+Montana Creek,Dolly Varden, 2021-09-14,99,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2.5,1,0.070355545
+Montana Creek,Dolly Varden, 2021-09-21,42,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-09-21,24,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2.5,1,0.069668862
+Montana Creek,Dolly Varden, 2021-09-21,24,Collembola,U,non-insect,Terrestrial,Arthropoda: Collembola,x,x,springtails,2,3,0.092027741
+Montana Creek,Dolly Varden, 2021-09-21,24,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,35,1,1.052639247
+Montana Creek,Dolly Varden, 2021-09-21,24,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-09-21,24,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3.5,1,0.284724537
+Montana Creek,Dolly Varden, 2021-09-21,24,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-09-21,26,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,80,1,1.940688338
+Montana Creek,Dolly Varden, 2021-09-21,33,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,6,251.8969447
+Montana Creek,Dolly Varden, 2021-09-21,33,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,18,2,20.8035484
+Montana Creek,Dolly Varden, 2021-09-21,33,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-09-21,33,Aphididae,A,insect,Terrestrial,Arthropoda: Insecta,Hemiptera: Sternorrhyncha,Aphidae,aphids,2.5,1,0.290234983
+Montana Creek,Dolly Varden, 2021-09-21,36,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,3,125.9484724
+Montana Creek,Dolly Varden, 2021-09-21,36,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,8,1,0.764860535
+Montana Creek,Dolly Varden, 2021-09-21,36,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-09-21,36,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,7,1,0.765620176
+Montana Creek,Dolly Varden, 2021-09-21,39,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,17,1,5.770740644
+Montana Creek,Dolly Varden, 2021-09-21,39,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,7,1,0.773782718
+Montana Creek,Dolly Varden, 2021-09-21,47,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,7,293.8797689
+Montana Creek,Dolly Varden, 2021-09-21,47,Leuctridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Leuctridae,stoneflies,7,1,0.555878148
+Montana Creek,Dolly Varden, 2021-09-21,49,Salmonid eggs,E,Vertebrata,Aquatic,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-21,49,Baetidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Baetidae,mayflies,5,1,0.5417696
+Montana Creek,Dolly Varden, 2021-09-21,49,Mycetophilidae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Mycetophilidae,fungus gnats,5,1,0.190356302
+Montana Creek,Dolly Varden, 2021-09-21,49,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,8,1,1.093644468
+Montana Creek,Dolly Varden, 2021-09-21,50,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,2,83.96564825
+Montana Creek,Dolly Varden, 2021-09-21,50,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,3,1,0.081767503
+Montana Creek,Dolly Varden, 2021-09-21,50,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,15,2,1.124622409
+Montana Creek,Dolly Varden, 2021-09-21,50,Hymenoptera parasitoid,A,insect,Terrestrial,Arthropoda: Insecta,Hymenoptera,x,parasitic wasps,2.5,1,0.173046005
+Montana Creek,Dolly Varden, 2021-09-21,50,Limnephilidae,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Limnephilidae,caddisflies,18,1,19.22092344
+Montana Creek,Dolly Varden, 2021-09-21,50,Oribatida,U,non-insect,Terrestrial,Arachnida: Acari,x,x,mites,1.5,1,0.145695947
+Montana Creek,Dolly Varden, 2021-09-21,38,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,7,293.8797689
+Montana Creek,Dolly Varden, 2021-09-21,38,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,30,1,0.939158588
+Montana Creek,Dolly Varden, 2021-09-21,38,Neoleptophlebia/Paraleptophlebia,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Leptophlebiidae,mayflies,4,1,0.194639506
+Montana Creek,Dolly Varden, 2021-09-23,100,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,8,1,3.315382034
+Montana Creek,Dolly Varden, 2021-09-23,96,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,5,2,50.67587616
+Montana Creek,Dolly Varden, 2021-09-23,96,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,4,167.9312965
+Montana Creek,Dolly Varden, 2021-09-23,96,Rhyacophila,L,insect,Aquatic,Arthropoda: Insecta,Trichoptera,Rhyacophilidae,caddisflies,6,1,0.842267989
+Montana Creek,Dolly Varden, 2021-09-23,96,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,5,1,0.325065883
+Montana Creek,Dolly Varden, 2021-09-23,96,Coleoptera,L,insect,Terrestrial,Arthropoda: Insecta,Coleoptera,x,beetles,4,1,0.097948733
+Montana Creek,Dolly Varden, 2021-09-23,96,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-09-23,96,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,2,0.135485712
+Montana Creek,Dolly Varden, 2021-09-23,96,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,12,1,1.200852941
+Montana Creek,Dolly Varden, 2021-09-23,96,Trichoptera,A,insect,Aquatic,Arthropoda: Insecta,Trichoptera,x,caddisflies,6,1,1.805671012
+Montana Creek,Dolly Varden, 2021-09-23,96,Pisces,U,Vertebrata,Marine.pisces,Vertebrata,x,x,fish larvae,14,1,4.381778772
+Montana Creek,Dolly Varden, 2021-09-23,96,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-09-24,29,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,3,1,6.156572153
+Montana Creek,Dolly Varden, 2021-09-24,35,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,19,797.6736583
+Montana Creek,Dolly Varden, 2021-09-24,35,Oligochaeta,U,non-insect,Aquatic,Annelida: Oligochaeta,miscellaneous non-insect,x,segmented worms,5,1,0.249406064
+Montana Creek,Dolly Varden, 2021-09-24,17,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,7,293.8797689
+Montana Creek,Dolly Varden, 2021-09-24,17,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,2.5,2,0.102505785
+Montana Creek,Dolly Varden, 2021-09-24,17,Calliphoridae,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,Sciomyzidae,marsh flies,6,1,0.518991081
+Montana Creek,Dolly Varden, 2021-09-24,17,Nemata,U,non-insect,Aquatic,Nemata,miscellaneous non-insect,x,round worms,20,1,0.695715057
+Montana Creek,Dolly Varden, 2021-09-24,17,Crassiclitellata,U,non-insect,Terrestrial,Annelida: Oligochaeta,miscellaneous non-insect,Lumbriculidae,segmented worms,80,1,1.940688338
+Montana Creek,Dolly Varden, 2021-09-24,35,Heptageniidae,L,insect,Aquatic,Arthropoda: Insecta,Ephemeroptera,Heptageniidae,mayflies,4,1,0.491469953
+Montana Creek,Dolly Varden, 2021-09-24,35,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-10-01,5,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-10-01,32,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-10-01,70,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-10-01,70,Brachycera,L,insect,Terrestrial,Arthropoda: Insecta,Diptera,x,higher flies,12,2,4.941430475
+Montana Creek,Dolly Varden, 2021-10-01,78,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-10-01,78,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,2,0.063815889
+Montana Creek,Dolly Varden, 2021-10-01,78,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,6,1,0.195746645
+Montana Creek,Dolly Varden, 2021-10-01,78,Capniidae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Capniidae,stoneflies,3,1,0.081767503
+Montana Creek,Dolly Varden, 2021-10-01,79,Salmonid eggs,E,Vertebrata,Marine,Vertebrata,x,x,x,6,1,41.98282412
+Montana Creek,Dolly Varden, 2021-10-01,63,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,2,1,0.037986814
+Montana Creek,Dolly Varden, 2021-10-01,63,Nemouridae,L,insect,Aquatic,Arthropoda: Insecta,Plecoptera,Nemouridae,stoneflies,3,1,0.116411781
+Montana Creek,Dolly Varden, 2021-10-01,63,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,3,1,0.031907945
+Montana Creek,Dolly Varden, 2021-10-02,47,Copepoda,U,non-insect,Aquatic,Crustacea: Copepoda,x,x,copepods,0,0,0
+Montana Creek,Dolly Varden, 2021-10-02,51,Tipuloidea,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Tipulidae,crane flies,6,1,0.353688957
+Montana Creek,Dolly Varden, 2021-10-02,51,Chironomidae,A,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.088851081
+Montana Creek,Dolly Varden, 2021-10-02,51,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,2,1,0.011042515
+Montana Creek,Dolly Varden, 2021-09-03,1,Chironomidae,P,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,2,0.135485712
+Montana Creek,Dolly Varden, 2021-09-03,1,Salmonid eggs,E,Vertebrata,Aquatic,Vertebrata,x,x,x,4,1,13.65743991
+Montana Creek,Dolly Varden, 2021-09-03,1,Empididae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Empididae,dance flies,6,1,0.517090839
+Montana Creek,Dolly Varden, 2021-09-03,1,Chironomidae,L,insect,Aquatic,Arthropoda: Insecta,Diptera,Chironomidae,midges,4,1,0.067742856

@@ -1,0 +1,2859 @@
+Fish_ID_comp,Date,Fish_ID_day,Trap,Habitat,PIT_tag,Species,FL,TL,Weight,Diet,Fin Clip,Pink_Salmon_pres_abs
+1,5/5/2021,1,,Main_Side,93DDEE5,Cutthroat,NA,125,16.9,N,N,0
+2,5/5/2021,2,,Main_Side,NA,Coho,NA,57,1.8,N,N,0
+3,5/5/2021,3,,Main_Side,93DDF90,Cutthroat,NA,99,5.7,N,N,0
+4,5/5/2021,4,,Main_Side,93DDF73,Cutthroat,NA,112,11.9,N,N,0
+5,5/5/2021,5,,Main_Side,93DDF84,Coho,NA,89,6.8,Y,N,0
+6,5/5/2021,6,,Main_Side,93DDF46,Dolly Varden,NA,90,5.8,Y,N,0
+7,5/5/2021,7,,Main_Side,NA,Cutthroat,NA,100,9.6,N,N,0
+8,5/5/2021,8,,Main_Side,NA,Dolly Varden,NA,96,6.1,Y,N,0
+9,5/11/2021,1,,Main_Side,NA,Coho,56,60,1.6,Y,N,0
+10,5/11/2021,2,,Main_Side,93DDF41,Dolly Varden,117,121,12.4,Y,N,0
+11,5/11/2021,3,,Main_Side,NA,Coho,60,65,2.7,Y,N,0
+12,5/11/2021,4,,Main_Side,93DDF3E,Dolly Varden,84,89,5.7,Y,N,0
+13,5/11/2021,5,,Main_Side,NA,Coho,61,65,2.3,Y,N,0
+14,5/11/2021,6,,Main_Side,93DDEFA,Dolly Varden,116,123,14.7,Y,N,0
+15,5/11/2021,7,,Main_Side,NA,Dolly Varden,103,109,9.4,Y,N,0
+16,5/11/2021,8,,Main_Side,NA,Dolly Varden,99,103,7.8,Y,N,0
+17,5/11/2021,9,,Main_Side,NA,Coho,57,60,1.6,Y,N,0
+18,5/11/2021,10,,Main_Side,93DDF58,Cutthroat,109,115,10.7,Y,N,0
+19,5/11/2021,11,,Main_Side,NA,Coho,56,61,1.9,Y,N,0
+20,5/11/2021,12,,Main_Side,NA,Coho,55,59,1.6,Y,N,0
+21,5/11/2021,13,,Main_Side,NA,Coho,65,71,2.9,Y,N,0
+22,5/11/2021,14,,Main_Side,93DDF76,Coho,95,104,7.9,Y,N,0
+23,5/11/2021,15,,Main_Side,NA,Coho,64,68,2.6,Y,N,0
+24,5/11/2021,16,,Main_Side,NA,Coho,53,56,1.3,Y,N,0
+25,5/11/2021,17,,Main_Side,NA,Coho,52,57,1.6,Y,N,0
+26,5/11/2021,18,,Main_Side,NA,Coho,62,67,2.5,Y,N,0
+27,5/11/2021,19,,Main_Side,NA,Coho,62,67,2.3,N,N,0
+28,5/11/2021,20,,Main_Side,NA,Coho,50,55,1.3,N,N,0
+29,5/11/2021,21,,Main_Side,93DDF36,Coho,87,93,5.7,N,N,0
+30,5/11/2021,22,,Main_Side,NA,Dolly Varden,97,101,7.7,N,N,0
+31,5/11/2021,23,,Main_Side,NA,Dolly Varden,94,98,6.9,N,N,0
+32,5/11/2021,24,,Main_Side,93DDF42,Coho,91,99,7,N,N,0
+33,5/11/2021,25,,Main_Side,NA,Dolly Varden,97,103,7.4,N,N,0
+34,5/11/2021,26,,Main_Side,93DDF2D,Coho,96,105,8.8,N,N,0
+35,5/11/2021,27,,Main_Side,NA,Dolly Varden,76,81,3.4,Y,N,0
+36,5/11/2021,28,,Main,NA,Dolly Varden,81,85,4.6,Y,N,0
+37,5/11/2021,29,,Main,93DDF35,Dolly Varden,124,132,14.6,Y,N,0
+38,5/11/2021,30,,Main,NA,Sculpin,NA,118,14.8,N,N,0
+39,5/11/2021,31,,Main,NA,Sculpin,NA,102,9.6,N,N,0
+40,5/11/2021,32,,Main,NA,Cutthroat,95,99,6.8,N,N,0
+41,5/11/2021,33,,Main,93DDF21,Dolly Varden,125,129,13.8,Y,N,0
+42,5/11/2021,34,,Main,93DDF3B,Dolly Varden,121,130,15.1,Y,N,0
+43,5/11/2021,35,,Main,93DDF14,Cutthroat,95,100,7.5,N,N,0
+44,5/11/2021,36,,Main,93DDF12,Cutthroat,102,108,9.2,N,N,0
+45,5/11/2021,37,,Main,93DDF3C,Coho,92,99,7.4,N,N,0
+46,5/14/2021,1,,Seep,NA,Coho,NA,25,0.2,N,N,0
+47,5/14/2021,2,,Seep,NA,Coho,NA,22,0.1,N,N,0
+48,5/14/2021,3,,Seep,NA,Dolly Varden,79,85,4.8,N,N,0
+49,5/14/2021,4,,Seep,93DDEF0,Coho,99,108,9.5,Y,N,0
+50,5/14/2021,5,,Seep,NA,Coho,62,67,2.5,Y,N,0
+51,5/14/2021,6,,Seep,NA,Coho,62,67,2.2,Y,N,0
+52,5/14/2021,7,,Seep,NA,Coho,62,66,2.3,Y,N,0
+53,5/14/2021,8,,Seep,NA,Coho,61,66,2.3,N,N,0
+54,5/14/2021,9,,Seep,NA,Coho,57,62,2,Y,N,0
+55,5/14/2021,10,,Seep,NA,Dolly Varden,82,87,5.4,Y,N,0
+56,5/14/2021,11,,Main_Side,NA,Sculpin,NA,113,15,N,N,0
+57,5/14/2021,12,,Main_Side,NA,Coho,59,64,2.1,Y,N,0
+58,5/14/2021,13,,Main_Side,NA,Coho,53,58,1.5,Y,N,0
+59,5/14/2021,14,,Main_Side,NA,Dolly Varden,74,77,3.8,Y,N,0
+60,5/14/2021,15,,Main_Side,NA,Coho,57,62,1.8,Y,N,0
+61,5/14/2021,16,,Main_Side,NA,Coho,54,59,1.8,Y,N,0
+62,5/14/2021,17,,Main_Side,NA,Dolly Varden,48,49,2.4,Y,N,0
+63,5/14/2021,18,,Main_Side,NA,Coho,47,51,1,Y,N,0
+64,5/18/2021,1,,Main_Side,NA,Coho,51,56,1.4,Y,N,0
+65,5/18/2021,2,,Main_Side,NA,Coho,58,64,2,Y,N,0
+66,5/18/2021,3,,Main_Side,NA,Dolly Varden,120,125,13.5,Y,N,0
+67,5/18/2021,4,,Main_Side,NA,Dolly Varden,85,89,5.6,Y,N,0
+68,5/18/2021,5,,Main_Side,NA,Coho,66,70,2.7,Y,N,0
+69,5/18/2021,6,,Main_Side,NA,Dolly Varden,105,111,10.6,N,N,0
+70,5/18/2021,7,,Main_Side,NA,Dolly Varden,117,124,13,N,N,0
+71,5/18/2021,8,,Main_Side,NA,Dolly Varden,133,141,19.7,N,N,0
+72,5/18/2021,9,,Main_Side,NA,Dolly Varden,108,114,11.7,N,N,0
+73,5/18/2021,10,,Main_Side,NA,Dolly Varden,133,141,19.7,N,N,0
+74,5/18/2021,11,,Main_Side,NA,Coho,62,67,2.3,Y,N,0
+75,5/18/2021,12,,Main_Side,NA,Cutthroat,141,149,23.1,Y,N,0
+76,5/18/2021,13,,Main_Side,NA,Dolly Varden,92,98,6.1,N,N,0
+77,5/18/2021,14,,Main_Side,NA,Steelhead,165,173,40.9,Y,N,0
+78,5/18/2021,15,,Main_Side,NA,Coho,97,107,9.7,Y,N,0
+79,5/18/2021,16,,Main_Side,NA,Cutthroat/Steelhead,140,149,22.1,N,N,0
+80,5/18/2021,17,,Main_Side,NA,Coho,81,87,5.4,Y,N,0
+81,5/18/2021,18,,Main_Side,NA,Cutthroat/Steelhead,100,106,9.2,N,N,0
+82,5/18/2021,19,,Main_Side,NA,Dolly Varden,128,136,16.7,Y,N,0
+83,5/18/2021,20,,Main_Side,NA,Dolly Varden,147,156,27.8,Y,N,0
+84,5/18/2021,21,,Main_Side,NA,Coho,71,77,3.7,Y,N,0
+85,5/18/2021,22,,Main_Side,NA,Dolly Varden,121,129,14.9,Y,N,0
+86,5/18/2021,23,,Main_Side,NA,Cutthroat/Steelhead,142,147,24.3,N,N,0
+87,5/18/2021,24,,Main_Side,NA,Coho,54,59,1.7,Y,N,0
+88,5/18/2021,25,,Main_Side,NA,Coho,56,61,2,Y,N,0
+89,5/18/2021,26,,Main_Side,NA,Dolly Varden,85,89,4.8,Y,N,0
+90,5/18/2021,27,,Main_Side,NA,Coho,63,68,2.7,Y,N,0
+91,5/18/2021,28,,Main_Side,NA,Coho,91,99,8.2,Y,N,0
+92,5/18/2021,29,,Main_Side,NA,Dolly Varden,85,89,4.8,N,N,0
+93,5/18/2021,30,,Main_Side,NA,Dolly Varden,80,85,4.7,N,N,0
+94,5/18/2021,31,,Seep,NA,Dolly Varden,93,99,8.8,N,N,0
+95,5/18/2021,32,,Seep,NA,Coho,61,66,2.3,Y,N,0
+96,5/18/2021,33,,Seep,NA,Dolly Varden,50,53,1.4,N,N,0
+97,5/18/2021,34,,Seep,NA,Coho,59,63,2.2,Y,N,0
+98,5/18/2021,35,,Seep,NA,Dolly Varden,70,73,3.1,N,N,0
+99,5/18/2021,36,,Seep,NA,Dolly Varden,49,51,1,N,N,0
+100,5/18/2021,37,,Seep,NA,Coho,48,51,1.5,Y,N,0
+101,5/18/2021,38,,Seep,NA,Coho,62,67,2.4,Y,N,0
+102,5/18/2021,39,,Seep,NA,Dolly Varden,50,52,1.2,N,N,0
+103,5/18/2021,40,,Seep,NA,Dolly Varden,86,91,6.6,N,N,0
+104,5/18/2021,41,,Seep,NA,Coho,97,107,9.9,Y,N,0
+105,5/21/2021,1,,Main_Side,NA,Coho,55,59,1.8,Y,N,0
+106,5/21/2021,2,,Main_Side,NA,Coho,47,49,0.8,Y,N,0
+107,5/21/2021,3,,Main_Side,NA,Coho,51,55,1.4,Y,N,0
+108,5/21/2021,4,,Main_Side,NA,Coho,47,52,1.3,Y,N,0
+109,5/21/2021,5,,Main_Side,NA,Coho,55,59,1.7,Y,N,0
+110,5/21/2021,6,,Main_Side,NA,Coho,53,57,1.9,Y,N,0
+111,5/21/2021,7,,Main_Side,NA,Dolly Varden,74,77,3.5,Y,N,0
+112,5/21/2021,8,,Main_Side,NA,Dolly Varden,54,55,1.6,Y,N,0
+113,5/21/2021,9,,Main_Side,NA,Dolly Varden,51,52,1.1,Y,N,0
+114,5/21/2021,10,,Main_Side,NA,Sculpin,NA,112,11.7,N,N,0
+115,5/21/2021,11,,Main_Side,NA,Coho,73,79,4,Y,N,0
+116,5/21/2021,12,,Main_Side,NA,Dolly Varden,143,146,22.1,Y,N,0
+117,5/21/2021,13,,Main_Side,NA,Dolly Varden,109,115,9.9,Y,N,0
+118,5/21/2021,14,,Main_Side,NA,Coho,60,64,2.1,Y,N,0
+119,5/21/2021,15,,Main_Side,NA,Coho,65,71,2.9,Y,N,0
+120,5/21/2021,16,,Main_Side,NA,Coho,57,63,2,Y,N,0
+121,5/21/2021,17,,Main_Side,NA,Cutthroat,124,130,15.8,N,N,0
+122,5/21/2021,18,,Main_Side,NA,Dolly Varden,107,115,9.1,N,N,0
+123,5/21/2021,19,,Main_Side,NA,Dolly Varden,79,85,4.5,N,N,0
+124,5/21/2021,20,,Main_Side,NA,Dolly Varden,83,89,5.4,N,N,0
+125,5/21/2021,21,,Main_Side,NA,Dolly Varden,89,93,6.6,N,N,0
+126,5/21/2021,22,,Main_Side,NA,Dolly Varden,85,90,5.2,N,N,0
+127,5/21/2021,23,,Main_Side,NA,Dolly Varden,80,83,4.3,N,N,0
+128,5/21/2021,24,,Seep,NA,Coho,57,61,2,Y,N,0
+129,5/21/2021,25,,Seep,NA,Coho,50,54,1.4,Y,N,0
+130,5/21/2021,26,,Seep,NA,Coho,52,56,1.4,Y,N,0
+131,5/21/2021,27,,Seep,NA,Coho,61,66,2.3,Y,N,0
+132,5/21/2021,28,,Seep,NA,Coho,62,67,2.5,Y,N,0
+133,5/21/2021,29,,Seep,NA,Coho,53,56,1.6,Y,N,0
+134,5/21/2021,30,,Seep,NA,Coho,55,59,2.3,N,N,0
+135,5/21/2021,31,,Seep,NA,Coho,47,51,1.2,N,N,0
+136,5/21/2021,32,,Seep,NA,Dolly Varden,52,53,1.4,N,N,0
+137,5/21/2021,33,,Seep,NA,Dolly Varden,47,48,1.1,N,N,0
+138,5/26/2021,1,,Main_Side,NA,Coho,45,48,0.9,Y,N,0
+139,5/26/2021,2,,Main_Side,93DDF40,Coho,85,92,5.9,Y,N,0
+140,5/26/2021,3,,Main_Side,NA,Coho,62,68,2.2,Y,N,0
+141,5/26/2021,4,,Main_Side,NA,Coho,53,58,1.5,Y,N,0
+142,5/26/2021,5,,Main_Side,NA,Coho,55,61,1.7,Y,N,0
+143,5/26/2021,6,,Main_Side,NA,Dolly Varden,54,56,1.4,Y,N,0
+144,5/26/2021,7,,Main_Side,NA,Dolly Varden,62,65,2.1,Y,N,0
+145,5/26/2021,8,,Main_Side,NA,Dolly Varden,50,52,1.7,Y,N,0
+146,5/26/2021,9,,Main_Side,NA,Coho,51,55,1.7,Y,N,0
+147,5/26/2021,10,,Main_Side,NA,Coho,61,66,2.1,Y,N,0
+148,5/26/2021,11,,Main_Side,NA,Coho,60,64,2.2,Y,N,0
+149,5/26/2021,12,,Main_Side,NA,Coho,53,57,1.6,Y,N,0
+150,5/26/2021,13,,Seep,NA,Coho,54,57,1.5,Y,N,0
+151,5/26/2021,14,,Seep,NA,Coho,60,64,1.8,Y,N,0
+152,5/26/2021,15,,Seep,NA,Coho,56,60,1.8,Y,N,0
+153,5/26/2021,16,,Seep,NA,Coho,51,56,1.5,Y,N,0
+154,5/28/2021,1,,Seep,NA,Coho,62,67,2.9,Y,N,0
+155,5/28/2021,2,,Seep,NA,Dolly Varden,46,47,0.8,Y,N,0
+156,5/28/2021,3,,Seep,NA,Coho,59,63,2.3,Y,N,0
+157,5/28/2021,4,,Seep,NA,Dolly Varden,48,50,1.5,Y,N,0
+158,5/28/2021,5,,Seep,NA,Coho,52,57,1.7,Y,N,0
+159,5/28/2021,6,,Seep,NA,Coho,52,55,1.9,Y,N,0
+160,5/28/2021,7,,Seep,NA,Dolly Varden,48,49,1.2,Y,N,0
+161,5/28/2021,8,,Main_Side,NA,Cutthroat,96,102,8,Y,N,0
+162,5/28/2021,9,,Main_Side,93DDF05,Dolly Varden,184,190,49.3,Y,N,0
+163,5/28/2021,10,,Main_Side,NA,Dolly Varden,103,108,10.6,Y,N,0
+164,5/28/2021,11,,Main_Side,NA,Dolly Varden,85,90,5.4,Y,N,0
+165,5/28/2021,12,,Main_Side,NA,Cutthroat,102,107,8.2,Y,N,0
+166,5/28/2021,13,,Main_Side,NA,Dolly Varden,97,103,7.9,Y,N,0
+167,5/28/2021,14,,Main_Side,NA,Dolly Varden,85,90,5.8,Y,N,0
+168,5/28/2021,15,,Main_Side,NA,Coho,65,70,2.8,Y,N,0
+169,5/28/2021,16,,Main_Side,NA,Dolly Varden,81,85,5.8,Y,N,0
+170,5/28/2021,17,,Main_Side,NA,Dolly Varden,93,97,6.5,Y,N,0
+171,5/28/2021,18,,Main_Side,NA,Dolly Varden,86,91,5.8,N,N,0
+172,5/28/2021,19,,Main_Side,NA,Dolly Varden,81,85,5,N,N,0
+173,5/28/2021,20,,Main_Side,NA,Dolly Varden,76,81,4.8,N,N,0
+174,5/28/2021,21,,Main_Side,NA,Coho,64,70,2.6,Y,N,0
+175,5/28/2021,22,,Main_Side,NA,Coho,51,55,0.9,Y,N,0
+176,5/28/2021,23,,Main_Side,NA,Coho,59,63,2.1,Y,N,0
+177,5/28/2021,24,,Main_Side,NA,Coho,55,59,1.7,Y,N,0
+178,5/28/2021,25,,Main_Side,NA,Dolly Varden,82,86,5.1,N,N,0
+179,5/28/2021,26,,Main_Side,NA,Cutthroat,154,163,29.6,Y,N,0
+180,5/31/2021,1,,Main_Side,NA,Sculpin,NA,91,8,N,N,0
+181,5/31/2021,2,,Main_Side,NA,Sculpin,NA,94,8.3,N,N,0
+182,5/31/2021,3,,Main_Side,NA,Dolly Varden,105,111,11.5,Y,N,0
+183,5/31/2021,4,,Main_Side,NA,Cutthroat,91,95,7.1,Y,N,0
+184,5/31/2021,5,,Main_Side,NA,Cutthroat,93,97,7.2,Y,N,0
+185,5/31/2021,6,,Main_Side,NA,Dolly Varden,101,105,10.7,Y,N,0
+186,5/31/2021,7,,Main_Seep,NA,Coho,47,51,0.8,Y,N,0
+187,5/31/2021,8,,Main_Seep,NA,Dolly Varden,91,96,7,Y,N,0
+188,5/31/2021,9,,Main_Seep,NA,Coho,64,69,2.9,Y,N,0
+189,5/31/2021,10,,Main_Seep,NA,Dolly Varden,85,89,6,Y,N,0
+190,5/31/2021,11,,Main_Seep,NA,Coho,55,59,2,Y,N,0
+191,6/1/2021,1,1,Main_Side,93DDF25,Cutthroat,136,144,21.6,Y,N,0
+192,6/1/2021,2,1,Main_Side,93DDF08,Dolly Varden,95,101,9,Y,N,0
+193,6/1/2021,3,1,Main_Side,NA,Sculpin,NA,90,8.5,Y,N,0
+194,6/1/2021,4,1,Main_Side,NA,Sculpin,NA,98,11.2,Y,N,0
+195,6/1/2021,5,1,Main_Side,NA,Dolly Varden,72,76,3.8,Y,N,0
+196,6/1/2021,6,1,Main_Side,NA,Coho,55,59,2.3,Y,N,0
+197,6/1/2021,7,1,Main_Side,NA,Coho,71,77,3.7,Y,N,0
+198,6/1/2021,8,1,Main_Side,93DDF23,Cutthroat,134,142,21.7,Y,N,0
+199,6/1/2021,9,1,Main_Side,NA,Coho,60,64,1.9,Y,N,0
+200,6/1/2021,10,1,Main_Side,NA,Dolly Varden,75,79,4.6,Y,N,0
+201,6/1/2021,11,2,Main_Side,NA,Coho,68,74,3.2,Y,N,0
+202,6/1/2021,12,2,Main_Side,NA,Cutthroat,91,96,6.4,Y,N,0
+203,6/1/2021,13,2,Main_Side,NA,Sculpin,NA,115,16.2,Y,N,0
+204,6/1/2021,14,3,Main_Side,NA,Coho,55,59,1.8,Y,N,0
+205,6/1/2021,15,3,Main_Side,NA,Coho,55,59,1.8,Y,N,0
+206,6/1/2021,16,3,Main_Side,NA,Dolly Varden,49,51,0.7,Y,N,0
+207,6/1/2021,17,3,Main_Side,NA,Coho,56,60,2,Y,N,0
+208,6/1/2021,18,3,Main_Side,NA,Dolly Varden,46,48,0.5,Y,N,0
+209,6/1/2021,19,3,Main_Side,NA,Dolly Varden,52,54,1.4,Y,N,0
+210,6/1/2021,20,4,Seep,NA,Coho,63,68,3,Y,N,0
+211,6/1/2021,21,4,Seep,NA,Coho,60,65,2.2,Y,N,0
+212,6/1/2021,22,4,Seep,NA,Coho,54,58,1.7,Y,N,0
+213,6/1/2021,23,4,Seep,NA,Coho,52,56,1.8,Y,N,0
+214,6/1/2021,24,4,Seep,NA,Coho,56,60,2.1,Y,N,0
+215,6/1/2021,25,4,Seep,NA,Coho,69,74,3.7,Y,N,0
+216,6/1/2021,26,4,Seep,NA,Coho,49,54,1.3,Y,N,0
+217,6/4/2021,1,1,Seep,NA,Coho,52,56,1.7,Y,N,0
+218,6/4/2021,2,1,Seep,NA,Coho,53,57,1.5,Y,N,0
+219,6/4/2021,3,1,Seep,NA,Coho,60,65,2.4,Y,N,0
+220,6/4/2021,4,1,Seep,NA,Coho,72,77,3.3,Y,N,0
+221,6/4/2021,5,1,Seep,NA,Coho,60,65,1.9,Y,N,0
+222,6/4/2021,6,1,Seep,NA,Coho,50,54,1.4,Y,N,0
+223,6/4/2021,7,1,Seep,NA,Coho,59,64,2.6,Y,N,0
+224,6/4/2021,8,1,Seep,NA,Coho,55,59,1.7,Y,N,0
+225,6/4/2021,9,1,Seep,NA,Coho,55,60,2.1,Y,N,0
+226,6/4/2021,10,1,Seep,NA,Dolly Varden,48,50,1.2,N,N,0
+227,6/4/2021,11,1,Seep,NA,Dolly Varden,57,59,2.3,N,N,0
+228,6/4/2021,12,1,Seep,NA,Dolly Varden,49,50,2,N,N,0
+229,6/4/2021,13,2,Main_Side,NA,Dolly Varden,98,103,9.4,Y,N,0
+230,6/4/2021,14,2,Main_Side,NA,Dolly Varden,53,55,1.5,Y,N,0
+231,6/4/2021,15,2,Main_Side,NA,Dolly Varden,109,116,12.6,Y,N,0
+232,6/4/2021,16,4,Main_Side,NA,Coho,55,60,1.7,Y,N,0
+233,6/4/2021,17,4,Main_Side,NA,Coho,55,59,1.7,Y,N,0
+234,6/4/2021,18,4,Main_Side,NA,Dolly Varden,47,48,1.1,Y,N,0
+235,6/4/2021,19,4,Main_Side,NA,Dolly Varden,49,50,1.2,Y,N,0
+236,6/4/2021,20,4,Main_Side,NA,Coho,48,51,1,Y,N,0
+237,6/9/2021,1,8,Seep,NA,Dolly Varden,39,42,1.2,Y,N,0
+238,6/9/2021,2,8,Seep,NA,Dolly Varden,39,40,0.8,Y,N,0
+239,6/9/2021,3,8,Seep,NA,Coho,58,61,1.8,Y,N,0
+240,6/9/2021,4,8,Seep,NA,Dolly Varden,59,61,1.9,Y,N,0
+241,6/9/2021,5,8,Seep,NA,Coho,54,50,1.2,Y,N,0
+242,6/9/2021,6,8,Seep,NA,Coho,62,67,2.5,Y,N,0
+243,6/9/2021,7,7,Seep,NA,Coho,70,75,3.3,Y,N,0
+244,6/9/2021,8,7,Seep,NA,Dolly Varden,74,78,4,Y,N,0
+245,6/9/2021,9,7,Seep,NA,Coho,63,67,2,Y,N,0
+246,6/9/2021,10,1,Main_Side,NA,Cutthroat,146,156,25.7,Y,N,0
+247,6/9/2021,11,1,Main_Side,NA,Dolly Varden,83,87,5.2,Y,N,0
+248,6/9/2021,12,1,Main_Side,NA,Dolly Varden,77,82,4.8,Y,N,0
+249,6/9/2021,13,1,Main_Side,NA,Coho,57,61,2,Y,N,0
+250,6/9/2021,14,1,Main_Side,NA,Coho,65,70,1.8,Y,N,0
+251,6/9/2021,15,1,Main_Side,NA,Coho,60,65,2.3,Y,N,0
+252,6/9/2021,16,1,Main_Side,NA,Coho,56,60,1.6,Y,N,0
+253,6/9/2021,17,4,Main_Side,NA,Dolly Varden,99,106,10.5,Y,N,0
+254,6/9/2021,18,4,Main_Side,NA,Dolly Varden,92,98,6.8,Y,N,0
+255,6/9/2021,19,4,Main_Side,NA,Dolly Varden,98,105,8.8,Y,N,0
+256,6/9/2021,20,4,Main_Side,NA,Dolly Varden,89,95,7.3,Y,N,0
+257,6/9/2021,21,4,Main_Side,NA,Dolly Varden,85,89,5.8,Y,N,0
+258,6/9/2021,22,4,Main_Side,NA,Dolly Varden,81,85,5.3,N,N,0
+259,6/9/2021,23,5,Main_Side,NA,Sculpin,NA,101,11.7,Y,N,0
+260,6/9/2021,24,5,Main_Side,NA,Sculpin,NA,77,4.6,Y,N,0
+261,6/9/2021,25,5,Main_Side,NA,Dolly Varden,110,118,12.7,Y,N,0
+262,6/9/2021,26,5,Main_Side,NA,Dolly Varden,103,109,10.9,Y,N,0
+263,6/9/2021,27,5,Main_Side,NA,Dolly Varden,83,87,5.2,N,N,0
+264,6/9/2021,28,5,Main_Side,NA,Cutthroat,96,101,8.6,Y,N,0
+265,6/9/2021,29,5,Main_Side,NA,Cutthroat,95,100,8.4,Y,N,0
+266,6/9/2021,30,6,Seep,NA,Sculpin,NA,93,7.7,Y,N,0
+267,6/9/2021,31,6,Seep,NA,Dolly Varden,57,60,1.4,N,N,0
+268,6/9/2021,32,6,Seep,NA,Coho,61,67,2.4,Y,N,0
+269,6/9/2021,33,6,Seep,NA,Coho,55,59,1.5,Y,N,0
+270,6/10/2021,1,4,Seep,NA,Coho,59,63,1.8,Y,N,0
+271,6/10/2021,2,4,Seep,NA,Dolly Varden,85,89,5.2,N,N,0
+272,6/10/2021,3,4,Seep,NA,Coho,60,65,2.2,Y,N,0
+273,6/10/2021,4,4,Seep,NA,Cutthroat,NA,170,37.2,N,N,0
+274,6/10/2021,5,4,Seep,NA,Dolly Varden,69,71,2.8,N,N,0
+275,6/10/2021,6,4,Seep,NA,Cutthroat/Steelhead,85,88,6.1,Y,N,0
+276,6/10/2021,7,3,Main_Side,NA,Dolly Varden,54,55,1.3,N,N,0
+277,6/10/2021,8,3,Main_Side,NA,Coho,69,75,3.6,Y,N,0
+278,6/10/2021,9,3,Main_Side,NA,Coho,60,65,2.4,Y,N,0
+279,6/10/2021,10,3,Main_Side,NA,Coho,68,73,3.1,Y,N,0
+280,6/10/2021,11,3,Main_Side,NA,Dolly Varden,64,66,2.3,N,N,0
+281,6/10/2021,12,3,Main_Side,NA,Coho,57,61,2,Y,N,0
+282,6/10/2021,13,3,Main_Side,NA,Coho,59,63,2.2,Y,N,0
+283,6/10/2021,14,2,Main_Side,NA,Coho,83,89,6.3,Y,N,0
+284,6/10/2021,15,2,Main_Side,NA,Cutthroat/Steelhead,105,111,9.9,Y,N,0
+285,6/10/2021,16,2,Main_Side,NA,Cutthroat/Steelhead,133,138,20.5,Y,N,0
+286,6/10/2021,17,2,Main_Side,NA,Dolly Varden,52,54,0.9,N,N,0
+287,6/10/2021,18,2,Main_Side,NA,Cutthroat/Steelhead,99,103,8.3,Y,N,0
+288,6/10/2021,19,2,Main_Side,NA,Dolly Varden,52,54,1.3,N,N,0
+289,6/10/2021,20,1,Seep,NA,Cutthroat,138,144,20.4,Y,N,0
+290,6/10/2021,21,1,Seep,NA,Coho,58,62,2,N,N,0
+291,6/10/2021,22,1,Seep,NA,Dolly Varden,79,83,4.6,N,N,0
+292,6/10/2021,23,1,Seep,NA,Coho,65,71,3.2,N,N,0
+293,6/10/2021,24,1,Seep,NA,Cutthroat,93,98,7.4,Y,N,0
+294,6/10/2021,25,1,Seep,NA,Coho,61,67,2.6,N,N,0
+295,6/10/2021,26,1,Seep,NA,Dolly Varden,85,89,5.5,N,N,0
+296,6/10/2021,27,1,Seep,NA,Dolly Varden,102,107,10.5,N,N,0
+297,6/10/2021,28,1,Seep,NA,Dolly Varden,85,89,5.5,N,N,0
+298,6/10/2021,29,1,Seep,NA,Dolly Varden,87,92,6.8,N,N,0
+299,6/10/2021,30,1,Seep,NA,Dolly Varden,53,55,1.4,N,N,0
+300,6/10/2021,31,1,Seep,NA,Coho,74,77,4.6,Y,N,0
+301,6/10/2021,32,1,Seep,NA,Dolly Varden,57,59,2,N,N,0
+302,6/10/2021,33,1,Seep,NA,Dolly Varden,57,59,1.5,N,N,0
+303,6/10/2021,34,1,Seep,NA,Coho,55,61,1.7,N,N,0
+304,6/10/2021,35,1,Seep,NA,Dolly Varden,53,54,1.2,N,N,0
+305,6/15/2021,1,1,Main_Side,NA,Coho,33,34,0.2,N,N,0
+306,6/15/2021,2,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+307,6/15/2021,3,1,Main_Side,NA,Coho,36,38,0.3,N,N,0
+308,6/15/2021,4,1,Main_Side,NA,Coho,38,39,0.4,N,N,0
+309,6/15/2021,5,1,Main_Side,NA,Coho,33,35,0.3,N,N,0
+310,6/15/2021,6,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+311,6/15/2021,7,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+312,6/15/2021,8,1,Main_Side,NA,Coho,37,38,0.4,N,N,0
+313,6/15/2021,9,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+314,6/15/2021,10,1,Main_Side,NA,Coho,32,33,0.2,N,N,0
+315,6/15/2021,11,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+316,6/15/2021,12,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+317,6/15/2021,13,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+318,6/15/2021,14,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+319,6/15/2021,15,2,Seep,NA,Cutthroat/Steelhead,88,93,7.3,Y,N,0
+320,6/15/2021,16,2,Seep,NA,Dolly Varden,58,60,2.2,Y,N,0
+321,6/15/2021,17,2,Seep,NA,Dolly Varden,40,42,0.9,Y,N,0
+322,6/15/2021,18,3,Seep,NA,Cutthroat,128,134,20.4,Y,N,0
+323,6/15/2021,19,4,Main_Side,NA,Sculpin,NA,95,8.7,Y,N,0
+324,6/15/2021,20,4,Main_Side,NA,Coho,55,60,2.2,Y,N,0
+325,6/15/2021,21,4,Main_Side,NA,Dolly Varden,55,57,1.8,Y,N,0
+326,6/15/2021,22,4,Main_Side,NA,Coho,61,66,2.6,Y,N,0
+327,6/15/2021,23,4,Main_Side,NA,Coho,59,64,2.2,Y,N,0
+328,6/15/2021,24,5,Main_Side,NA,Sculpin,NA,92,8.1,Y,N,0
+329,6/15/2021,25,6,Main_Side,NA,Coho,57,61,2.2,Y,N,0
+330,6/15/2021,26,6,Main_Side,NA,Coho,71,77,4.2,Y,N,0
+331,6/15/2021,27,7,Main_Side,NA,Dolly Varden,56,58,1.9,Y,N,0
+332,6/15/2021,28,7,Main_Side,NA,Dolly Varden,62,65,2.4,Y,N,0
+333,6/15/2021,29,7,Main_Side,NA,Dolly Varden,48,50,0.9,Y,N,0
+334,6/15/2021,30,7,Main_Side,NA,Dolly Varden,58,60,2,Y,N,0
+335,6/15/2021,31,7,Main_Side,NA,Coho,52,56,1.4,Y,N,0
+336,6/15/2021,32,7,Main_Side,NA,Coho,69,75,4,Y,N,0
+337,6/15/2021,33,7,Main_Side,NA,Dolly Varden,54,56,1.6,Y,N,0
+338,6/15/2021,34,7,Main_Side,NA,Dolly Varden,55,57,1.7,Y,N,0
+339,6/15/2021,35,8,Main_Side,NA,Dolly Varden,122,130,21.5,Y,N,0
+340,6/15/2021,36,8,Main_Side,NA,Dolly Varden,124,132,23.2,Y,N,0
+341,6/15/2021,37,8,Main_Side,NA,Sculpin,NA,89,8.4,Y,N,0
+342,6/15/2021,38,8,Main_Side,NA,Dolly Varden,86,90,7.3,N,N,0
+343,6/15/2021,39,8,Main_Side,NA,Dolly Varden,92,97,8.2,Y,N,0
+344,6/15/2021,40,8,Main_Side,NA,Dolly Varden,79,83,5.8,N,N,0
+345,6/15/2021,41,8,Main_Side,NA,Dolly Varden,76,79,4.4,N,N,0
+346,6/17/2021,1,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+347,6/17/2021,2,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+348,6/17/2021,3,1,Main_Side,NA,Coho,38,40,0.5,N,N,0
+349,6/17/2021,4,1,Main_Side,NA,Coho,34,35,0.4,N,N,0
+350,6/17/2021,5,1,Main_Side,NA,Coho,32,33,0.3,N,N,0
+351,6/17/2021,6,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+352,6/17/2021,7,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+353,6/17/2021,8,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+354,6/17/2021,9,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+355,6/17/2021,10,1,Main_Side,NA,Coho,32,33,0.3,N,N,0
+356,6/17/2021,11,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+357,6/17/2021,12,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+358,6/17/2021,13,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+359,6/17/2021,14,1,Main_Side,NA,Coho,32,32,0.2,N,N,0
+360,6/17/2021,15,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+361,6/17/2021,16,1,Main_Side,NA,Coho,34,35,0.2,N,N,0
+362,6/17/2021,17,1,Main_Side,NA,Coho,33,34,0.2,N,N,0
+363,6/17/2021,18,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+364,6/17/2021,19,1,Main_Side,NA,Coho,32,32,0.2,N,N,0
+365,6/17/2021,20,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+366,6/17/2021,21,1,Main_Side,NA,Coho,32,32,0.2,N,N,0
+367,6/17/2021,22,1,Main_Side,NA,Coho,32,33,0.2,N,N,0
+368,6/17/2021,23,1,Main_Side,NA,Coho,32,32,0.2,N,N,0
+369,6/17/2021,24,1,Main_Side,NA,Coho,69,75,3.4,Y,N,0
+370,6/17/2021,25,1,Main_Side,NA,Coho,52,56,1.5,Y,N,0
+371,6/17/2021,26,1,Main_Side,NA,Coho,59,64,2.1,Y,N,0
+372,6/17/2021,27,2,Main_Side,NA,Cutthroat/Steelhead,87,92,6.7,Y,N,0
+373,6/17/2021,28,2,Main_Side,NA,Cutthroat/Steelhead,100,106,9.8,Y,N,0
+374,6/17/2021,29,3,Main_Side,NA,Coho,59,64,2.5,Y,N,0
+375,6/17/2021,30,3,Main_Side,NA,Coho,67,73,3.3,Y,N,0
+376,6/17/2021,31,3,Main_Side,NA,Dolly Varden,102,106,7.8,Y,N,0
+377,6/17/2021,32,3,Main_Side,NA,Coho,59,65,2.4,Y,N,0
+378,6/17/2021,33,3,Main_Side,NA,Coho,70,76,4.1,Y,N,0
+379,6/17/2021,34,3,Main_Side,NA,Cutthroat/Steelhead,92,97,7.7,Y,N,0
+380,6/17/2021,35,3,Main_Side,NA,Coho,76,83,5.7,Y,N,0
+381,6/17/2021,36,3,Main_Side,NA,Coho,80,86,6.1,Y,N,0
+382,6/17/2021,37,3,Main_Side,NA,Dolly Varden,76,80,4.7,Y,N,0
+383,6/17/2021,38,3,Main_Side,NA,Coho,73,78,4.1,Y,N,0
+384,6/17/2021,39,3,Main_Side,NA,Coho,77,83,5.3,Y,N,0
+385,6/17/2021,40,3,Main_Side,NA,Dolly Varden,111,118,13.6,Y,N,0
+386,6/17/2021,41,3,Main_Side,NA,Coho,63,68,3.5,Y,N,0
+387,6/17/2021,42,3,Main_Side,NA,Coho,70,75,4.7,N,N,0
+388,6/17/2021,43,3,Main_Side,NA,Dolly Varden,55,58,1.9,Y,N,0
+389,6/17/2021,44,3,Main_Side,NA,Dolly Varden,91,96,6.8,Y,N,0
+390,6/17/2021,45,3,Main_Side,NA,Coho,69,74,3.8,N,N,0
+391,6/17/2021,46,3,Main_Side,NA,Coho,62,67,3,N,N,0
+392,6/17/2021,47,3,Main_Side,NA,Cutthroat/Steelhead,104,110,10.8,Y,N,0
+393,6/17/2021,48,3,Main_Side,NA,Dolly Varden,86,90,7,Y,N,0
+394,6/17/2021,49,3,Main_Side,NA,Dolly Varden,87,92,6.2,Y,N,0
+395,6/17/2021,50,3,Main_Side,NA,Dolly Varden,58,61,1.8,Y,N,0
+396,6/17/2021,51,3,Main_Side,NA,Cutthroat/Steelhead,94,104,8.3,Y,N,0
+397,6/17/2021,52,3,Main_Side,NA,Dolly Varden,90,95,7.8,Y,N,0
+398,6/17/2021,53,3,Main_Side,NA,Dolly Varden,86,90,6,Y,N,0
+399,6/17/2021,54,3,Main_Side,NA,Dolly Varden,62,65,2.4,N,N,0
+400,6/17/2021,55,3,Main_Side,NA,Dolly Varden,53,55,1.6,N,N,0
+401,6/17/2021,56,3,Main_Side,NA,Dolly Varden,86,90,7,N,N,0
+402,6/17/2021,57,3,Main_Side,NA,Coho,51,55,1.5,N,N,0
+403,6/17/2021,58,3,Main_Side,NA,Dolly Varden,77,81,4.6,N,N,0
+404,6/17/2021,59,3,Main_Side,NA,Dolly Varden,47,49,0.8,N,N,0
+405,6/17/2021,60,3,Main_Side,NA,Dolly Varden,56,58,1.3,N,N,0
+406,6/17/2021,61,3,Main_Side,NA,Coho,60,64,2.4,N,N,0
+407,6/17/2021,62,3,Main_Side,NA,Dolly Varden,55,57,1.5,N,N,0
+408,6/17/2021,63,4,Main_Side,NA,Cutthroat/Steelhead,50,51,0.9,N,N,0
+409,6/17/2021,64,4,Main_Side,NA,Coho,33,35,0.1,N,N,0
+410,6/17/2021,65,4,Main_Side,NA,Coho,33,34,0.3,N,N,0
+411,6/17/2021,66,5,Main_Side,NA,Dolly Varden,105,111,12.2,N,N,0
+412,6/17/2021,67,5,Main_Side,NA,Cutthroat/Steelhead,107,112,12.6,N,N,0
+413,6/17/2021,68,5,Main_Side,NA,Dolly Varden,112,120,14,N,N,0
+414,6/17/2021,69,5,Main_Side,NA,Dolly Varden,98,103,8.8,N,N,0
+415,6/17/2021,70,5,Main_Side,NA,Coho,74,79,5.1,N,N,0
+416,6/17/2021,71,5,Main_Side,NA,Dolly Varden,65,68,2.8,N,N,0
+417,6/17/2021,72,5,Main_Side,NA,Coho,62,67,2.7,N,N,0
+418,6/17/2021,73,5,Main_Side,NA,Coho,60,64,2.1,N,N,0
+419,6/17/2021,74,5,Main_Side,NA,Dolly Varden,95,100,8.8,N,N,0
+420,6/17/2021,75,6,Main_Side,NA,Cutthroat/Steelhead,81,86,5.4,N,N,0
+421,6/17/2021,76,6,Main_Side,NA,Dolly Varden,87,91,6.7,N,N,0
+422,6/17/2021,77,7,Seep,NA,Coho,65,70,3.3,Y,N,0
+423,6/17/2021,78,7,Seep,NA,Coho,68,73,3.4,Y,N,0
+424,6/17/2021,79,7,Seep,NA,Dolly Varden,52,54,1.3,N,N,0
+425,6/17/2021,80,7,Seep,NA,Dolly Varden,54,55,1.6,N,N,0
+426,6/17/2021,81,7,Seep,NA,Dolly Varden,50,52,1.2,N,N,0
+427,6/17/2021,82,7,Seep,NA,Dolly Varden,50,52,1.6,N,N,0
+428,6/17/2021,83,7,Seep,NA,Dolly Varden,47,48,1.1,N,N,0
+429,6/17/2021,84,7,Seep,NA,Coho,52,56,1.8,Y,N,0
+430,6/17/2021,85,7,Seep,NA,Coho,64,69,3.2,Y,N,0
+431,6/17/2021,86,7,Seep,NA,Coho,60,65,2.5,Y,N,0
+432,6/17/2021,87,7,Seep,NA,Coho,65,70,3.1,Y,N,0
+433,6/17/2021,88,7,Seep,NA,Coho,71,75,3.4,Y,N,0
+434,6/17/2021,89,7,Seep,NA,Coho,62,67,2.6,Y,N,0
+435,6/17/2021,90,7,Seep,NA,Coho,66,71,3.3,Y,N,0
+436,6/17/2021,91,7,Seep,NA,Coho,56,60,1.7,Y,N,0
+437,6/21/2021,1,3,Main_Side,NA,Dolly Varden,99,105,12.6,Y,N,0
+438,6/21/2021,2,3,Main_Side,NA,Coho,61,66,3,Y,N,0
+439,6/21/2021,3,3,Main_Side,NA,Dolly Varden,61,63,2.4,Y,N,0
+440,6/21/2021,4,3,Main_Side,NA,Dolly Varden,48,50,0.7,Y,N,0
+441,6/21/2021,5,3,Main_Side,NA,Coho,34,35,0.4,N,N,0
+442,6/21/2021,6,3,Main_Side,NA,Coho,34,35,0.3,N,N,0
+443,6/21/2021,7,3,Main_Side,NA,Coho,38,40,0.4,N,N,0
+444,6/21/2021,8,3,Main_Side,NA,Coho,35,36,0.3,N,N,0
+445,6/21/2021,9,3,Main_Side,NA,Coho,35,36,0.4,N,N,0
+446,6/21/2021,10,3,Main_Side,NA,Coho,36,37,0.3,N,N,0
+447,6/21/2021,11,3,Main_Side,NA,Coho,33,34,0.3,N,N,0
+448,6/21/2021,12,3,Main_Side,NA,Coho,36,37,0.3,N,N,0
+449,6/21/2021,13,3,Main_Side,NA,Coho,36,37,0.3,N,N,0
+450,6/21/2021,14,3,Main_Side,NA,Coho,35,36,0.3,N,N,0
+451,6/21/2021,15,3,Main_Side,NA,Coho,37,38,0.4,N,N,0
+452,6/21/2021,16,3,Main_Side,NA,Coho,32,33,0.3,N,N,0
+453,6/21/2021,17,3,Main_Side,NA,Coho,32,32,0.2,N,N,0
+454,6/21/2021,18,3,Main_Side,NA,Coho,36,37,0.4,N,N,0
+455,6/21/2021,19,3,Main_Side,NA,Coho,35,36,0.3,N,N,0
+456,6/21/2021,20,2,Main_Side,NA,Coho,69,74,3.7,Y,N,0
+457,6/21/2021,21,2,Main_Side,NA,Cutthroat,96,101,9.3,N,N,0
+458,6/21/2021,22,2,Main_Side,NA,Coho,72,78,4.7,Y,N,0
+459,6/21/2021,23,2,Main_Side,NA,Dolly Varden,82,92,6.5,Y,N,0
+460,6/21/2021,24,2,Main_Side,NA,Coho,67,72,3.7,Y,N,0
+461,6/21/2021,25,2,Main_Side,NA,Dolly Varden,72,77,3.9,Y,N,0
+462,6/21/2021,26,2,Main_Side,NA,Coho,61,66,2.8,Y,N,0
+463,6/21/2021,27,2,Main_Side,NA,Dolly Varden,50,52,1.6,Y,N,0
+464,6/21/2021,28,2,Main_Side,NA,Coho,74,80,4.9,Y,N,0
+465,6/21/2021,29,2,Main_Side,NA,Coho,59,63,2.7,Y,N,0
+466,6/21/2021,30,2,Main_Side,NA,Dolly Varden,59,61,2,Y,N,0
+467,6/21/2021,31,2,Main_Side,NA,Cutthroat/Steelhead,59,61,2.3,N,N,0
+468,6/21/2021,32,2,Main_Side,NA,Coho,57,61,3.1,Y,N,0
+469,6/21/2021,33,2,Main_Side,NA,Coho,63,67,3.2,Y,N,0
+470,6/21/2021,34,2,Main_Side,NA,Coho,72,78,4.5,Y,N,0
+471,6/21/2021,35,2,Main_Side,NA,Dolly Varden,92,96,8.7,Y,N,0
+472,6/21/2021,36,2,Main_Side,NA,Dolly Varden,77,81,5.1,Y,N,0
+473,6/21/2021,37,2,Main_Side,NA,Dolly Varden,87,91,8,Y,N,0
+474,6/21/2021,38,2,Main_Side,NA,Coho,74,80,5.5,N,N,0
+475,6/21/2021,39,2,Main_Side,NA,Coho,73,78,4.5,N,N,0
+476,6/21/2021,40,2,Main_Side,NA,Coho,59,63,2.9,N,N,0
+477,6/21/2021,41,2,Main_Side,NA,Dolly Varden,58,60,1.7,N,N,0
+478,6/21/2021,42,2,Main_Side,NA,Sculpin,NA,86,8.2,N,N,0
+479,6/21/2021,43,1,Main_Side,NA,Coho,57,62,2.1,N,N,0
+480,6/21/2021,44,1,Main_Side,NA,Coho,54,57,2,N,N,0
+481,6/21/2021,45,1,Main_Side,NA,Coho,58,62,2.5,N,N,0
+482,6/21/2021,46,1,Main_Side,NA,Coho,60,64,2.5,N,N,0
+483,6/21/2021,47,1,Main_Side,NA,Coho,74,80,4.9,N,N,0
+484,6/21/2021,48,1,Main_Side,NA,Coho,34,36,0.3,N,N,0
+485,6/21/2021,49,1,Main_Side,NA,Coho,36,37,0.3,N,N,0
+486,6/21/2021,50,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+487,6/21/2021,51,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+488,6/21/2021,52,1,Main_Side,NA,Coho,35,37,0.4,N,N,0
+489,6/21/2021,53,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+490,6/21/2021,54,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+491,6/21/2021,55,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+492,6/21/2021,56,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+493,6/21/2021,57,4,Seep,NA,Coho,63,67,3.4,Y,N,0
+494,6/21/2021,58,4,Seep,NA,Coho,64,69,2.8,Y,N,0
+495,6/21/2021,59,4,Seep,NA,Coho,55,59,2.2,Y,N,0
+496,6/21/2021,60,4,Seep,NA,Coho,55,59,2.1,Y,N,0
+497,6/21/2021,61,4,Seep,NA,Coho,65,70,2.9,Y,N,0
+498,6/21/2021,62,4,Seep,NA,Dolly Varden,48,50,1.2,N,N,0
+499,6/21/2021,63,4,Seep,NA,Dolly Varden,42,43,1.1,N,N,0
+500,6/24/2021,1,1,Seep,E0CCF2D,Coho,72,77,4.3,Y,N,0
+501,6/24/2021,2,1,Seep,NA,Coho,63,68,2.7,Y,N,0
+502,6/24/2021,3,1,Seep,NA,Coho,34,35,0.3,N,N,0
+503,6/24/2021,4,1,Seep,NA,Coho,35,36,0.3,N,N,0
+504,6/24/2021,5,1,Seep,NA,Coho,34,35,0.3,N,N,0
+505,6/24/2021,6,1,Seep,NA,Coho,35,36,0.3,N,N,0
+506,6/24/2021,7,1,Seep,NA,Coho,38,39,0.7,N,N,0
+507,6/24/2021,8,1,Seep,NA,Coho,42,44,0.8,Y,N,0
+508,6/24/2021,9,1,Seep,NA,Coho,40,42,0.7,Y,N,0
+509,6/24/2021,10,1,Seep,NA,Coho,38,40,0.4,N,N,0
+510,6/24/2021,11,1,Seep,NA,Coho,34,35,0.3,N,N,0
+511,6/24/2021,12,1,Seep,NA,Coho,31,32,0.4,N,N,0
+512,6/24/2021,13,1,Seep,NA,Coho,35,37,0.4,N,N,0
+513,6/24/2021,14,1,Seep,NA,Coho,35,36,0.4,N,N,0
+514,6/24/2021,15,1,Seep,NA,Coho,34,35,0.3,N,N,0
+515,6/24/2021,16,1,Seep,NA,Coho,36,37,0.4,N,N,0
+516,6/24/2021,17,1,Seep,NA,Coho,34,35,0.3,N,N,0
+517,6/24/2021,18,1,Seep,NA,Coho,36,37,0.3,N,N,0
+518,6/24/2021,19,1,Seep,NA,Coho,38,39,0.5,N,N,0
+519,6/24/2021,20,1,Seep,NA,Cutthroat/Steelhead,49,51,1,N,N,0
+520,6/24/2021,21,1,Seep,NA,Coho,35,36,0.4,N,N,0
+521,6/24/2021,22,1,Seep,NA,Coho,36,37,0.4,N,N,0
+522,6/24/2021,23,1,Seep,NA,Coho,35,36,0.4,N,N,0
+523,6/24/2021,24,1,Seep,NA,Coho,31,32,0.3,N,N,0
+524,6/24/2021,25,1,Seep,NA,Coho,32,33,0.3,N,N,0
+525,6/24/2021,26,1,Seep,NA,Coho,32,33,0.3,N,N,0
+526,6/24/2021,27,1,Seep,NA,Coho,34,35,0.4,N,N,0
+527,6/24/2021,28,1,Seep,NA,Coho,34,35,0.3,N,N,0
+528,6/24/2021,29,1,Seep,NA,Coho,34,35,0.4,N,N,0
+529,6/24/2021,30,2,Main_Side,NA,Coho,36,38,0.4,N,N,0
+530,6/24/2021,31,2,Main_Side,NA,Coho,36,37,0.4,Y,N,0
+531,6/24/2021,32,2,Main_Side,NA,Coho,54,57,1.8,Y,N,0
+532,6/24/2021,33,4,Main_Side,NA,Coho,64,69,3.1,Y,N,0
+533,6/24/2021,34,4,Main_Side,E0CCF4C,Dolly Varden,99,106,10.6,Y,N,0
+534,6/24/2021,35,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+535,6/24/2021,36,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+536,6/24/2021,37,4,Main_Side,NA,Coho,37,39,0.5,N,N,0
+537,6/24/2021,38,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+538,6/24/2021,39,4,Main_Side,NA,Coho,34,35,0.3,N,N,0
+539,6/24/2021,40,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+540,6/24/2021,41,4,Main_Side,NA,Coho,35,36,0.3,N,N,0
+541,6/24/2021,42,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+542,6/24/2021,43,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+543,6/24/2021,44,4,Main_Side,NA,Coho,33,34,0.4,N,N,0
+544,6/24/2021,45,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+545,6/24/2021,46,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+546,6/24/2021,47,4,Main_Side,NA,Coho,33,34,0.3,N,N,0
+547,6/24/2021,48,4,Main_Side,NA,Dolly Varden,NA,32,0.4,N,N,0
+548,6/24/2021,49,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+549,6/24/2021,50,4,Main_Side,NA,Coho,37,38,0.5,N,N,0
+550,6/24/2021,51,4,Main_Side,NA,Dolly Varden,NA,32,0.5,N,N,0
+551,6/24/2021,52,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+552,6/24/2021,53,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+553,6/24/2021,54,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+554,6/24/2021,55,4,Main_Side,NA,Dolly Varden,NA,28,0.2,N,N,0
+555,6/24/2021,56,4,Main_Side,NA,Dolly Varden,NA,26,0.1,N,N,0
+556,6/24/2021,57,5,Main_Side,E0CCEFB,Coho,82,90,7.1,Y,N,0
+557,6/24/2021,58,5,Main_Side,E0CCF4A,Dolly Varden,99,107,11.2,Y,N,0
+558,6/24/2021,59,5,Main_Side,NA,Cutthroat/Steelhead,105,110,10.7,Y,N,0
+559,6/24/2021,60,5,Main_Side,NA,Coho,64,69,2.7,Y,N,0
+560,6/24/2021,61,5,Main_Side,NA,Coho,35,36,0.4,N,N,0
+561,6/24/2021,62,5,Main_Side,NA,Coho,35,37,0.4,N,N,0
+562,6/24/2021,63,5,Main_Side,NA,Coho,36,38,0.4,N,N,0
+563,6/24/2021,64,5,Main_Side,NA,Coho,34,35,0.3,N,N,0
+564,6/24/2021,65,5,Main_Side,NA,Coho,37,38,0.5,N,N,0
+565,6/24/2021,66,5,Main_Side,NA,Coho,35,36,0.3,N,N,0
+566,6/24/2021,67,5,Main_Side,NA,Coho,36,37,0.4,N,N,0
+567,6/24/2021,68,5,Main_Side,NA,Coho,34,35,0.4,N,N,0
+568,6/24/2021,69,6,Main_Side,NA,Coho,45,47,1.2,Y,N,0
+569,6/24/2021,70,6,Main_Side,NA,Coho,64,69,2.9,Y,N,0
+570,6/24/2021,71,6,Main_Side,NA,Coho,35,36,0.3,N,N,0
+571,6/24/2021,72,6,Main_Side,NA,Coho,46,49,1.2,Y,N,0
+572,6/24/2021,73,6,Main_Side,NA,Coho,42,44,1,Y,N,0
+573,6/24/2021,74,6,Main_Side,NA,Coho,40,42,0.5,N,N,0
+574,6/24/2021,75,6,Main_Side,NA,Coho,38,39,0.5,N,N,0
+575,6/24/2021,76,6,Main_Side,NA,Coho,37,38,0.4,N,N,0
+576,6/24/2021,77,6,Main_Side,NA,Coho,37,38,0.5,N,N,0
+577,6/24/2021,78,6,Main_Side,NA,Coho,35,37,0.4,N,N,0
+578,6/24/2021,79,6,Main_Side,NA,Coho,35,36,0.4,N,N,0
+579,6/24/2021,80,6,Main_Side,NA,Coho,40,42,0.7,N,N,0
+580,6/24/2021,81,6,Main_Side,NA,Coho,35,36,0.4,N,N,0
+581,6/24/2021,82,6,Main_Side,NA,Coho,35,36,0.3,N,N,0
+582,6/24/2021,83,6,Main_Side,NA,Coho,36,37,0.4,N,N,0
+583,6/24/2021,84,6,Main_Side,NA,Coho,35,36,0.4,N,N,0
+584,6/24/2021,85,6,Main_Side,NA,Dolly Varden,NA,29,0.2,N,N,0
+585,6/24/2021,86,8,Seep,NA,Dolly Varden,59,61,2.2,Y,N,0
+586,6/24/2021,87,8,Seep,NA,Cutthroat/Steelhead,45,47,0.9,Y,N,0
+587,6/30/2021,1,1,Main_Side,NA,Coho,36,38,0.4,N,N,0
+588,6/30/2021,2,1,Main_Side,NA,Dolly Varden,61,64,2.6,Y,N,0
+589,6/30/2021,3,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+590,6/30/2021,4,1,Main_Side,NA,Coho,33,34,0.4,N,N,0
+591,6/30/2021,5,1,Main_Side,NA,Coho,37,39,0.4,N,N,0
+592,6/30/2021,6,1,Main_Side,NA,Coho,36,38,0.5,N,N,0
+593,6/30/2021,7,1,Main_Side,NA,Coho,36,38,0.4,N,N,0
+594,6/30/2021,8,1,Main_Side,NA,Coho,34,35,0.4,N,N,0
+595,6/30/2021,9,1,Main_Side,NA,Coho,34,35,0.4,N,N,0
+596,6/30/2021,10,1,Main_Side,NA,Coho,40,42,0.5,N,N,0
+597,6/30/2021,11,1,Main_Side,NA,Coho,37,39,0.5,N,N,0
+598,6/30/2021,12,1,Main_Side,NA,Coho,34,36,0.4,N,N,0
+599,6/30/2021,13,1,Main_Side,NA,Coho,37,38,0.5,N,N,0
+600,6/30/2021,14,1,Main_Side,NA,Coho,39,40,0.6,N,N,0
+601,6/30/2021,15,1,Main_Side,NA,Coho,35,37,0.4,N,N,0
+602,6/30/2021,16,1,Main_Side,NA,Coho,37,39,0.5,N,N,0
+603,6/30/2021,17,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+604,6/30/2021,18,1,Main_Side,NA,Coho,42,45,0.9,Y,N,0
+605,6/30/2021,19,1,Main_Side,E0CCF3D,Coho,68,73,3.4,Y,N,0
+606,6/30/2021,20,1,Main_Side,NA,Dolly Varden,57,60,1.5,Y,N,0
+607,6/30/2021,21,1,Main_Side,E0CCF4F,Dolly Varden,92,97,7.7,Y,N,0
+608,6/30/2021,22,2,Main_Side,NA,Dolly Varden,95,100,8.9,Y,N,0
+609,6/30/2021,23,2,Main_Side,E0CCF00,Coho,67,72,3.6,Y,N,0
+610,6/30/2021,24,2,Main_Side,NA,Cutthroat,115,118,13.9,Y,N,0
+611,6/30/2021,25,2,Main_Side,E0CCF58,Dolly Varden,91,95,6.3,Y,N,0
+612,6/30/2021,26,2,Main_Side,E0CCF06,Coho,78,84,5.1,Y,N,0
+613,6/30/2021,27,2,Main_Side,NA,Coho,61,65,2.6,Y,N,0
+614,6/30/2021,28,2,Main_Side,E0CCF18,Coho,72,77,4.3,Y,N,0
+615,6/30/2021,29,2,Main_Side,E0CCEF7,Coho,72,77,4.4,Y,N,0
+616,6/30/2021,30,2,Main_Side,NA,Coho,79,84,5.2,Y,N,0
+617,6/30/2021,31,2,Main_Side,NA,Coho,68,73,3.1,Y,N,0
+618,6/30/2021,32,2,Main_Side,E0CCF2E,Coho,80,85,5.8,Y,N,0
+619,6/30/2021,33,2,Main_Side,NA,Cutthroat,138,145,24,Y,N,0
+620,6/30/2021,34,2,Main_Side,E0CCF51,Coho,70,75,3.9,Y,N,0
+621,6/30/2021,35,2,Main_Side,E0CCF41,Coho,82,87,6.2,Y,N,0
+622,6/30/2021,36,2,Main_Side,NA,Dolly Varden,94,99,7.8,Y,N,0
+623,6/30/2021,37,2,Main_Side,E0CCF01,Coho,80,86,6.3,Y,N,0
+624,6/30/2021,38,2,Main_Side,E0CCF46,Coho,81,86,6.1,N,N,0
+625,6/30/2021,39,2,Main_Side,E0CCF52,Dolly Varden,92,96,7.4,Y,N,0
+626,6/30/2021,40,2,Main_Side,E0CCF32,Dolly Varden,88,92,6.4,Y,N,0
+627,6/30/2021,41,2,Main_Side,NA,Coho,70,75,3.6,N,N,0
+628,6/30/2021,42,2,Main_Side,E0CCEF8,Dolly Varden,91,95,7.4,Y,N,0
+629,6/30/2021,43,2,Main_Side,E0CCF35,Dolly Varden,85,90,6.1,Y,N,0
+630,6/30/2021,44,2,Main_Side,NA,Dolly Varden,76,80,4.3,Y,N,0
+631,6/30/2021,45,2,Main_Side,NA,Coho,64,68,2.7,N,N,0
+632,6/30/2021,46,2,Main_Side,NA,Coho,63,67,2.7,N,N,0
+633,6/30/2021,47,2,Main_Side,E0CCF08,Coho,73,78,4.6,N,N,0
+634,6/30/2021,48,2,Main_Side,E0CCF27,Dolly Varden,88,92,6.6,Y,N,0
+635,6/30/2021,49,3,Seep,NA,Coho,61,66,2.9,Y,N,0
+636,6/30/2021,50,3,Seep,NA,Coho,64,69,3.2,Y,N,0
+637,6/30/2021,51,3,Seep,NA,Coho,61,65,2.9,Y,N,0
+638,6/30/2021,52,5,Main_Side,NA,Coho,35,36,0.5,N,N,0
+639,6/30/2021,53,5,Main_Side,NA,Coho,37,39,0.5,N,N,0
+640,6/30/2021,54,5,Main_Side,NA,Coho,34,35,0.3,N,N,0
+641,6/30/2021,55,5,Main_Side,NA,Coho,36,38,0.5,N,N,0
+642,6/30/2021,56,5,Main_Side,NA,Coho,35,36,0.4,N,N,0
+643,6/30/2021,57,5,Main_Side,NA,Coho,36,37,0.5,N,N,0
+644,6/30/2021,58,5,Main_Side,NA,Coho,36,37,0.4,N,N,0
+645,6/30/2021,59,5,Main_Side,NA,Coho,32,33,0.3,N,N,0
+646,6/30/2021,60,5,Main_Side,NA,Coho,37,39,0.5,N,N,0
+647,6/30/2021,61,5,Main_Side,NA,Coho,33,34,0.3,N,N,0
+648,6/30/2021,62,5,Main_Side,NA,Coho,34,35,0.3,N,N,0
+649,6/30/2021,63,5,Main_Side,NA,Coho,37,39,0.4,N,N,0
+650,6/30/2021,64,5,Main_Side,NA,Coho,35,37,0.5,N,N,0
+651,6/30/2021,65,5,Main_Side,NA,Coho,34,35,0.3,N,N,0
+652,6/30/2021,66,5,Main_Side,NA,Coho,33,34,0.4,N,N,0
+653,6/30/2021,67,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+654,6/30/2021,68,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+655,6/30/2021,69,4,Main_Side,NA,Coho,37,38,0.5,N,N,0
+656,6/30/2021,70,4,Main_Side,NA,Coho,38,39,0.6,N,N,0
+657,6/30/2021,71,4,Main_Side,NA,Coho,33,34,0.3,N,N,0
+658,6/30/2021,72,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+659,6/30/2021,73,4,Main_Side,NA,Coho,37,39,0.6,N,N,0
+660,6/30/2021,74,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+661,6/30/2021,75,4,Main_Side,NA,Coho,35,36,0.3,N,N,0
+662,6/30/2021,76,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+663,6/30/2021,77,4,Main_Side,NA,Coho,35,36,0.3,N,N,0
+664,6/30/2021,78,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+665,6/30/2021,79,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+666,6/30/2021,80,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+667,6/30/2021,81,4,Main_Side,NA,Coho,34,35,0.3,N,N,0
+668,6/30/2021,82,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+669,6/30/2021,83,4,Main_Side,NA,Coho,32,33,0.3,N,N,0
+670,6/30/2021,84,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+671,6/30/2021,85,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+672,6/30/2021,86,4,Main_Side,NA,Coho,34,35,0.3,N,N,0
+673,6/30/2021,87,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+674,6/30/2021,88,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+675,6/30/2021,89,4,Main_Side,NA,Coho,37,39,0.5,N,N,0
+676,6/30/2021,90,4,Main_Side,NA,Coho,37,39,0.5,N,N,0
+677,6/30/2021,91,4,Main_Side,NA,Coho,37,38,0.5,N,N,0
+678,6/30/2021,92,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+679,6/30/2021,93,4,Main_Side,NA,Coho,36,37,0.4,N,N,0
+680,6/30/2021,94,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+681,6/30/2021,95,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+682,6/30/2021,96,4,Main_Side,NA,Coho,33,34,0.3,N,N,0
+683,6/30/2021,97,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+684,6/30/2021,98,4,Main_Side,NA,Coho,35,36,0.3,N,N,0
+685,6/30/2021,99,4,Main_Side,NA,Coho,34,35,0.3,N,N,0
+686,6/30/2021,100,4,Main_Side,NA,Coho,32,33,0.3,N,N,0
+687,6/30/2021,101,4,Main_Side,NA,Coho,35,37,0.5,N,N,0
+688,6/30/2021,102,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+689,6/30/2021,103,4,Main_Side,NA,Coho,36,37,0.5,N,N,0
+690,6/30/2021,104,4,Main_Side,NA,Coho,33,34,0.3,N,N,0
+691,6/30/2021,105,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+692,6/30/2021,106,4,Main_Side,NA,Coho,37,39,0.6,N,N,0
+693,6/30/2021,107,4,Main_Side,NA,Coho,37,39,0.4,N,N,0
+694,6/30/2021,108,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+695,6/30/2021,109,4,Main_Side,NA,Coho,37,39,0.5,N,N,0
+696,6/30/2021,110,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+697,6/30/2021,111,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+698,6/30/2021,112,4,Main_Side,NA,Coho,34,33,0.3,N,N,0
+699,6/30/2021,113,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+700,6/30/2021,114,4,Main_Side,NA,Coho,36,37,0.5,N,N,0
+701,6/30/2021,115,4,Main_Side,NA,Coho,36,38,0.5,N,N,0
+702,6/30/2021,116,4,Main_Side,NA,Coho,36,37,0.3,N,N,0
+703,6/30/2021,117,4,Main_Side,NA,Coho,36,38,0.4,N,N,0
+704,6/30/2021,118,4,Main_Side,NA,Dolly Varden,61,63,2.5,N,N,0
+705,6/30/2021,119,4,Main_Side,NA,Dolly Varden,60,62,2.1,N,N,0
+706,6/30/2021,120,4,Main_Side,E0CCF1E,Coho,80,88,6.1,N,N,0
+707,6/30/2021,121,4,Main_Side,E0CCEF9,Coho,85,93,7.2,N,N,0
+708,6/30/2021,122,4,Main_Side,NA,Cutthroat,122,129,17.4,N,N,0
+709,6/30/2021,123,4,Main_Side,E0CCF4D,Dolly Varden,94,98,7.5,N,N,0
+710,6/30/2021,124,4,Main_Side,E0CCF36,Dolly Varden,97,103,8.6,N,N,0
+711,7/2/2021,1,1,Main_Side,E0CCF04,Coho,71,78,4.2,Y,N,0
+712,7/2/2021,2,1,Main_Side,E0CCF22,Coho,77,83,5.2,Y,N,0
+713,7/2/2021,3,1,Main_Side,E0CCF25,Dolly Varden,134,143,21.7,Y,N,0
+714,7/2/2021,4,1,Main_Side,NA,Coho,68,73,3.4,Y,N,0
+715,7/2/2021,5,1,Main_Side,NA,Coho,66,71,3.1,Y,N,0
+716,7/2/2021,6,1,Main_Side,NA,Cutthroat/Steelhead,98,102,8.5,Y,N,0
+717,7/2/2021,7,1,Main_Side,E0CCF02,Coho,70,75,3.7,Y,N,0
+718,7/2/2021,8,1,Main_Side,E0CCF0F,Coho,69,74,3.9,Y,N,0
+719,7/2/2021,9,1,Main_Side,NA,Coho,65,70,3.1,Y,N,0
+720,7/2/2021,10,1,Main_Side,E0CCF1F,Coho,73,81,4.7,Y,N,0
+721,7/2/2021,11,1,Main_Side,NA,Coho,36,37,0.3,N,N,0
+722,7/2/2021,12,1,Main_Side,NA,Coho,37,38,0.4,N,N,0
+723,7/2/2021,13,1,Main_Side,NA,Coho,36,37,0.4,N,N,0
+724,7/2/2021,14,1,Main_Side,NA,Coho,32,33,0.3,N,N,0
+725,7/2/2021,15,1,Main_Side,NA,Coho,33,34,0.4,N,N,0
+726,7/2/2021,16,1,Main_Side,NA,Coho,35,36,0.3,N,N,0
+727,7/2/2021,17,1,Main_Side,NA,Coho,35,37,0.3,N,N,0
+728,7/2/2021,18,1,Main_Side,NA,Coho,38,40,0.6,N,N,0
+729,7/2/2021,19,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+730,7/2/2021,20,1,Main_Side,NA,Coho,35,36,0.5,N,N,0
+731,7/2/2021,21,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+732,7/2/2021,22,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+733,7/2/2021,23,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+734,7/2/2021,24,1,Main_Side,NA,Coho,39,40,0.6,N,N,0
+735,7/2/2021,25,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+736,7/2/2021,26,1,Main_Side,NA,Coho,36,37,0.4,N,N,0
+737,7/2/2021,27,1,Main_Side,NA,Coho,33,34,0.2,N,N,0
+738,7/2/2021,28,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+739,7/2/2021,29,1,Main_Side,NA,Coho,36,37,0.5,N,N,0
+740,7/2/2021,30,1,Main_Side,NA,Dolly Varden,NA,30,0.2,N,N,0
+741,7/2/2021,31,1,Main_Side,NA,Dolly Varden,NA,30,0.2,N,N,0
+742,7/2/2021,32,1,Main_Side,NA,Coho,32,33,0.3,N,N,0
+743,7/2/2021,33,1,Main_Side,NA,Coho,NA,38,0.4,N,N,0
+744,7/2/2021,34,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+745,7/2/2021,35,1,Main_Side,NA,Coho,34,35,0.3,N,N,0
+746,7/2/2021,36,1,Main_Side,NA,Coho,34,36,0.4,N,N,0
+747,7/2/2021,37,1,Main_Side,NA,Coho,36,38,0.4,N,N,0
+748,7/2/2021,38,2,Main_Side,E0CCF46,Coho,83,88,6.2,Y,N,0
+749,7/2/2021,39,2,Main_Side,E0CCF13,Dolly Varden,86,90,6,Y,N,0
+750,7/2/2021,40,2,Main_Side,NA,Cutthroat/Steelhead,88,92,6.5,Y,N,0
+751,7/2/2021,41,2,Main_Side,NA,Dolly Varden,81,84,4.9,Y,N,0
+752,7/2/2021,42,2,Main_Side,E0CCEFE,Coho,70,75,4.2,Y,N,0
+753,7/2/2021,43,2,Main_Side,E0CCF10,Coho,69,73,3.6,N,N,0
+754,7/2/2021,44,2,Main_Side,E0CCF11,Dolly Varden,93,98,7.3,Y,N,0
+755,7/2/2021,45,2,Main_Side,NA,Dolly Varden,101,106,10.9,Y,N,0
+756,7/2/2021,46,2,Main_Side,NA,Dolly Varden,90,95,7.2,Y,N,0
+757,7/2/2021,47,2,Main_Side,E0CCEFC,Dolly Varden,95,100,8.4,Y,N,0
+758,7/2/2021,48,2,Main_Side,NA,Dolly Varden,92,101,8.4,Y,N,0
+759,7/2/2021,49,2,Main_Side,NA,Dolly Varden,68,72,3.6,Y,N,0
+760,7/2/2021,50,2,Main_Side,E0CCF53,Dolly Varden,120,125,17.1,Y,N,0
+761,7/2/2021,51,2,Main_Side,E0CCF52,Dolly Varden,93,95,7.5,N,N,0
+762,7/2/2021,52,2,Main_Side,E0CCEF7,Coho,73,79,4.3,N,N,0
+763,7/2/2021,53,2,Main_Side,E0CCF15,Dolly Varden,105,110,11.7,N,N,0
+764,7/2/2021,54,2,Main_Side,NA,Dolly Varden,64,67,2.7,N,N,0
+765,7/2/2021,55,2,Main_Side,NA,Coho,61,64,2.6,N,N,0
+766,7/2/2021,56,2,Main_Side,NA,Cutthroat/Steelhead,145,155,27.5,N,N,0
+767,7/2/2021,57,2,Main_Side,E0CCF26,Dolly Varden,104,109,10.1,N,N,0
+768,7/2/2021,58,2,Main_Side,NA,Coho,71,75,4,N,N,0
+769,7/2/2021,59,2,Main_Side,E0CCEF6,Coho,72,77,4.7,N,N,0
+770,7/2/2021,60,2,Main_Side,NA,Coho,72,77,4.4,N,N,0
+771,7/2/2021,61,2,Main_Side,NA,Cutthroat/Steelhead,99,102,9.4,N,N,0
+772,7/2/2021,62,2,Main_Side,NA,Coho,65,69,3.1,N,N,0
+773,7/2/2021,63,2,Main_Side,E0CCF4E,Coho,74,78,5,N,N,0
+774,7/2/2021,64,2,Main_Side,NA,Dolly Varden,58,60,2,N,N,0
+775,7/2/2021,65,2,Main_Side,NA,Cutthroat/Steelhead,98,103,9.6,N,N,0
+776,7/2/2021,66,2,Main_Side,E0CCF05,Coho,73,78,4.1,N,N,0
+777,7/2/2021,67,2,Main_Side,93DDF23,Cutthroat,147,155,30.1,N,N,0
+778,7/2/2021,68,2,Main_Side,NA,Dolly Varden,84,87,5.8,N,N,0
+779,7/2/2021,69,2,Main_Side,NA,Dolly Varden,66,69,2.4,N,N,0
+780,7/2/2021,70,2,Main_Side,NA,Dolly Varden,91,95,6.6,N,N,0
+781,7/2/2021,71,2,Main_Side,NA,Cutthroat,112,116,12.6,N,N,0
+782,7/2/2021,72,2,Main_Side,E0CCF3F,Coho,7,76,4.4,N,N,0
+783,7/2/2021,73,2,Main_Side,E0CCF47,Dolly Varden,102,105,9.7,N,N,0
+784,7/2/2021,74,2,Main_Side,E0CCF0C,Coho,79,85,5.6,N,N,0
+785,7/2/2021,75,2,Main_Side,NA,Cutthroat/Steelhead,113,117,13.5,N,N,0
+786,7/2/2021,76,2,Main_Side,NA,Dolly Varden,68,71,3.2,N,N,0
+787,7/2/2021,77,2,Main_Side,E0CCF2A,Coho,80,86,5.8,N,N,0
+788,7/2/2021,78,2,Main_Side,E0CCF48,Dolly Varden,133,139,21.2,N,N,0
+789,7/2/2021,79,2,Main_Side,NA,Dolly Varden,85,90,5.3,N,N,0
+790,7/2/2021,80,2,Main_Side,E0CCF1D,Coho,77,82,5.4,N,N,0
+791,7/2/2021,81,2,Main_Side,NA,Dolly Varden,66,69,2.7,N,N,0
+792,7/2/2021,82,2,Main_Side,E0CCF56,Coho,86,93,7.7,N,N,0
+793,7/2/2021,83,2,Main_Side,E0CCF2E,Coho,80,86,5.6,N,N,0
+794,7/2/2021,84,2,Main_Side,NA,Coho,66,70,3.3,N,N,0
+795,7/2/2021,85,2,Main_Side,E0CCF4C,Dolly Varden,103,107,11,N,N,0
+796,7/2/2021,86,2,Main_Side,E0CCF29,Coho,70,73,4.2,N,N,0
+797,7/2/2021,87,2,Main_Side,E0CCEFA,Dolly Varden,89,93,7,N,N,0
+798,7/2/2021,88,3,Main_Side,NA,Coho,38,39,0.4,N,N,0
+799,7/2/2021,89,3,Main_Side,NA,Coho,39,40,0.6,N,N,0
+800,7/2/2021,90,3,Main_Side,NA,Coho,38,39,0.6,N,N,0
+801,7/2/2021,91,3,Main_Side,NA,Coho,37,39,0.5,N,N,0
+802,7/2/2021,92,3,Main_Side,E0CCF30,Coho,70,76,3.9,N,N,0
+803,7/2/2021,93,3,Main_Side,NA,Cutthroat/Steelhead,102,107,9.9,N,N,0
+804,7/2/2021,94,3,Main_Side,NA,Coho,33,34,0.4,N,N,0
+805,7/2/2021,95,3,Main_Side,NA,Cutthroat/Steelhead,119,126,16.1,N,N,0
+806,7/2/2021,96,3,Main_Side,NA,Coho,NA,33,0.4,N,N,0
+807,7/2/2021,97,3,Main_Side,NA,Dolly Varden,62,65,2.1,N,N,0
+808,7/2/2021,98,3,Main_Side,NA,Dolly Varden,92,103,8.9,N,N,0
+809,7/2/2021,99,3,Main_Side,NA,Cutthroat,140,147,23.9,N,N,0
+810,7/2/2021,100,3,Main_Side,NA,Coho,69,75,3.7,N,N,0
+811,7/2/2021,101,3,Main_Side,NA,Dolly Varden,86,90,6.1,N,N,0
+812,7/2/2021,102,3,Main_Side,NA,Coho,63,67,3.1,N,N,0
+813,7/2/2021,103,3,Main_Side,NA,Cutthroat/Steelhead,98,102,8.9,N,N,0
+814,7/2/2021,104,3,Main_Side,NA,Cutthroat/Steelhead,90,94,8.1,N,N,0
+815,7/2/2021,105,3,Main_Side,NA,Cutthroat/Steelhead,105,108,9.7,N,N,0
+816,7/2/2021,106,3,Main_Side,NA,Coho,68,71,3.6,N,N,0
+817,7/2/2021,107,3,Main_Side,NA,Coho,64,69,3,N,N,0
+818,7/2/2021,108,3,Main_Side,NA,Cutthroat/Steelhead,94,99,9.8,N,N,0
+819,7/2/2021,109,3,Main_Side,NA,Coho,33,34,0.3,N,N,0
+820,7/2/2021,110,3,Main_Side,NA,Dolly Varden,94,99,7.7,N,N,0
+821,7/2/2021,111,3,Main_Side,NA,Dolly Varden,82,86,5.3,N,N,0
+822,7/2/2021,112,3,Main_Side,E0CCF45,Dolly Varden,89,94,7,N,N,0
+823,7/2/2021,113,3,Main_Side,NA,Cutthroat/Steelhead,104,109,11.5,N,N,0
+824,7/2/2021,114,3,Main_Side,NA,Coho,69,74,3.6,N,N,0
+825,7/2/2021,115,3,Main_Side,NA,Cutthroat/Steelhead,125,130,18.3,N,N,0
+826,7/2/2021,116,3,Main_Side,E0CCF1A,Coho,78,84,5.6,N,N,0
+827,7/2/2021,117,3,Main_Side,E0CCF37,Dolly Varden,110,114,12.9,N,N,0
+828,7/2/2021,118,3,Main_Side,E0CCF2C,Dolly Varden,112,117,13.5,N,N,0
+829,7/2/2021,119,3,Main_Side,NA,Coho,37,38,0.5,N,N,0
+830,7/2/2021,120,3,Main_Side,E0CCF14,Dolly Varden,108,113,12,N,N,0
+831,7/2/2021,121,3,Main_Side,NA,Coho,61,66,2.1,N,N,0
+832,7/2/2021,122,3,Main_Side,NA,Coho,38,39,0.5,N,N,0
+833,7/2/2021,123,3,Main_Side,E0CCF1C,Dolly Varden,107,112,11.9,N,N,0
+834,7/2/2021,124,3,Main_Side,E0CCF38,Dolly Varden,85,91,6.2,N,N,0
+835,7/2/2021,125,3,Main_Side,E0CCF3B,Dolly Varden,94,98,7.9,N,N,0
+836,7/2/2021,126,3,Main_Side,NA,Cutthroat/Steelhead,110,115,13.4,N,N,0
+837,7/2/2021,127,3,Main_Side,EOCCF3E,Coho,78,84,5.8,N,N,0
+838,7/2/2021,128,3,Main_Side,NA,Cutthroat/Steelhead,123,129,17.4,N,N,0
+839,7/2/2021,129,3,Main_Side,E0CCF12,Coho,79,86,5.7,N,N,0
+840,7/2/2021,130,3,Main_Side,E0CCF33,Dolly Varden,86,90,6.8,N,N,0
+841,7/2/2021,131,3,Main_Side,E0CCF44,Dolly Varden,100,106,9.1,N,N,0
+842,7/2/2021,132,3,Main_Side,NA,Cutthroat/Steelhead,130,138,20.5,N,N,0
+843,7/2/2021,133,3,Main_Side,NA,Steelhead/Rainbow,160,166,42,N,N,0
+844,7/2/2021,134,3,Main_Side,NA,Dolly Varden,111,116,13.9,N,N,0
+845,7/2/2021,135,3,Main_Side,E0CCF0E,Dolly Varden,101,106,9.8,N,N,0
+846,7/2/2021,136,3,Main_Side,NA,Coho,60,63,2.2,N,N,0
+847,7/2/2021,137,3,Main_Side,EOCCEFF,Dolly Varden,116,123,13.8,N,N,0
+848,7/6/2021,1,1,Main_Side,NA,Coho,66,71,3.2,Y,N,0
+849,7/6/2021,2,1,Main_Side,E0CCF09,Dolly Varden,105,109,10.3,Y,N,0
+850,7/6/2021,3,1,Main_Side,NA,Cutthroat/Steelhead,94,98,8,Y,N,0
+851,7/6/2021,4,1,Main_Side,E0CCF34,Coho,84,91,7,Y,N,0
+852,7/6/2021,5,3,Main_Side,NA,Coho,39,41,0.5,N,N,0
+853,7/6/2021,6,3,Main_Side,NA,Cutthroat/Steelhead,112,117,12.4,Y,N,0
+854,7/6/2021,7,3,Main_Side,E0CCF4B,Dolly Varden,91,96,6.8,Y,N,0
+855,7/6/2021,8,3,Main_Side,NA,Cutthroat/Steelhead,153,160,29.3,Y,N,0
+856,7/6/2021,9,3,Main_Side,NA,Cutthroat/Steelhead,108,113,11.6,Y,N,0
+857,7/6/2021,10,3,Main_Side,NA,Cutthroat/Steelhead,103,108,10.2,Y,N,0
+858,7/6/2021,11,3,Main_Side,NA,Cutthroat/Steelhead,101,105,10.1,Y,N,0
+859,7/6/2021,12,3,Main_Side,NA,Cutthroat/Steelhead,107,113,11.2,Y,N,0
+860,7/6/2021,13,3,Main_Side,NA,Cutthroat/Steelhead,123,129,17.1,Y,N,0
+861,7/6/2021,14,3,Main_Side,NA,Cutthroat/Steelhead,121,128,17,Y,N,0
+862,7/6/2021,15,3,Main_Side,E0CCF24,Dolly Varden,112,119,12.7,Y,N,0
+863,7/6/2021,16,3,Main_Side,NA,Coho,60,64,2.6,Y,N,0
+864,7/6/2021,17,3,Main_Side,93DDF46,Dolly Varden,97,103,8.8,Y,N,0
+865,7/6/2021,18,3,Main_Side,E0CCF23,Coho,80,86,6,Y,N,0
+866,7/6/2021,19,2,Main_Side,NA,Cutthroat,137,144,22.3,Y,N,0
+867,7/6/2021,20,2,Main_Side,E0CCF55,Coho,76,82,4.6,Y,N,0
+868,7/6/2021,21,,Main_Side,E0CCF4A,Dolly Varden,95,110,11.1,Y,N,0
+869,7/6/2021,22,,Main_Side,E0CCF20,Coho,87,94,7.5,Y,N,0
+870,7/6/2021,23,,Main_Side,NA,Cutthroat/Steelhead,101,106,10.5,N,N,0
+871,7/6/2021,24,,Main_Side,NA,Cutthroat/Steelhead,112,117,12.6,N,N,0
+872,7/6/2021,25,,Main_Side,NA,Cutthroat/Steelhead,107,113,11.9,N,N,0
+873,7/6/2021,26,,Main_Side,E0CCF39,Dolly Varden,103,109,10.4,Y,N,0
+874,7/6/2021,27,,Main_Side,E0CCF2F,Coho,80,86,5.7,Y,N,0
+875,7/6/2021,28,,Main_Side,E0CCF3C,Coho,81,88,6.3,Y,N,0
+876,7/6/2021,29,,Main_Side,E0CCF07,Coho,73,77,4.5,Y,N,0
+877,7/6/2021,30,,Main_Side,E0CCF42,Coho,70,76,3.7,N,N,0
+878,7/6/2021,31,,Main_Side,NA,Cutthroat/Steelhead,124,126,15.8,N,N,0
+879,7/6/2021,32,,Main_Side,NA,Cutthroat/Steelhead,100,105,9.8,N,N,0
+880,7/6/2021,33,,Main_Side,E0CCF47,Dolly Varden,103,109,9.9,Y,N,0
+881,7/6/2021,34,,Main_Side,EOCCF50,Coho,70,75,3.8,N,N,0
+882,7/6/2021,35,,Main_Side,EOCCF2B,Dolly Varden,103,108,10,Y,N,0
+883,7/6/2021,36,,Main_Side,E0CCF0B,Dolly Varden,93,98,7.4,Y,N,0
+884,7/6/2021,37,,Main_Side,E0CCF19,Coho,70,76,3.8,N,N,0
+885,7/6/2021,38,,Main_Side,NA,Coho,69,73,3.6,N,N,0
+886,7/6/2021,39,,Main_Side,E0CCF21,Dolly Varden,101,108,9.3,N,N,0
+887,7/6/2021,40,,Main_Side,E0CCF3A,Dolly Varden,104,110,11.8,Y,N,0
+888,7/6/2021,41,,Main_Side,E0CCF17,Dolly Varden,114,121,13.7,N,N,0
+889,7/6/2021,42,,Main_Side,E0CCF113,Dolly Varden,90,95,7.4,N,N,0
+890,7/6/2021,43,,Main_Side,NA,Coho,41,42,0.7,N,N,0
+891,7/6/2021,44,,Main_Side,NA,Coho,38,40,0.6,N,N,0
+892,7/6/2021,45,,Main_Side,NA,Coho,34,35,0.4,N,N,0
+893,7/6/2021,46,,Main_Side,NA,Coho,35,37,0.5,N,N,0
+894,7/6/2021,47,,Main_Side,NA,Coho,36,37,0.5,N,N,0
+895,7/6/2021,48,,Main_Side,NA,Coho,34,35,0.4,N,N,0
+896,7/6/2021,49,,Main_Side,NA,Coho,34,35,0.4,N,N,0
+897,7/6/2021,50,,Main_Side,NA,Coho,32,33,0.3,N,N,0
+898,7/6/2021,51,,Seep,NA,Dolly Varden,53,55,1.5,Y,N,0
+899,7/6/2021,52,,Seep,NA,Dolly Varden,60,63,2.7,Y,N,0
+900,7/6/2021,53,,Seep,NA,Dolly Varden,49,51,1.3,Y,N,0
+901,7/6/2021,54,,Seep,NA,Dolly Varden,61,63,2.3,Y,N,0
+902,7/6/2021,55,,Seep,NA,Dolly Varden,60,63,2.4,Y,N,0
+903,7/6/2021,56,,Seep,NA,Coho,63,66,2.6,Y,N,0
+904,7/6/2021,57,,Seep,NA,Coho,60,65,2.4,Y,N,0
+905,7/6/2021,58,,Seep,NA,Dolly Varden,60,62,2.2,N,N,0
+906,7/13/2021,1,1,Main_Side,NA,Cutthroat/Steelhead,105,110,11.4,Y,N,0
+907,7/13/2021,2,1,Main_Side,NA,Cutthroat/Steelhead,137,142,25.1,N,N,0
+908,7/13/2021,3,1,Main_Side,E0CCF22,Coho,82,87,5.8,Y,N,0
+909,7/13/2021,4,1,Main_Side,EOCCF11,Dolly Varden,94,100,8.3,Y,N,0
+910,7/13/2021,5,1,Main_Side,E0CCF1F,Coho,76,84,5,Y,N,0
+911,7/13/2021,6,1,Main_Side,E0CCF0F,Coho,73,78,4.9,Y,N,0
+912,7/13/2021,7,1,Main_Side,E0CCF0E,Dolly Varden,101,108,11.1,Y,N,0
+913,7/13/2021,8,1,Main_Side,NA,Dolly Varden,55,58,1.8,N,N,0
+914,7/13/2021,9,2,Main_Side,E0CCF2A,Coho,83,90,6.5,Y,N,0
+915,7/13/2021,10,2,Main_Side,E0CCF35,Dolly Varden,88,93,6.2,Y,N,0
+916,7/13/2021,11,2,Main_Side,E0CCF2E,Coho,83,89,6.7,Y,N,0
+917,7/13/2021,12,2,Main_Side,NA,Cutthroat/Steelhead,115,120,14.5,Y,N,0
+918,7/13/2021,13,2,Main_Side,E0CCF49,Dolly Varden,99,105,10.4,Y,N,0
+919,7/13/2021,14,2,Main_Side,E0CCF54,Coho,79,85,5.9,Y,N,0
+920,7/13/2021,15,2,Main_Side,DF33D1B,Coho,82,88,6.1,Y,N,0
+921,7/13/2021,16,2,Main_Side,E0CCF59,Coho,70,75,4.1,Y,N,0
+922,7/13/2021,17,2,Main_Side,E0CCF57,Dolly Varden,85,90,6.2,Y,N,0
+923,7/13/2021,18,2,Main_Side,E0CCF28,Coho,80,85,5.2,Y,N,0
+924,7/13/2021,19,2,Main_Side,E0CCF31,Coho,76,81,4.2,Y,N,0
+925,7/13/2021,20,2,Main_Side,E0CCEFD,Dolly Varden,85,89,6.4,Y,N,0
+926,7/13/2021,21,2,Main_Side,E0CCF03,Coho,70,75,3.9,Y,N,0
+927,7/13/2021,22,2,Main_Side,NA,Coho,65,70,3.1,Y,N,0
+928,7/13/2021,23,2,Main_Side,E0CCF0D,Coho,78,85,5.8,N,N,0
+929,7/13/2021,24,2,Main_Side,NA,Dolly Varden,67,69,3,N,N,0
+930,7/13/2021,25,2,Main_Side,NA,Dolly Varden,70,73,3.2,Y,N,0
+931,7/13/2021,26,2,Main_Side,NA,Coho,38,40,0.6,N,N,0
+932,7/13/2021,27,2,Main_Side,NA,Coho,42,44,0.7,N,N,0
+933,7/13/2021,28,2,Main_Side,NA,Coho,39,41,0.6,N,N,0
+934,7/13/2021,29,2,Main_Side,NA,Coho,35,36,0.4,N,N,0
+935,7/13/2021,30,2,Main_Side,NA,Coho,36,38,0.5,N,N,0
+936,7/13/2021,31,3,Main_Side,NA,Coho,36,37,0.4,N,N,0
+937,7/13/2021,32,3,Main_Side,NA,Coho,35,36,0.3,N,N,0
+938,7/13/2021,33,3,Main_Side,NA,Coho,36,38,0.4,N,N,0
+939,7/13/2021,34,3,Main_Side,NA,Coho,40,43,0.6,N,N,0
+940,7/13/2021,35,3,Main_Side,NA,Coho,46,49,0.9,N,N,0
+941,7/13/2021,36,3,Main_Side,NA,Coho,41,43,0.6,N,N,0
+942,7/13/2021,37,3,Main_Side,NA,Coho,36,38,0.4,N,N,0
+943,7/13/2021,38,3,Main_Side,NA,Coho,36,37,0.4,N,N,0
+944,7/13/2021,39,3,Main_Side,NA,Coho,39,41,0.7,N,N,0
+945,7/13/2021,40,3,Main_Side,NA,Coho,37,39,0.6,N,N,0
+946,7/13/2021,41,3,Main_Side,NA,Coho,37,38,0.5,N,N,0
+947,7/13/2021,42,3,Main_Side,NA,Coho,37,39,0.5,N,N,0
+948,7/13/2021,43,3,Main_Side,NA,Coho,39,41,0.7,N,N,0
+949,7/13/2021,44,3,Main_Side,NA,Coho,40,42,0.6,N,N,0
+950,7/13/2021,45,3,Main_Side,NA,Coho,37,39,0.5,N,N,0
+951,7/13/2021,46,3,Main_Side,NA,Coho,38,40,0.6,N,N,0
+952,7/13/2021,47,3,Main_Side,NA,Coho,37,39,0.5,N,N,0
+953,7/13/2021,48,3,Main_Side,NA,Coho,35,36,0.4,N,N,0
+954,7/13/2021,49,3,Main_Side,NA,Coho,36,38,0.5,N,N,0
+955,7/13/2021,50,5,Main_Side,NA,Dolly Varden,59,62,2.1,N,N,0
+956,7/13/2021,51,5,Main_Side,E0CCF43,Coho,79,86,4.7,N,N,0
+957,7/13/2021,52,5,Main_Side,E0CCF05,Coho,75,81,4.3,Y,N,0
+958,7/13/2021,53,5,Main_Side,NA,Coho,62,67,2.7,N,N,0
+959,7/13/2021,54,5,Main_Side,E0CCF0A,Dolly Varden,88,93,6.5,Y,N,0
+960,7/13/2021,55,5,Main_Side,E0CCF41,Coho,86,93,6.6,N,N,0
+961,7/13/2021,56,5,Main_Side,E0CCF46,Coho,84,90,6.4,N,N,0
+962,7/13/2021,57,5,Main_Side,E0CCF91,Coho,71,76,3.4,N,N,0
+963,7/13/2021,58,5,Main_Side,NA,Coho,63,67,2.8,N,N,0
+964,7/13/2021,59,5,Main_Side,E0CCF1D,Coho,79,85,4.7,N,N,0
+965,7/13/2021,60,5,Main_Side,NA,NA,NA,NA,NA,NA,N,0
+966,7/13/2021,61,5,Main_Side,E0CCFBB,Coho,72,77,3.5,N,N,0
+967,7/13/2021,62,5,Main_Side,E0CCFAB,Coho,69,74,3.2,N,N,0
+968,7/13/2021,63,5,Main_Side,E0CCF3F,Coho,76,81,5,N,N,0
+969,7/13/2021,64,5,Main_Side,E0CCF8D,Dolly Varden,79,83,4.4,Y,N,0
+970,7/13/2021,65,5,Main_Side,E0CCF62,Coho,72,79,4,N,N,0
+971,7/13/2021,66,5,Main_Side,NA,Dolly Varden,65,69,3,N,N,0
+972,7/13/2021,67,5,Main_Side,NA,Dolly Varden,64,67,2.8,N,N,0
+973,7/13/2021,68,5,Main_Side,E0CCF00,Coho,70,76,3.6,N,N,0
+974,7/13/2021,69,5,Main_Side,NA,Dolly Varden,62,64,2.4,N,N,0
+975,7/13/2021,70,5,Main_Side,NA,Dolly Varden,62,65,2.5,N,N,0
+976,7/13/2021,71,5,Main_Side,NA,Dolly Varden,62,64,2.3,N,N,0
+977,7/13/2021,72,5,Main_Side,NA,Dolly Varden,61,63,2.1,N,N,0
+978,7/15/2021,1,1,Main_Side,NA,Coho,35,36,0.6,N,N,0
+979,7/15/2021,2,1,Main_Side,NA,Coho,35,36,0.5,N,N,0
+980,7/15/2021,3,1,Main_Side,NA,Coho,35,36,0.6,N,N,0
+981,7/15/2021,4,1,Main_Side,NA,Coho,33,34,0.5,N,N,0
+982,7/15/2021,5,1,Main_Side,NA,Coho,33,34,0.4,N,N,0
+983,7/15/2021,6,1,Main_Side,NA,Coho,37,38,0.6,N,N,0
+984,7/15/2021,7,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+985,7/15/2021,8,1,Main_Side,NA,Coho,33,34,4,N,N,0
+986,7/15/2021,9,1,Main_Side,NA,Coho,37,38,0.6,N,N,0
+987,7/15/2021,10,1,Main_Side,NA,Coho,37,38,0.6,N,N,0
+988,7/15/2021,11,1,Main_Side,NA,Coho,35,36,0.5,N,N,0
+989,7/15/2021,12,1,Main_Side,NA,Coho,36,37,0.6,N,N,0
+990,7/15/2021,13,1,Main_Side,NA,Coho,36,37,0.6,N,N,0
+991,7/15/2021,14,1,Main_Side,NA,Coho,35,37,0.5,N,N,0
+992,7/15/2021,15,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+993,7/15/2021,16,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+994,7/15/2021,17,1,Main_Side,NA,Coho,36,37,0.5,N,N,0
+995,7/15/2021,18,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+996,7/15/2021,19,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+997,7/15/2021,20,1,Main_Side,NA,Coho,37,38,0.5,N,N,0
+998,7/15/2021,21,1,Main_Side,NA,Coho,37,38,0.6,N,N,0
+999,7/15/2021,22,1,Main_Side,NA,Coho,33,34,0.3,N,N,0
+1000,7/15/2021,23,1,Main_Side,NA,Coho,35,36,0.5,N,N,0
+1001,7/15/2021,24,1,Main_Side,NA,Coho,36,38,0.6,N,N,0
+1002,7/15/2021,25,1,Main_Side,NA,Coho,35,37,0.5,N,N,0
+1003,7/15/2021,26,1,Main_Side,NA,Coho,35,36,0.4,N,N,0
+1004,7/15/2021,27,1,Main_Side,NA,Coho,37,39,0.6,N,N,0
+1005,7/15/2021,28,1,Main_Side,NA,Coho,34,35,0.4,N,N,0
+1006,7/15/2021,29,1,Main_Side,NA,Coho,35,37,0.5,N,N,0
+1007,7/15/2021,30,1,Main_Side,NA,Coho,36,38,0.6,N,N,0
+1008,7/15/2021,31,1,Main_Side,NA,Coho,37,40,0.7,Y,N,0
+1009,7/15/2021,32,1,Main_Side,NA,Coho,36,38,0.6,N,N,0
+1010,7/15/2021,33,1,Main_Side,NA,Coho,40,42,0.8,Y,N,0
+1011,7/15/2021,34,1,Main_Side,NA,Coho,38,40,0.7,N,N,0
+1012,7/15/2021,35,1,Main_Side,NA,Coho,39,41,0.7,N,N,0
+1013,7/15/2021,36,1,Main_Side,NA,Coho,38,40,0.6,N,N,0
+1014,7/15/2021,37,3,Main_Side,NA,Cutthroat/Steelhead,120,126,17.4,N,N,0
+1015,7/15/2021,38,3,Main_Side,E0CCFB8,Dolly Varden,113,119,13.2,Y,N,0
+1016,7/15/2021,39,3,Main_Side,NA,Cutthroat/Steelhead,129,135,19.3,N,N,0
+1017,7/15/2021,40,3,Main_Side,NA,Cutthroat/Steelhead,124,130,17.9,N,N,0
+1018,7/15/2021,41,3,Main_Side,NA,Dolly Varden,65,69,2.7,Y,N,0
+1019,7/15/2021,42,3,Main_Side,NA,Coho,36,38,0.5,N,N,0
+1020,7/15/2021,43,3,Main_Side,E0CCFAA,Coho,75,81,5,Y,N,0
+1021,7/15/2021,44,2,Main_Side,NA,Coho,63,68,2.7,Y,N,0
+1022,7/15/2021,45,2,Main_Side,E0CCFB1,Coho,79,86,5.6,Y,N,0
+1023,7/15/2021,46,2,Main_Side,NA,Cutthroat/Steelhead,122,129,15.5,N,N,0
+1024,7/15/2021,47,2,Main_Side,E0CCF76,Dolly Varden,99,105,10.6,Y,N,0
+1025,7/15/2021,48,2,Main_Side,E0CCF20,Coho,89,96,7.8,Y,N,0
+1026,7/15/2021,49,2,Main_Side,E0CCFAC,Dolly Varden,104,109,10.8,Y,N,0
+1027,7/15/2021,50,2,Main_Side,E0CCF1B,Dolly Varden,93,98,8.2,Y,N,0
+1028,7/15/2021,51,2,Main_Side,E0CCF4A,Dolly Varden,104,111,11.4,Y,N,0
+1029,7/15/2021,52,2,Main_Side,E0CCF39,Dolly Varden,105,111,11.2,Y,N,0
+1030,7/15/2021,53,2,Main_Side,E0CCF50,Coho,75,80,4.3,Y,N,0
+1031,7/15/2021,54,2,Main_Side,NA,Dolly Varden,87,92,6.1,Y,N,0
+1032,7/15/2021,55,2,Main_Side,E0CCFA5,Dolly Varden,122,130,16.3,Y,N,0
+1033,7/15/2021,56,2,Main_Side,NA,Cutthroat/Steelhead,116,133,13.6,N,N,0
+1034,7/15/2021,57,2,Main_Side,E0CCF73,Dolly Varden,98,104,8.8,N,N,0
+1035,7/15/2021,58,2,Main_Side,E0CCF67,Coho,78,85,5.1,Y,N,0
+1036,7/15/2021,59,2,Main_Side,E0CCF88,Dolly Varden,89,95,6.1,N,N,0
+1037,7/15/2021,60,2,Main_Side,E0CCFBC,Dolly Varden,87,83,5.4,N,N,0
+1038,7/15/2021,61,4,Main_Side,NA,Sculpin,NA,103,13.3,N,N,0
+1039,7/15/2021,62,4,Main_Side,NA,Sculpin,NA,103,13.7,N,N,0
+1040,7/15/2021,63,4,Main_Side,NA,Steelhead/Rainbow,173,180,54.8,N,N,0
+1041,7/15/2021,64,4,Main_Side,NA,Cutthroat/Steelhead,117,124,18,N,N,0
+1042,7/15/2021,65,4,Main_Side,NA,Cutthroat/Steelhead,108,113,11.6,N,N,0
+1043,7/15/2021,66,4,Main_Side,E0CCF4B,Dolly Varden,92,96,7.4,N,N,0
+1044,7/15/2021,67,4,Main_Side,NA,Cutthroat/Steelhead,121,127,17.4,N,N,0
+1045,7/15/2021,68,4,Main_Side,NA,Cutthroat/Steelhead,112,116,13,N,N,0
+1046,7/15/2021,69,4,Main_Side,E0CCF74,Dolly Varden,103,108,12.2,N,N,0
+1047,7/15/2021,70,4,Main_Side,NA,Cutthroat/Steelhead,141,150,25.8,N,N,0
+1048,7/15/2021,71,4,Main_Side,E0CCF8F,Coho,87,94,6.6,Y,N,0
+1049,7/15/2021,72,4,Main_Side,E0CCF92,Dolly Varden,82,87,6.3,N,N,0
+1050,7/20/2021,1,1,Main_Side,E0CCF60,Coho,82,88,5.7,Y,N,0
+1051,7/20/2021,2,1,Main_Side,E0CCFAC,Dolly Varden,105,110,11.1,Y,N,0
+1052,7/20/2021,3,1,Main_Side,E0CCF23,Coho,82,88,6,Y,N,0
+1053,7/20/2021,4,1,Main_Side,NA,Coho,62,67,2.7,Y,N,0
+1054,7/20/2021,5,2,Main_Side,NA,Cutthroat/Steelhead,118,124,15.7,N,N,0
+1055,7/20/2021,6,2,Main_Side,NA,Cutthroat/Steelhead,102,107,10,N,N,0
+1056,7/20/2021,7,2,Main_Side,NA,Cutthroat,205,213,74.2,Y,N,0
+1057,7/20/2021,8,2,Main_Side,NA,Coho,73,78,4.4,Y,N,0
+1058,7/20/2021,9,2,Main_Side,NA,Dolly Varden,131,138,20.6,Y,N,0
+1059,7/20/2021,10,2,Main_Side,NA,Dolly Varden,96,102,7.8,Y,N,0
+1060,7/20/2021,11,2,Main_Side,NA,Sculpin,NA,100,11.1,N,N,0
+1061,7/20/2021,12,2,Main_Side,NA,Cutthroat/Steelhead,98,103,8.9,N,N,0
+1062,7/20/2021,13,2,Main_Side,NA,Cutthroat/Steelhead,131,137,18.8,N,N,0
+1063,7/20/2021,14,2,Main_Side,E0CCF82,Coho,82,87,4.8,Y,N,0
+1064,7/20/2021,15,2,Main_Side,E0CCF7F,Dolly Varden,75,80,4.2,Y,N,0
+1065,7/20/2021,16,2,Main_Side,NA,Cutthroat/Steelhead,132,137,19.3,N,N,0
+1066,7/20/2021,17,2,Main_Side,NA,Coho,71,77,3.9,Y,N,0
+1067,7/20/2021,18,2,Main_Side,E0CCFB6,Coho,86,93,7.4,Y,N,0
+1068,7/20/2021,19,2,Main_Side,NA,Cutthroat/Steelhead,119,125,14,N,N,0
+1069,7/20/2021,20,2,Main_Side,E0CCFA3,Coho,82,87,5.9,Y,N,0
+1070,7/20/2021,21,2,Main_Side,E0CCF6C,Dolly Varden,115,122,12.2,Y,N,0
+1071,7/20/2021,22,2,Main_Side,E0CCF6D,Coho,80,85,5.1,Y,N,0
+1072,7/20/2021,23,2,Main_Side,E0CCF95,Dolly Varden,97,102,7.8,Y,N,0
+1073,7/20/2021,24,2,Main_Side,E0CCF85,Dolly Varden,123,130,17.3,Y,N,0
+1074,7/20/2021,25,2,Main_Side,E0CCF71,Dolly Varden,107,113,11.3,Y,N,0
+1075,7/20/2021,26,2,Main_Side,E0CCF5E,Dolly Varden,103,109,9.9,N,N,0
+1076,7/20/2021,27,4,Main_Side,NA,Coho,36,38,0.5,N,N,0
+1077,7/20/2021,28,4,Main_Side,NA,Coho,36,37,0.5,N,N,0
+1078,7/20/2021,29,4,Main_Side,NA,Coho,34,35,0.4,N,N,0
+1079,7/20/2021,30,4,Main_Side,NA,Coho,39,41,0.6,N,N,0
+1080,7/20/2021,31,4,Main_Side,NA,Coho,37,39,0.6,N,N,0
+1081,7/20/2021,32,4,Main_Side,NA,Coho,35,37,0.5,N,N,0
+1082,7/20/2021,33,4,Main_Side,NA,Coho,38,39,0.6,N,N,0
+1083,7/20/2021,34,4,Main_Side,NA,Coho,32,33,0.3,N,N,0
+1084,7/20/2021,35,4,Main_Side,NA,Coho,42,45,0.7,N,N,0
+1085,7/20/2021,36,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+1086,7/20/2021,37,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+1087,7/20/2021,38,4,Main_Side,NA,Coho,40,42,0.7,N,N,0
+1088,7/20/2021,39,4,Main_Side,NA,Coho,35,36,0.5,N,N,0
+1089,7/20/2021,40,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+1090,7/20/2021,41,4,Main_Side,NA,Coho,36,38,0.5,N,N,0
+1091,7/20/2021,42,4,Main_Side,NA,Coho,35,36,0.4,N,N,0
+1092,7/20/2021,43,4,Main_Side,NA,Coho,37,39,0.6,N,N,0
+1093,7/20/2021,44,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+1094,7/20/2021,45,4,Main_Side,NA,Coho,36,38,0.5,N,N,0
+1095,7/20/2021,46,4,Main_Side,NA,Coho,36,38,0.6,N,N,0
+1096,7/20/2021,47,4,Main_Side,NA,Coho,31,33,0.6,N,N,0
+1097,7/20/2021,48,4,Main_Side,NA,Coho,41,44,0.7,N,N,0
+1098,7/20/2021,49,4,Main_Side,NA,Coho,38,40,0.5,N,N,0
+1099,7/20/2021,50,4,Main_Side,NA,Coho,36,38,0.5,N,N,0
+1100,7/20/2021,51,4,Main_Side,NA,Coho,34,36,0.3,N,N,0
+1101,7/20/2021,52,4,Main_Side,NA,Coho,35,37,0.5,N,N,0
+1102,7/20/2021,53,4,Main_Side,NA,Coho,38,40,0.6,N,N,0
+1103,7/20/2021,54,4,Main_Side,NA,Coho,37,39,0.5,N,N,0
+1104,7/20/2021,55,4,Main_Side,NA,Coho,39,41,0.6,N,N,0
+1105,7/20/2021,56,4,Main_Side,NA,Coho,35,37,0.4,N,N,0
+1106,7/20/2021,57,3,Main_Side,E0CCF5B,Coho,79,86,5.5,Y,N,0
+1107,7/20/2021,58,3,Main_Side,E0CCFA7,Coho,76,83,5.1,Y,N,0
+1108,7/20/2021,59,3,Main_Side,E0CCFB1,Coho,81,87,5.5,N,N,0
+1109,7/20/2021,60,3,Main_Side,E0CCF07,Coho,77,82,5.2,N,N,0
+1110,7/20/2021,61,3,Main_Side,NA,Cutthroat/Steelhead,113,120,123.4,N,N,0
+1111,7/20/2021,62,3,Main_Side,E0CCF73,Dolly Varden,100,105,9.4,Y,N,0
+1112,7/20/2021,63,3,Main_Side,NA,Dolly Varden,71,76,4.7,Y,N,0
+1113,7/20/2021,64,3,Main_Side,E0CCF20,Coho,90,98,8,Y,N,0
+1114,7/20/2021,65,3,Main_Side,E0CCFA5,Dolly Varden,122,131,16.1,Y,N,0
+1115,7/20/2021,66,3,Main_Side,E0CCF87,Dolly Varden,80,84,4.8,N,N,0
+1116,7/20/2021,67,3,Main_Side,NA,Cutthroat/Steelhead,105,111,11.3,N,N,0
+1117,7/20/2021,68,3,Main_Side,NA,Coho,70,75,4,N,N,0
+1118,7/20/2021,69,3,Main_Side,E0CCF39,Dolly Varden,105,112,10.6,N,N,0
+1119,7/20/2021,70,3,Main_Side,E0CCF2B,Dolly Varden,105,112,10.5,N,N,0
+1120,7/20/2021,71,3,Main_Side,NA,Cutthroat/Steelhead,107,112,10.8,N,N,0
+1121,7/20/2021,72,3,Main_Side,E0CCFBC,Dolly Varden,83,88,5.3,N,N,0
+1122,7/20/2021,73,3,Main_Side,E0CCF76,Dolly Varden,100,106,11,N,N,0
+1123,7/20/2021,74,3,Main_Side,NA,Cutthroat,126,134,18.7,N,N,0
+1124,7/20/2021,75,3,Main_Side,E0CCF5F,Dolly Varden,125,133,17.9,N,N,0
+1125,7/20/2021,76,3,Main_Side,E0CCFB8,Dolly Varden,114,120,13.2,N,N,0
+1126,7/20/2021,77,3,Main_Side,E0CCF93,Dolly Varden,115,121,12.9,N,N,0
+1127,7/20/2021,78,3,Main_Side,NA,Dolly Varden,95,102,8,N,N,0
+1128,7/20/2021,79,3,Main_Side,E0CCF6E,Coho,75,83,5.1,N,N,0
+1129,7/29/2021,1,1,Main_Side,NA,Coho,43,46,0.8,N,N,1
+1130,7/29/2021,2,1,Main_Side,E0CCF0C,Coho,85,94,7.4,Y,N,1
+1131,7/29/2021,3,1,Main_Side,E0CCF2E,Coho,86,95,8.3,Y,N,1
+1132,7/29/2021,4,1,Main_Side,E0CCF46,Coho,86,94,7.5,Y,N,1
+1133,7/29/2021,5,1,Main_Side,E0CCF1D,Coho,85,92,7.4,Y,N,1
+1134,7/29/2021,6,1,Main_Side,NA,Coho,44,47,1.5,N,N,1
+1135,7/29/2021,7,1,Main_Side,NA,Coho,43,47,0.9,N,N,1
+1136,7/29/2021,8,1,Main_Side,NA,Coho,40,43,0.7,N,N,1
+1137,7/29/2021,9,1,Main_Side,NA,Coho,41,43,0.7,N,N,1
+1138,7/29/2021,10,1,Main_Side,E0CCFB9,Coho,75,82,5,Y,N,1
+1139,7/29/2021,11,1,Main_Side,E0CCF96,Coho,90,98,9.5,Y,N,1
+1140,7/29/2021,12,1,Main_Side,NA,Coho,40,43,0.8,N,N,1
+1141,7/29/2021,13,1,Main_Side,E0CCF00,Coho,76,84,5.3,Y,N,1
+1142,7/29/2021,14,1,Main_Side,NA,Coho,45,48,1.1,N,N,1
+1143,7/29/2021,15,1,Main_Side,NA,Coho,42,45,0.8,N,N,1
+1144,7/29/2021,16,1,Main_Side,NA,Coho,55,60,1.8,N,N,1
+1145,7/29/2021,17,1,Main_Side,NA,Coho,48,52,1.2,N,N,1
+1146,7/29/2021,18,1,Main_Side,NA,Dolly Varden,66,70,2.8,Y,N,1
+1147,7/29/2021,19,1,Main_Side,NA,Coho,39,42,0.9,N,N,1
+1148,7/29/2021,20,1,Main_Side,NA,Coho,36,39,0.5,N,N,1
+1149,7/29/2021,21,1,Main_Side,NA,Coho,40,43,0.7,N,N,1
+1150,7/29/2021,22,1,Main_Side,E0CCF77,Coho,77,85,5.1,Y,N,1
+1151,7/29/2021,23,1,Main_Side,E0CCF7C,Coho,84,92,6.7,Y,N,1
+1152,7/29/2021,24,1,Main_Side,NA,Dolly Varden,66,71,2.7,Y,N,1
+1153,7/29/2021,25,1,Main_Side,E0CCF08,Coho,79,86,5.7,Y,N,1
+1154,7/29/2021,26,1,Main_Side,NA,Coho,42,45,0.8,N,N,1
+1155,7/29/2021,27,1,Main_Side,NA,Coho,39,41,0.5,N,N,1
+1156,7/29/2021,28,1,Main_Side,E0CCF3F,Coho,81,87,5.8,Y,N,1
+1157,7/29/2021,29,1,Main_Side,E0CCFB7,Coho,88,97,7.2,Y,N,1
+1158,7/29/2021,30,1,Main_Side,E0CCFAB,Coho,69,74,4,N,N,1
+1159,7/29/2021,31,1,Main_Side,E0CCF72,Coho,77,85,5.5,N,N,1
+1160,7/29/2021,32,2,Main_Side,NA,Coho,37,39,0.9,N,N,1
+1161,7/29/2021,33,2,Main_Side,NA,Coho,36,39,0.4,N,N,1
+1162,7/29/2021,34,2,Main_Side,NA,Coho,38,40,0.7,N,N,1
+1163,7/29/2021,35,2,Main_Side,NA,Coho,49,53,1.2,N,N,1
+1164,7/29/2021,36,2,Main_Side,E0CCF9E,Coho,79,86,5.1,Y,N,1
+1165,7/29/2021,37,2,Main_Side,NA,Coho,36,39,0.6,N,N,1
+1166,7/29/2021,38,2,Main_Side,NA,Coho,38,41,0.7,N,N,1
+1167,7/29/2021,39,2,Main_Side,NA,Coho,46,49,1,N,N,1
+1168,7/29/2021,40,2,Main_Side,NA,Coho,47,52,1.1,Y,N,1
+1169,7/29/2021,41,2,Main_Side,NA,Dolly Varden,61,65,2,Y,N,1
+1170,7/29/2021,42,2,Main_Side,NA,Coho,45,49,1.1,N,N,1
+1171,7/29/2021,43,2,Main_Side,NA,Coho,33,37,1,N,N,1
+1172,7/29/2021,44,2,Main_Side,NA,Coho,69,75,3.4,Y,N,1
+1173,7/29/2021,45,4,Main_Side,NA,Coho,42,44,0.9,N,N,1
+1174,7/29/2021,46,4,Main_Side,NA,Coho,43,46,1.1,N,N,1
+1175,7/29/2021,47,4,Main_Side,NA,Coho,39,41,0.4,N,N,1
+1176,7/29/2021,48,4,Main_Side,NA,Coho,43,46,1,N,N,1
+1177,7/29/2021,49,4,Main_Side,NA,Coho,38,40,0.5,N,N,1
+1178,7/29/2021,50,4,Main_Side,NA,Coho,38,40,0.5,N,N,1
+1179,7/29/2021,51,4,Main_Side,NA,Coho,71,76,4.1,Y,N,1
+1180,7/29/2021,52,3,Main_Side,E0CCFA7,Coho,80,85,5.8,Y,N,1
+1181,7/29/2021,53,3,Main_Side,E0CCFAD,Dolly Varden,78,82,5.1,Y,N,1
+1182,7/29/2021,54,5,Seep,NA,Dolly Varden,36,37,0.4,N,N,1
+1183,7/29/2021,55,5,Seep,NA,Coho,39,41,0.6,N,N,1
+1184,7/29/2021,56,5,Seep,NA,Dolly Varden,38,39,0.5,N,N,1
+1185,7/29/2021,57,5,Seep,NA,Dolly Varden,37,38,0.5,N,N,1
+1186,7/29/2021,58,5,Seep,NA,Dolly Varden,35,36,0.3,N,N,1
+1187,7/29/2021,59,5,Seep,NA,Dolly Varden,38,39,0.5,N,N,1
+1188,7/29/2021,60,5,Seep,NA,Dolly Varden,38,39,0.4,N,N,1
+1189,7/29/2021,61,5,Seep,NA,Dolly Varden,35,36,0.5,N,N,1
+1190,7/29/2021,62,5,Seep,NA,Coho,50,55,1.8,Y,N,1
+1191,7/29/2021,63,5,Seep,NA,Dolly Varden,38,39,0.5,N,N,1
+1192,7/29/2021,64,5,Seep,NA,Dolly Varden,35,36,0.4,N,N,1
+1193,7/29/2021,65,5,Seep,NA,Dolly Varden,39,48,0.5,N,N,1
+1194,7/29/2021,66,5,Seep,NA,Dolly Varden,40,41,0.7,N,N,1
+1195,7/29/2021,67,5,Seep,NA,Dolly Varden,36,37,0.4,N,N,1
+1196,7/29/2021,68,5,Seep,NA,Dolly Varden,66,69,2.9,Y,N,1
+1197,8/3/2021,1,1,Main_Side,NA,Coho,57,62,2.1,Y,N,1
+1198,8/3/2021,2,1,Main_Side,NA,Coho,86,93,7.7,Y,N,1
+1199,8/3/2021,3,1,Main_Side,NA,Dolly Varden,73,76,4.1,Y,N,1
+1200,8/3/2021,4,2,Main_Side,NA,Coho,38,41,0.5,N,N,1
+1201,8/3/2021,5,2,Main_Side,NA,Coho,49,52,1.3,Y,N,1
+1202,8/3/2021,6,2,Main_Side,NA,Coho,35,37,0.5,N,N,1
+1203,8/3/2021,7,2,Main_Side,NA,Coho,35,37,0.4,N,N,1
+1204,8/3/2021,8,2,Main_Side,NA,Coho,38,40,0.9,N,N,1
+1205,8/3/2021,9,2,Main_Side,NA,Coho,41,43,0.6,N,N,1
+1206,8/3/2021,10,2,Main_Side,NA,Coho,40,45,0.9,N,N,1
+1207,8/3/2021,11,2,Main_Side,NA,Coho,46,49,1.3,Y,N,1
+1208,8/3/2021,12,2,Main_Side,NA,Coho,42,45,1,N,N,1
+1209,8/3/2021,13,2,Main_Side,NA,Coho,47,50,1.2,Y,N,1
+1210,8/3/2021,14,2,Main_Side,NA,Coho,43,46,1,N,N,1
+1211,8/3/2021,15,2,Main_Side,NA,Dolly Varden,42,43,0.7,N,N,1
+1212,8/3/2021,16,2,Main_Side,NA,Dolly Varden,43,44,0.9,N,N,1
+1213,8/3/2021,17,2,Main_Side,NA,Coho,43,45,0.8,N,N,1
+1214,8/3/2021,18,2,Main_Side,NA,Coho,43,45,0.9,N,N,1
+1215,8/3/2021,19,2,Main_Side,NA,Coho,36,38,0.5,N,N,1
+1216,8/3/2021,20,2,Main_Side,NA,Coho,40,43,0.8,N,N,1
+1217,8/3/2021,21,2,Main_Side,NA,Coho,38,40,0.7,N,N,1
+1218,8/3/2021,22,2,Main_Side,NA,Coho,38,40,0.7,N,N,1
+1219,8/3/2021,23,2,Main_Side,NA,Coho,43,45,0.9,N,N,1
+1220,8/3/2021,24,2,Main_Side,NA,Coho,48,51,1.3,Y,N,1
+1221,8/3/2021,25,2,Main_Side,NA,Coho,40,42,0.8,N,N,1
+1222,8/3/2021,26,2,Main_Side,NA,Coho,41,43,0.8,N,N,1
+1223,8/3/2021,27,2,Main_Side,NA,Coho,40,42,0.8,N,N,1
+1224,8/3/2021,28,2,Main_Side,NA,Coho,41,44,0.7,N,N,1
+1225,8/3/2021,29,2,Main_Side,NA,Coho,51,55,1.9,Y,N,1
+1226,8/3/2021,30,2,Main_Side,NA,Coho,42,45,1.1,N,N,1
+1227,8/3/2021,31,2,Main_Side,NA,Coho,40,42,0.9,N,N,1
+1228,8/3/2021,32,2,Main_Side,NA,Coho,41,44,0.9,N,N,1
+1229,8/3/2021,33,2,Main_Side,NA,Coho,42,45,1,N,N,1
+1230,8/3/2021,34,2,Main_Side,NA,Coho,40,42,0.9,N,N,1
+1231,8/3/2021,35,2,Main_Side,NA,Dolly Varden,41,43,0.9,N,N,1
+1232,8/3/2021,36,2,Main_Side,NA,Dolly Varden,41,42,0.6,N,N,1
+1233,8/3/2021,37,2,Main_Side,NA,Coho,45,48,1.2,Y,N,1
+1234,8/4/2021,1,1,Main_Side,NA,Coho,48,52,1.4,Y,N,1
+1235,8/4/2021,2,1,Main_Side,NA,Coho,49,53,1.7,Y,N,1
+1236,8/4/2021,3,1,Main_Side,NA,Coho,46,49,0.9,N,N,1
+1237,8/4/2021,4,1,Main_Side,NA,Coho,45,48,0.9,N,N,1
+1238,8/4/2021,5,1,Main_Side,E0CCF75,Dolly Varden,88,93,7.5,Y,N,1
+1239,8/4/2021,6,1,Main_Side,E0CCF97,Coho,89,95,7.9,Y,N,1
+1240,8/4/2021,7,2,Main_Side,NA,Cuthroat,143,152,34.4,Y,N,1
+1241,8/4/2021,8,2,Main_Side,NA,Cuthroat,145,153,34.4,Y,N,1
+1242,8/4/2021,9,2,Main_Side,NA,Coho,34,36,0.5,N,N,1
+1243,8/4/2021,10,2,Main_Side,NA,Coho,52,55,1.8,Y,N,1
+1244,8/4/2021,11,2,Main_Side,E0CCF98,Coho,86,91,7.2,Y,N,1
+1245,8/4/2021,12,2,Main_Side,E0CCF99,Coho,91,99,9.5,Y,N,1
+1246,8/4/2021,13,2,Main_Side,NA,Cuthroat,132,139,28.8,Y,N,1
+1247,8/4/2021,14,2,Main_Side,NA,Coho,44,47,0.8,N,N,1
+1248,8/4/2021,15,2,Main_Side,NA,Coho,48,50,1.2,N,N,1
+1249,8/4/2021,16,2,Main_Side,NA,Coho,49,53,1.8,N,N,1
+1250,8/4/2021,17,2,Main_Side,NA,Coho,41,43,0.7,N,N,1
+1251,8/4/2021,18,2,Main_Side,NA,Coho,43,45,1,N,N,1
+1252,8/4/2021,19,2,Main_Side,NA,Coho,49,52,1.5,Y,N,1
+1253,8/4/2021,20,2,Main_Side,NA,Coho,44,47,1.1,N,N,1
+1254,8/4/2021,21,2,Main_Side,NA,Coho,45,48,0.9,N,N,1
+1255,8/4/2021,22,2,Main_Side,NA,Coho,46,49,0.9,N,N,1
+1256,8/4/2021,23,2,Main_Side,NA,Coho,43,47,0.9,N,N,1
+1257,8/4/2021,24,2,Main_Side,NA,Coho,44,47,0.9,N,N,1
+1258,8/4/2021,25,2,Main_Side,NA,Coho,38,40,0.6,N,N,1
+1259,8/4/2021,26,2,Main_Side,NA,Coho,47,50,1.3,N,N,1
+1260,8/4/2021,27,2,Main_Side,NA,Coho,46,48,0.8,N,N,1
+1261,8/4/2021,28,2,Main_Side,NA,Coho,46,50,1.2,N,N,1
+1262,8/4/2021,29,2,Main_Side,NA,Coho,46,49,1.1,N,N,1
+1263,8/4/2021,30,2,Main_Side,NA,Coho,45,48,1,N,N,1
+1264,8/4/2021,31,2,Main_Side,NA,Coho,45,48,1.2,N,N,1
+1265,8/4/2021,32,2,Main_Side,NA,Coho,NA,33,0.4,N,N,1
+1266,8/4/2021,33,2,Main_Side,NA,Coho,46,49,1.1,N,N,1
+1267,8/4/2021,34,2,Main_Side,NA,Coho,47,50,1.3,N,N,1
+1268,8/4/2021,35,2,Main_Side,NA,Coho,40,42,0.8,N,N,1
+1269,8/4/2021,36,2,Main_Side,NA,Coho,43,46,0.9,N,N,1
+1270,8/4/2021,37,2,Main_Side,NA,Coho,43,47,1.2,N,N,1
+1271,8/4/2021,38,2,Main_Side,NA,Coho,43,46,1,N,N,1
+1272,8/4/2021,39,2,Main_Side,E0CCF46,Coho,88,95,7.7,Y,N,1
+1273,8/4/2021,40,2,Main_Side,NA,Cuthroat,134,140,24.9,Y,N,1
+1274,8/4/2021,41,2,Main_Side,E0CCF70,Coho,89,96,9.5,Y,N,1
+1275,8/4/2021,42,2,Main_Side,NA,Cuthroat,157,166,46.3,Y,N,1
+1276,8/4/2021,43,2,Main_Side,NA,Coho,47,49,1,N,N,1
+1277,8/4/2021,44,2,Main_Side,NA,Coho,42,45,0.7,N,N,1
+1278,8/4/2021,45,2,Main_Side,NA,Cuthroat,141,150,29.9,Y,N,1
+1279,8/4/2021,46,2,Main_Side,NA,Coho,45,49,0.7,N,N,1
+1280,8/4/2021,47,2,Main_Side,NA,Coho,41,44,0.9,N,N,1
+1281,8/4/2021,48,2,Main_Side,NA,Coho,49,53,1.5,N,N,1
+1282,8/4/2021,49,2,Main_Side,NA,Coho,48,51,1.4,N,N,1
+1283,8/4/2021,50,2,Main_Side,NA,Coho,38,41,0.5,N,N,1
+1284,8/4/2021,51,2,Main_Side,NA,Coho,38,40,0.5,N,N,1
+1285,8/4/2021,52,2,Main_Side,NA,Coho,40,42,1,N,N,1
+1286,8/4/2021,53,2,Main_Side,NA,Dolly Varden,44,45,1,N,N,1
+1287,8/4/2021,54,2,Main_Side,NA,Coho,50,53,1.8,N,N,1
+1288,8/4/2021,55,2,Main_Side,NA,Coho,50,53,1.4,N,N,1
+1289,8/4/2021,56,2,Main_Side,NA,Coho,44,47,1,N,N,1
+1290,8/4/2021,57,2,Main_Side,NA,Coho,49,53,1.6,N,N,1
+1291,8/4/2021,58,2,Main_Side,NA,Coho,43,45,1.1,N,N,1
+1292,8/4/2021,59,2,Main_Side,NA,Coho,38,40,0.8,N,N,1
+1293,8/4/2021,60,2,Main_Side,NA,Coho,48,52,1.5,N,N,1
+1294,8/4/2021,61,2,Main_Side,NA,Coho,46,49,1.1,N,N,1
+1295,8/4/2021,62,2,Main_Side,NA,Coho,40,43,0.8,N,N,1
+1296,8/4/2021,63,2,Main_Side,NA,Coho,40,43,1.2,N,N,1
+1297,8/4/2021,64,2,Main_Side,NA,Coho,37,39,0.6,N,N,1
+1298,8/4/2021,65,2,Main_Side,NA,Coho,40,43,0.9,N,N,1
+1299,8/4/2021,66,2,Main_Side,NA,Dolly Varden,58,61,2.1,Y,N,1
+1300,8/4/2021,67,2,Main_Side,NA,Dolly Varden,69,73,2.6,Y,N,1
+1301,8/4/2021,68,3,Seep,NA,Dolly Varden,41,43,0.9,N,N,1
+1302,8/4/2021,69,3,Seep,NA,Coho,40,42,0.7,N,N,1
+1303,8/4/2021,70,3,Seep,NA,Dolly Varden,38,39,0.5,N,N,1
+1304,8/4/2021,71,3,Seep,NA,Dolly Varden,65,68,3.2,Y,N,1
+1305,8/4/2021,72,3,Seep,NA,Dolly Varden,39,40,0.7,N,N,1
+1306,8/4/2021,73,3,Seep,NA,Dolly Varden,38,40,0.7,N,N,1
+1307,8/4/2021,74,3,Seep,NA,Dolly Varden,37,38,0.6,N,N,1
+1308,8/4/2021,75,3,Seep,NA,Dolly Varden,38,39,0.7,N,N,1
+1309,8/9/2021,1,2,Main_Side,E0CCF80,Dolly Varden,134,140,26.5,Y,N,1
+1310,8/9/2021,2,3,Main_Side,E0CCF65,Coho,95,104,12,Y,N,1
+1311,8/9/2021,3,4,Main_Side,NA,Coho,46,49,1,N,N,1
+1312,8/9/2021,4,4,Main_Side,NA,Coho,47,49,1.1,N,N,1
+1313,8/9/2021,5,4,Main_Side,NA,Coho,50,53,1.2,N,N,1
+1314,8/9/2021,6,4,Main_Side,NA,Coho,54,57,1.6,Y,N,1
+1315,8/9/2021,7,5,Main_Side,NA,Coho,47,50,1.2,N,N,1
+1316,8/9/2021,8,4,Main_Side,NA,Coho,54,57,1.9,Y,N,1
+1317,8/9/2021,9,6,Main_Side,NA,Coho,48,52,1.2,N,N,1
+1318,8/9/2021,10,6,Main_Side,NA,Coho,42,45,0.9,N,N,1
+1319,8/9/2021,11,6,Main_Side,NA,Dolly Varden,44,45,0.8,N,N,1
+1320,8/9/2021,12,6,Main_Side,NA,Coho,40,43,0.7,N,N,1
+1321,8/9/2021,13,6,Main_Side,NA,Coho,44,46,0.9,N,N,1
+1322,8/9/2021,14,6,Main_Side,NA,Coho,49,52,1.4,Y,N,1
+1323,8/9/2021,15,6,Main_Side,NA,Coho,44,46,0.9,N,N,1
+1324,8/9/2021,16,6,Main_Side,NA,Coho,45,48,1,N,N,1
+1325,8/9/2021,17,6,Main_Side,NA,Coho,49,42,1.5,N,N,1
+1326,8/9/2021,18,6,Main_Side,NA,Coho,50,54,1.6,Y,N,1
+1327,8/9/2021,19,6,Main_Side,NA,Coho,48,51,1.3,Y,N,1
+1328,8/9/2021,20,8,Seep,NA,Dolly Varden,39,39,0.6,N,N,1
+1329,8/9/2021,21,8,Seep,NA,Dolly Varden,42,48,0.7,N,N,1
+1330,8/9/2021,22,8,Seep,NA,Dolly Varden,39,40,0.6,N,N,1
+1331,8/9/2021,23,8,Seep,NA,Dolly Varden,40,42,0.7,N,N,1
+1332,8/9/2021,24,8,Seep,NA,Dolly Varden,41,42,0.8,N,N,1
+1333,8/9/2021,25,8,Seep,NA,Dolly Varden,39,40,0.6,N,N,1
+1334,8/9/2021,26,8,Seep,NA,Coho,43,45,0.9,N,N,1
+1335,8/9/2021,27,8,Seep,NA,Dolly Varden,38,39,0.4,N,N,1
+1336,8/9/2021,28,8,Seep,NA,Coho,47,50,1.1,Y,N,1
+1337,8/9/2021,29,8,Seep,NA,Dolly Varden,65,67,3,Y,N,1
+1338,8/9/2021,30,8,Seep,NA,Dolly Varden,39,40,0.6,N,N,1
+1339,8/9/2021,31,8,Seep,NA,Dolly Varden,40,41,0.6,N,N,1
+1340,8/9/2021,32,8,Seep,NA,Dolly Varden,40,41,0.6,N,N,1
+1341,8/9/2021,33,8,Seep,NA,Dolly Varden,41,42,0.7,N,N,1
+1342,8/9/2021,34,8,Seep,NA,Dolly Varden,36,36,0.4,N,N,1
+1343,8/9/2021,35,8,Seep,NA,Dolly Varden,38,39,0.5,N,N,1
+1344,8/9/2021,36,8,Seep,NA,Dolly Varden,37,38,0.4,N,N,1
+1345,8/9/2021,37,8,Seep,NA,Dolly Varden,38,39,0.6,N,N,1
+1346,8/9/2021,38,8,Seep,NA,Dolly Varden,37,38,0.5,N,N,1
+1347,8/12/2021,1,1,Main_Side,E0CCF81,Coho,92,100,10.7,Y,N,1
+1348,8/12/2021,2,1,Main_Side,NA,Coho,47,49,1,N,N,1
+1349,8/12/2021,3,1,Main_Side,NA,Coho,50,54,2,N,N,1
+1350,8/12/2021,4,1,Main_Side,E0CCF68,Dolly Varden,100,103,11.2,Y,N,1
+1351,8/12/2021,5,1,Main_Side,NA,Coho,50,52,1.5,N,N,1
+1352,8/12/2021,6,1,Main_Side,E0CCF98,Coho,86,92,7.8,Y,N,1
+1353,8/12/2021,7,1,Main_Side,E0CCFB3,Dolly Varden,104,108,15.1,Y,N,1
+1354,8/12/2021,8,1,Main_Side,NA,Coho,53,55,1.8,Y,N,1
+1355,8/12/2021,9,1,Main_Side,NA,Coho,48,51,1.4,N,N,1
+1356,8/12/2021,10,1,Main_Side,E0CCF8C,Coho,76,80,6,Y,N,1
+1357,8/12/2021,11,1,Main_Side,NA,Coho,57,61,2.2,Y,N,1
+1358,8/12/2021,12,1,Main_Side,NA,Coho,69,74,4.3,Y,N,1
+1359,8/12/2021,13,2,Main_Side,E0CCFA6,Dolly Varden,119,126,21.2,Y,N,1
+1360,8/12/2021,14,2,Main_Side,NA,Coho,39,42,1,N,N,1
+1361,8/12/2021,15,2,Main_Side,NA,Coho,56,60,2.3,Y,N,1
+1362,8/12/2021,16,2,Main_Side,NA,Coho,43,45,0.9,N,N,1
+1363,8/12/2021,17,2,Main_Side,NA,Coho,57,60,2.1,Y,N,1
+1364,8/12/2021,18,2,Main_Side,NA,Coho,57,60,2.2,Y,N,1
+1365,8/12/2021,19,2,Main_Side,NA,Coho,48,50,1.2,N,N,1
+1366,8/12/2021,20,2,Main_Side,NA,Coho,48,50,1.2,N,N,1
+1367,8/12/2021,21,2,Main_Side,NA,Coho,56,60,2.2,Y,N,1
+1368,8/12/2021,22,2,Main_Side,NA,Coho,49,52,1.5,N,N,1
+1369,8/12/2021,23,2,Main_Side,NA,Coho,48,51,2,Y,N,1
+1370,8/12/2021,24,2,Main_Side,NA,Coho,54,57,2,Y,N,1
+1371,8/12/2021,25,2,Main_Side,NA,Coho,68,72,3.8,Y,N,1
+1372,8/12/2021,26,2,Main_Side,NA,Coho,46,49,1.3,N,N,1
+1373,8/12/2021,27,2,Main_Side,NA,Coho,55,58,2,Y,N,1
+1374,8/12/2021,28,2,Main_Side,NA,Dolly Varden,87,90,7.4,Y,N,1
+1375,8/12/2021,29,3,Main_Side,E0CCF5C,Coho,99,106,13.9,Y,N,1
+1376,8/12/2021,30,3,Main_Side,NA,Coho,46,48,1.1,N,N,1
+1377,8/12/2021,31,3,Main_Side,NA,Coho,54,58,1.3,N,N,1
+1378,8/12/2021,32,3,Main_Side,E0CCF7B,Dolly Varden,123,129,21.4,Y,N,1
+1379,8/12/2021,33,3,Main_Side,NA,Coho,62,64,3.1,Y,N,1
+1380,8/12/2021,34,3,Main_Side,NA,Dolly Varden,109,115,14.3,Y,N,1
+1381,8/12/2021,35,3,Main_Side,NA,Dolly Varden,103,107,11.7,Y,N,1
+1382,8/12/2021,36,3,Main_Side,NA,Coho,50,54,1.4,N,N,1
+1383,8/12/2021,37,3,Main_Side,NA,Dolly Varden,156,161,49.8,Y,N,1
+1384,8/12/2021,38,3,Main_Side,NA,Dolly Varden,134,144,27.9,Y,N,1
+1385,8/12/2021,39,3,Main_Side,NA,Dolly Varden,176,181,25.8,Y,N,1
+1386,8/12/2021,40,3,Main_Side,NA,Coho,59,62,2.5,N,N,1
+1387,8/12/2021,41,3,Main_Side,NA,Dolly Varden,89,93,8.7,Y,N,1
+1388,8/12/2021,42,4,Main_Side,NA,Coho,47,50,1.3,N,N,1
+1389,8/12/2021,43,4,Main_Side,NA,Cuthroat/Steelhead,79,82,4.9,N,N,1
+1390,8/12/2021,44,4,Main_Side,NA,Coho,52,55,1.8,N,N,1
+1391,8/12/2021,45,5,Seep,NA,Coho,49,52,1.6,N,N,1
+1392,8/12/2021,46,5,Seep,NA,Dolly Varden,38,40,0.6,N,N,1
+1393,8/12/2021,47,5,Seep,NA,Coho,53,56,1.8,N,N,1
+1394,8/12/2021,48,5,Seep,NA,Dolly Varden,57,59,3.3,Y,N,1
+1395,8/12/2021,49,5,Seep,NA,Dolly Varden,43,44,0.7,N,N,1
+1396,8/12/2021,50,5,Seep,NA,Dolly Varden,41,42,0.7,N,N,1
+1397,8/12/2021,51,5,Seep,NA,Dolly Varden,62,65,2.9,Y,N,1
+1398,8/14/2021,1,1,Main_Side,NA,Coho,52,56,1.6,Y,N,1
+1399,8/14/2021,2,2,Main_Side,NA,Dolly Varden,47,49,0.9,N,N,1
+1400,8/14/2021,3,2,Main_Side,NA,Coho,43,45,0.7,N,N,1
+1401,8/14/2021,4,2,Main_Side,NA,Coho,47,51,1.1,N,N,1
+1402,8/14/2021,5,2,Main_Side,NA,Coho,48,52,1.3,N,N,1
+1403,8/14/2021,6,2,Main_Side,NA,Coho,51,54,1.6,N,N,1
+1404,8/14/2021,7,2,Main_Side,NA,Coho,58,62,2.4,Y,N,1
+1405,8/14/2021,8,3,Main_Side,NA,Coho,48,50,1.2,N,N,1
+1406,8/14/2021,9,3,Main_Side,NA,Coho,48,52,1.3,N,N,1
+1407,8/14/2021,10,3,Main_Side,NA,Coho,46,49,1.2,N,N,1
+1408,8/14/2021,11,3,Main_Side,NA,Coho,49,53,1.4,N,N,1
+1409,8/14/2021,12,3,Main_Side,NA,Coho,45,48,1,N,N,1
+1410,8/14/2021,13,3,Main_Side,NA,Coho,51,54,1.4,Y,N,1
+1411,8/14/2021,14,3,Main_Side,NA,Coho,48,51,1.3,N,N,1
+1412,8/14/2021,15,3,Main_Side,NA,Coho,35,36,0.3,N,N,1
+1413,8/14/2021,16,3,Main_Side,NA,Coho,43,45,1.1,N,N,1
+1414,8/14/2021,17,3,Main_Side,NA,Coho,51,54,1.5,Y,N,1
+1415,8/14/2021,18,3,Main_Side,NA,Coho,38,40,0.7,N,N,1
+1416,8/14/2021,19,3,Main_Side,NA,Coho,47,50,1.2,N,N,1
+1417,8/14/2021,20,3,Main_Side,NA,Coho,51,54,1.5,Y,N,1
+1418,8/14/2021,21,3,Main_Side,NA,Dolly Varden,76,79,4.7,Y,N,1
+1419,8/14/2021,22,3,Main_Side,NA,Coho,70,76,4.5,Y,N,1
+1420,8/14/2021,23,3,Main_Side,NA,Dolly Varden,50,52,1.4,N,N,1
+1421,8/14/2021,24,3,Main_Side,NA,Coho,53,57,1.9,Y,N,1
+1422,8/14/2021,25,3,Main_Side,NA,Coho,49,52,1.4,N,N,1
+1423,8/14/2021,26,3,Main_Side,NA,Coho,52,56,1.7,Y,N,1
+1424,8/14/2021,27,3,Main_Side,NA,Coho,54,58,1.7,Y,N,1
+1425,8/14/2021,28,3,Main_Side,NA,Coho,39,43,1,N,N,1
+1426,8/14/2021,29,3,Main_Side,NA,Coho,52,55,1.6,N,N,1
+1427,8/14/2021,30,3,Main_Side,NA,Coho,56,60,2.1,Y,N,1
+1428,8/14/2021,31,3,Main_Side,NA,Coho,54,58,1.9,N,N,1
+1429,8/14/2021,32,3,Main_Side,NA,Coho,53,56,1.9,N,N,1
+1430,8/14/2021,33,3,Main_Side,NA,Coho,49,52,1.2,N,N,1
+1431,8/14/2021,34,3,Main_Side,NA,Coho,46,50,1.1,N,N,1
+1432,8/14/2021,35,3,Main_Side,NA,Coho,46,50,1.2,N,N,1
+1433,8/14/2021,36,3,Main_Side,NA,Coho,49,53,1.4,N,N,1
+1434,8/14/2021,37,3,Main_Side,NA,Coho,43,46,0.8,N,N,1
+1435,8/14/2021,38,3,Main_Side,NA,Coho,45,49,1,N,N,1
+1436,8/14/2021,39,3,Main_Side,NA,Coho,47,50,1.1,N,N,1
+1437,8/14/2021,40,3,Main_Side,NA,Coho,73,77,2.2,N,N,1
+1438,8/14/2021,41,4,Main_Side,NA,Coho,45,48,0.9,N,N,1
+1439,8/14/2021,42,4,Main_Side,NA,Coho,51,55,1.6,N,N,1
+1440,8/14/2021,43,4,Main_Side,NA,Coho,62,66,2.9,N,N,1
+1441,8/14/2021,44,4,Main_Side,NA,Coho,44,47,1.1,N,N,1
+1442,8/14/2021,45,4,Main_Side,NA,Coho,54,58,1.7,N,N,1
+1443,8/14/2021,46,4,Main_Side,NA,Coho,50,55,1.5,N,N,1
+1444,8/14/2021,47,4,Main_Side,NA,Coho,56,60,2.2,N,N,1
+1445,8/14/2021,48,4,Main_Side,E0CCF2E,Coho,101,109,13.4,Y,N,1
+1446,8/14/2021,49,4,Main_Side,E0CCFB2,Dolly Varden,129,136,26.9,Y,N,1
+1447,8/14/2021,50,4,Main_Side,NA,Coho,54,58,1.8,N,N,1
+1448,8/14/2021,51,4,Main_Side,NA,Coho,54,59,1.9,N,N,1
+1449,8/14/2021,52,4,Main_Side,E0CCF94,Dolly Varden,126,132,23.9,Y,N,1
+1450,8/14/2021,53,4,Main_Side,E0CCF10,Coho,99,106,13.1,Y,N,1
+1451,8/14/2021,54,4,Main_Side,E0CCF72,Coho,84,91,7.8,Y,N,1
+1452,8/14/2021,55,4,Main_Side,E0CCF78,Coho,98,107,12.6,Y,N,1
+1453,8/14/2021,56,4,Main_Side,NA,Coho,45,50,1.6,N,N,1
+1454,8/14/2021,57,5,Main_Side,NA,Dolly Varden,55,57,1.8,N,N,1
+1455,8/14/2021,58,5,Main_Side,NA,Dolly Varden,46,48,1,N,N,1
+1456,8/14/2021,59,5,Main_Side,NA,Coho,49,51,1.3,N,N,1
+1457,8/14/2021,60,5,Main_Side,NA,Coho,49,52,1.4,N,N,1
+1458,8/14/2021,61,5,Main_Side,NA,Coho,50,54,1.4,N,N,1
+1459,8/14/2021,62,6,Main_Side,E0CCF63,Dolly Varden,145,153,37.7,Y,N,1
+1460,8/14/2021,63,6,Main_Side,NA,Coho,54,57,1.8,N,N,1
+1461,8/14/2021,64,6,Main_Side,NA,Coho,57,60,2.4,N,N,1
+1462,8/14/2021,65,6,Main_Side,NA,Coho,55,59,1.9,N,N,1
+1463,8/14/2021,66,6,Main_Side,NA,Coho,57,61,2.2,N,N,1
+1464,8/14/2021,67,6,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1465,8/14/2021,68,6,Main_Side,NA,Coho,52,55,1.4,N,N,1
+1466,8/14/2021,69,6,Main_Side,NA,Coho,55,59,2,N,N,1
+1467,8/14/2021,70,6,Main_Side,NA,Coho,59,63,2.6,N,N,1
+1468,8/14/2021,71,6,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1469,8/14/2021,72,6,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1470,8/14/2021,73,6,Main_Side,NA,Coho,57,61,2.4,N,N,1
+1471,8/18/2021,1,2,Main_Side,NA,Coho,54,58,2,N,N,1
+1472,8/18/2021,2,2,Main_Side,NA,Coho,43,46,1,N,N,1
+1473,8/18/2021,3,2,Main_Side,NA,Coho,46,50,1.1,N,N,1
+1474,8/18/2021,4,2,Main_Side,E0CCF66,Dolly Varden,103,109,12.2,Y,N,1
+1475,8/18/2021,5,4,Main_Side,9300F46,Dolly Varden,130,137,27.1,Y,N,1
+1476,8/18/2021,6,4,Main_Side,NA,Coho,56,60,2,N,N,1
+1477,8/18/2021,7,4,Main_Side,E0CCFB5,Coho,100,110,12.3,Y,N,1
+1478,8/18/2021,8,4,Main_Side,NA,Coho,50,53,1.3,N,N,1
+1479,8/18/2021,9,4,Main_Side,NA,Coho,59,63,2.2,N,N,1
+1480,8/18/2021,10,4,Main_Side,E0CCFAF,Dolly Varden,111,120,15.1,Y,N,1
+1481,8/18/2021,11,4,Main_Side,E0CCFB0,Dolly Varden,120,124,20.9,Y,N,1
+1482,8/18/2021,12,4,Main_Side,NA,Coho,40,42,1,N,N,1
+1483,8/18/2021,13,4,Main_Side,NA,Coho,55,59,2.2,N,N,1
+1484,8/18/2021,14,4,Main_Side,NA,Coho,47,50,1.3,N,N,1
+1485,8/18/2021,15,4,Main_Side,E0CCF50,Coho,90,97,9.1,Y,N,1
+1486,8/18/2021,16,4,Main_Side,NA,Coho,59,63,2.2,N,N,1
+1487,8/18/2021,17,4,Main_Side,NA,Coho,52,56,1.6,N,N,1
+1488,8/18/2021,18,4,Main_Side,NA,Coho,52,56,1.5,N,N,1
+1489,8/18/2021,19,4,Main_Side,NA,Coho,70,75,4,N,N,1
+1490,8/18/2021,20,4,Main_Side,E0CCF9F,Dolly Varden,136,143,31.1,Y,N,1
+1491,8/18/2021,21,4,Main_Side,E0CCFB4,Dolly Varden,124,130,22.7,Y,N,1
+1492,8/18/2021,22,4,Main_Side,E0CCF6A,Coho,96,103,11.7,Y,N,1
+1493,8/18/2021,23,1,Main_Side,NA,Coho,60,65,2.4,N,N,1
+1494,8/18/2021,24,1,Main_Side,NA,Coho,70,75,4.1,Y,N,1
+1495,8/18/2021,25,1,Main_Side,NA,Coho,61,66,2.9,N,N,1
+1496,8/18/2021,26,1,Main_Side,NA,Dolly Varden,70,73,3.4,Y,N,1
+1497,8/18/2021,27,1,Main_Side,NA,Coho,50,54,1.3,N,N,1
+1498,8/18/2021,28,1,Main_Side,NA,Coho,62,66,2.3,N,N,1
+1499,8/18/2021,29,1,Main_Side,NA,Coho,59,63,2.3,N,N,1
+1500,8/18/2021,30,1,Main_Side,NA,Cojho,75,81,5,Y,N,1
+1501,8/18/2021,31,1,Main_Side,NA,Coho,50,54,1.5,N,N,1
+1502,8/18/2021,32,1,Main_Side,NA,Coho,65,74,3.3,Y,N,1
+1503,8/18/2021,33,1,Main_Side,NA,Coho,62,67,2.4,N,N,1
+1504,8/18/2021,34,1,Main_Side,NA,Coho,55,60,2,N,N,1
+1505,8/18/2021,35,1,Main_Side,NA,Coho,54,57,1.1,N,N,1
+1506,8/18/2021,36,1,Main_Side,NA,Coho,51,55,1.4,N,N,1
+1507,8/18/2021,37,1,Main_Side,NA,Coho,64,69,3.5,Y,N,1
+1508,8/18/2021,38,1,Main_Side,NA,Coho,60,66,2.6,N,N,1
+1509,8/18/2021,39,1,Main_Side,NA,Coho,60,64,2.6,N,N,1
+1510,8/18/2021,40,1,Main_Side,NA,Coho,56,60,2.1,N,N,1
+1511,8/18/2021,41,1,Main_Side,E0CCFB1,Coho,103,111,13.3,Y,N,1
+1512,8/18/2021,42,1,Main_Side,NA,Coho,56,60,2,N,N,1
+1513,8/18/2021,43,1,Main_Side,NA,Coho,66,71,3.2,N,N,1
+1514,8/18/2021,44,1,Main_Side,NA,Coho,54,58,1.9,N,N,1
+1515,8/18/2021,45,1,Main_Side,E0CCF6B,Coho,102,110,13.5,Y,N,1
+1516,8/18/2021,46,1,Main_Side,NA,Coho,53,57,1.6,N,N,1
+1517,8/18/2021,47,1,Main_Side,NA,Coho,56,61,2.1,N,N,1
+1518,8/18/2021,48,1,Main_Side,NA,Coho,59,63,2.3,N,N,1
+1519,8/18/2021,49,1,Main_Side,NA,Coho,62,67,2.8,Y,N,1
+1520,8/18/2021,50,1,Main_Side,NA,Coho,60,64,2.5,N,N,1
+1521,8/18/2021,51,1,Main_Side,NA,Coho,63,68,3,N,N,1
+1522,8/18/2021,52,1,Main_Side,NA,Coho,51,55,6.3,N,N,1
+1523,8/18/2021,53,1,Main_Side,E0CCFA9,Dolly Varden,87,91,7,Y,N,1
+1524,8/18/2021,54,1,Main_Side,NA,Coho,62,66,2.6,N,N,1
+1525,8/18/2021,55,3,Main_Side,NA,Dolly Varden,50,51,1,N,N,1
+1526,8/18/2021,56,3,Main_Side,NA,Coho,52,56,1.6,N,N,1
+1527,8/18/2021,57,3,Main_Side,NA,Coho,53,58,2.1,N,N,1
+1528,8/18/2021,58,3,Main_Side,NA,Coho,55,59,2,N,N,1
+1529,8/18/2021,59,3,Main_Side,NA,Coho,47,50,1.4,N,N,1
+1530,8/18/2021,60,3,Main_Side,NA,Coho,54,58,2,N,N,1
+1531,8/18/2021,61,3,Main_Side,NA,Coho,53,57,2,N,N,1
+1532,8/18/2021,62,3,Main_Side,NA,Coho,60,64,2.7,N,N,1
+1533,8/18/2021,63,3,Main_Side,E0CCFA2,Coho,110,118,17.5,Y,N,1
+1534,8/18/2021,64,3,Main_Side,NA,Coho,59,63,2.5,N,N,1
+1535,8/18/2021,65,3,Main_Side,NA,Coho,54,58,1.9,N,N,1
+1536,8/18/2021,66,3,Main_Side,NA,Coho,47,50,1.2,N,N,1
+1537,8/18/2021,67,3,Main_Side,NA,Coho,53,56,1.8,N,N,1
+1538,8/18/2021,68,3,Main_Side,NA,Coho,48,51,1.4,N,N,1
+1539,8/18/2021,69,3,Main_Side,NA,Coho,60,64,2.5,Y,N,1
+1540,8/18/2021,70,3,Main_Side,NA,Coho,48,51,1.3,N,N,1
+1541,8/18/2021,71,3,Main_Side,NA,Coho,55,59,2.2,N,N,1
+1542,8/18/2021,72,3,Main_Side,NA,Coho,56,60,2.1,N,N,1
+1543,8/18/2021,73,3,Main_Side,NA,Coho,54,58,1.7,N,N,1
+1544,8/18/2021,74,3,Main_Side,NA,Coho,45,48,1.2,N,N,1
+1545,8/18/2021,75,3,Main_Side,NA,Coho,56,60,2.2,N,N,1
+1546,8/18/2021,76,3,Main_Side,NA,Coho,65,69,2.7,N,N,1
+1547,8/18/2021,77,3,Main_Side,NA,Coho,57,61,2,N,N,1
+1548,8/18/2021,78,3,Main_Side,NA,Dolly Varden,40,41,0.6,N,N,1
+1549,8/18/2021,79,3,Main_Side,NA,Coho,62,67,2.8,Y,N,1
+1550,8/18/2021,80,3,Main_Side,NA,Coho,46,49,1.3,N,N,1
+1551,8/18/2021,81,3,Main_Side,NA,Coho,49,52,1.4,N,N,1
+1552,8/18/2021,82,3,Main_Side,NA,Coho,54,58,1.8,N,N,1
+1553,8/18/2021,83,3,Main_Side,NA,Coho,65,70,3.4,Y,N,1
+1554,8/18/2021,84,3,Main_Side,NA,Dolly Varden,42,43,0.9,N,N,1
+1555,8/18/2021,85,3,Main_Side,NA,Coho,59,62,2.3,N,N,1
+1556,8/18/2021,86,3,Main_Side,NA,Coho,44,47,0.9,N,N,1
+1557,8/18/2021,87,3,Main_Side,NA,Coho,52,56,1.5,N,N,1
+1558,8/18/2021,88,3,Main_Side,NA,Coho,41,43,0.7,N,N,1
+1559,8/18/2021,89,3,Main_Side,NA,Coho,48,51,1.2,N,N,1
+1560,8/18/2021,90,3,Main_Side,NA,Coho,52,56,1.5,N,N,1
+1561,8/18/2021,91,3,Main_Side,NA,Coho,55,59,1.9,N,N,1
+1562,8/18/2021,92,3,Main_Side,NA,Coho,60,65,2.4,N,N,1
+1563,8/18/2021,93,3,Main_Side,NA,Coho,59,63,2.1,N,N,1
+1564,8/18/2021,94,3,Main_Side,NA,Coho,61,65,2.4,Y,N,1
+1565,8/18/2021,95,3,Main_Side,NA,Dolly Varden,44,45,0.8,N,N,1
+1566,8/18/2021,96,3,Main_Side,NA,Coho,54,58,1.9,N,N,1
+1567,8/18/2021,97,3,Main_Side,NA,Coho,56,60,1.8,N,N,1
+1568,8/18/2021,98,3,Main_Side,NA,Coho,54,58,1.7,N,N,1
+1569,8/18/2021,99,3,Main_Side,NA,Coho,56,60,2,N,N,1
+1570,8/18/2021,100,3,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1571,8/18/2021,101,3,Main_Side,NA,Coho,62,67,2.8,N,N,1
+1572,8/18/2021,102,3,Main_Side,NA,Coho,66,71,3.7,Y,N,1
+1573,8/18/2021,103,3,Main_Side,NA,Dolly Varden,35,36,0.3,N,N,1
+1574,8/18/2021,104,3,Main_Side,NA,Coho,52,56,1.9,N,N,1
+1575,8/18/2021,105,3,Main_Side,NA,Coho,47,50,1.1,N,N,1
+1576,8/18/2021,106,3,Main_Side,NA,Coho,50,53,1.4,N,N,1
+1577,8/18/2021,107,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1578,8/18/2021,108,3,Main_Side,NA,Dolly Varden,49,51,1.3,N,N,1
+1579,8/18/2021,109,3,Main_Side,NA,Coho,55,60,2,N,N,1
+1580,8/18/2021,110,3,Main_Side,NA,Coho,59,64,2.5,N,N,1
+1581,8/18/2021,111,3,Main_Side,NA,Coho,61,66,2.6,Y,N,1
+1582,8/18/2021,112,3,Main_Side,NA,Dolly Varden,45,46,1.1,N,N,1
+1583,8/18/2021,113,3,Main_Side,NA,Coho,55,59,2.1,N,N,1
+1584,8/18/2021,114,3,Main_Side,NA,Coho,55,58,2.1,N,N,1
+1585,8/25/2021,1,1,Main_Side,NA,Coho,68,75,3.9,Y,N,1
+1586,8/25/2021,2,1,Main_Side,NA,Coho,59,64,2.5,N,N,1
+1587,8/25/2021,3,1,Main_Side,NA,Coho,56,61,2,N,N,1
+1588,8/25/2021,4,1,Main_Side,NA,Coho,87,94,7.5,Y,N,1
+1589,8/25/2021,5,1,Main_Side,NA,Coho,53,56,1.5,N,N,1
+1590,8/25/2021,6,1,Main_Side,NA,Coho,62,68,2.7,Y,N,1
+1591,8/25/2021,7,1,Main_Side,NA,Coho,59,64,2.2,N,N,1
+1592,8/25/2021,8,2,Main_Side,NA,Coho,68,73,3.1,Y,N,1
+1593,8/25/2021,9,2,Main_Side,NA,Coho,50,53,1.8,N,N,1
+1594,8/25/2021,10,2,Main_Side,NA,Coho,48,52,1.5,N,N,1
+1595,8/25/2021,11,2,Main_Side,NA,Dolly Varden,98,106,10.5,Y,N,1
+1596,8/25/2021,12,2,Main_Side,NA,Coho,66,71,3.3,Y,N,1
+1597,8/25/2021,13,2,Main_Side,NA,Coho,87,94,8.1,Y,N,1
+1598,8/25/2021,14,2,Main_Side,NA,Coho,57,62,2.2,N,N,1
+1599,8/25/2021,15,2,Main_Side,NA,Coho,54,58,2.1,N,N,1
+1600,8/25/2021,16,3,Main_Side,NA,Dolly Varden,37,38,0.4,N,N,1
+1601,8/25/2021,17,3,Main_Side,NA,Coho,44,46,1,N,N,1
+1602,8/25/2021,18,3,Main_Side,NA,Coho,44,49,1.2,N,N,1
+1603,8/25/2021,19,3,Main_Side,NA,Coho,50,54,1.6,N,N,1
+1604,8/25/2021,20,3,Main_Side,NA,Coho,48,52,1.3,N,N,1
+1605,8/25/2021,21,3,Main_Side,NA,Coho,45,48,1.4,N,N,1
+1606,8/25/2021,22,3,Main_Side,NA,Dolly Varden,39,40,0.5,N,N,1
+1607,8/25/2021,23,3,Main_Side,NA,Coho,51,55,1.4,N,N,1
+1608,8/25/2021,24,3,Main_Side,NA,Dolly Varden,49,50,1,N,N,1
+1609,8/25/2021,25,3,Main_Side,NA,Coho,55,52,1.6,N,N,1
+1610,8/25/2021,26,3,Main_Side,NA,Coho,44,46,1.3,N,N,1
+1611,8/25/2021,27,3,Main_Side,NA,Coho,47,50,1.2,N,N,1
+1612,8/25/2021,28,3,Main_Side,NA,Coho,42,45,0.8,N,N,1
+1613,8/25/2021,29,3,Main_Side,NA,Coho,50,54,1.3,N,N,1
+1614,8/25/2021,30,3,Main_Side,NA,Coho,54,58,1.6,N,N,1
+1615,8/25/2021,31,3,Main_Side,NA,Coho,49,53,1.4,N,N,1
+1616,8/25/2021,32,3,Main_Side,NA,Dolly Varden,39,40,0.5,N,N,1
+1617,8/25/2021,33,3,Main_Side,NA,Dolly Varden,49,51,1.6,N,N,1
+1618,8/25/2021,34,3,Main_Side,NA,Coho,45,42,0.8,N,N,1
+1619,8/25/2021,35,3,Main_Side,NA,Coho,59,64,2.4,Y,N,1
+1620,8/25/2021,36,3,Main_Side,NA,Coho,51,55,1.3,N,N,1
+1621,8/25/2021,37,3,Main_Side,NA,Dolly Varden,89,93,8.1,Y,N,1
+1622,8/28/2021,1,3,Main_Side,NA,Sculpin,NA,98,11.6,N,N,1
+1623,8/28/2021,2,3,Main_Side,NA,Coho,52,55,1.4,N,N,1
+1624,8/28/2021,3,3,Main_Side,E0CCF9C,Coho,104,111,14.1,Y,N,1
+1625,8/28/2021,4,3,Main_Side,E0CCF84,Dolly Varden,98,105,10.2,Y,N,1
+1626,8/28/2021,5,3,Main_Side,NA,Coho,74,79,4.7,Y,N,1
+1627,8/28/2021,6,3,Main_Side,E0CCF90,Dolly Varden,117,124,19.5,Y,N,1
+1628,8/28/2021,7,3,Main_Side,E0CCFBE,Coho,80,86,6.3,Y,N,1
+1629,8/28/2021,8,3,Main_Side,E0CCF7E,Dolly Varden,143,150,33.8,Y,N,1
+1630,8/28/2021,9,3,Main_Side,E0CCF86,Dolly Varden,134,141,30.3,Y,N,1
+1631,8/28/2021,10,1,Main_Side,NA,Cutthroat,163,170,47.2,N,N,1
+1632,8/28/2021,11,1,Main_Side,NA,Coho,44,47,0.9,N,N,1
+1633,8/28/2021,12,1,Main_Side,NA,Coho,57,61,2.5,Y,N,1
+1634,8/28/2021,13,1,Main_Side,E0CCF5D,Coho,92,99,9.4,Y,N,1
+1635,8/28/2021,14,1,Main_Side,E0CCF74,Dolly Varden,144,152,36,Y,N,1
+1636,8/28/2021,15,1,Main_Side,NA,Coho,51,55,1.3,N,N,1
+1637,8/28/2021,16,1,Main_Side,E0CCF79,Coho,93,100,9.9,Y,N,1
+1638,8/28/2021,17,1,Main_Side,NA,Sculpin,NA,114,23.8,N,N,1
+1639,8/28/2021,18,1,Main_Side,E0CCF87,Dolly Varden,116,121,16.6,Y,N,1
+1640,8/28/2021,19,1,Main_Side,E0CCFA1,Dolly Varden,95,100,9.3,Y,N,1
+1641,8/28/2021,20,1,Main_Side,E0CCF7A,Dolly Varden,136,142,31.1,Y,N,1
+1642,8/28/2021,21,1,Main_Side,E0CCF89,Dolly Varden,92,107,9.2,Y,N,1
+1643,8/28/2021,22,1,Main_Side,NA,Coho,82,86,2.9,Y,N,1
+1644,8/28/2021,23,1,Main_Side,E0CCF8B,Dolly Varden,95,100,8.5,Y,N,1
+1645,8/28/2021,24,4,Seep,NA,Coho,46,49,1,N,N,1
+1646,8/28/2021,25,4,Seep,NA,Coho,41,44,0.7,N,N,1
+1647,8/28/2021,26,4,Seep,NA,Dolly Varden,43,44,0.6,N,N,1
+1648,8/28/2021,27,4,Seep,NA,Dolly Varden,47,48,0.8,N,N,1
+1649,8/28/2021,28,4,Seep,NA,Dolly Varden,43,44,8,N,N,1
+1650,8/28/2021,29,4,Seep,NA,Coho,58,65,2.5,Y,N,1
+1651,8/28/2021,30,4,Seep,NA,Dolly Varden,72,75,4.8,Y,N,1
+1652,8/28/2021,31,4,Seep,NA,Dolly Varden,72,75,4.5,Y,N,1
+1653,8/28/2021,32,2,Main_Side,NA,Coho,50,53,1.3,N,N,1
+1654,8/28/2021,33,2,Main_Side,NA,Coho,49,53,1.2,N,N,1
+1655,8/28/2021,34,2,Main_Side,NA,Coho,46,49,1,N,N,1
+1656,8/28/2021,35,2,Main_Side,NA,Coho,50,53,1.4,N,N,1
+1657,8/28/2021,36,2,Main_Side,NA,Coho,49,52,1.2,N,N,1
+1658,8/28/2021,37,2,Main_Side,NA,Coho,53,57,1.6,Y,N,1
+1659,8/28/2021,38,2,Main_Side,NA,Coho,51,54,1.5,Y,N,1
+1660,8/28/2021,39,2,Main_Side,NA,Coho,53,57,1.5,N,N,1
+1661,8/28/2021,40,2,Main_Side,NA,Coho,52,55,1.6,N,N,1
+1662,8/28/2021,41,2,Main_Side,NA,Coho,50,53,1.2,N,N,1
+1663,8/28/2021,42,2,Main_Side,NA,Coho,50,54,1.2,N,N,1
+1664,8/28/2021,43,2,Main_Side,NA,Coho,49,52,1.2,N,N,1
+1665,8/28/2021,44,2,Main_Side,NA,Coho,52,55,1.4,Y,N,1
+1666,8/28/2021,45,2,Main_Side,NA,Coho,57,61,2,Y,N,1
+1667,8/28/2021,46,2,Main_Side,NA,Coho,55,59,1.7,N,N,1
+1668,8/28/2021,47,2,Main_Side,NA,Coho,56,60,1.8,N,N,1
+1669,8/28/2021,48,2,Main_Side,NA,Coho,55,59,1.9,N,N,1
+1670,8/28/2021,49,2,Main_Side,NA,Coho,57,61,1.9,N,N,1
+1671,8/28/2021,50,2,Main_Side,NA,Coho,50,53,1.2,N,N,1
+1672,8/28/2021,51,2,Main_Side,NA,Dolly Varden,50,52,1.2,N,N,1
+1673,9/2/2021,1,1,Main_Side,E0CCF61,Coho,108,117,15.4,Y,N,1
+1674,9/2/2021,2,1,Main_Side,E0CCFAE,Dolly Varden,137,143,26.6,Y,N,1
+1675,9/2/2021,3,1,Main_Side,NA,Coho,52,55,1.8,N,N,1
+1676,9/2/2021,4,1,Main_Side,NA,Coho,49,52,1.5,N,N,1
+1677,9/2/2021,5,1,Main_Side,NA,Coho,65,69,3.4,Y,N,1
+1678,9/2/2021,6,1,Main_Side,NA,Coho,45,48,1.3,N,N,1
+1679,9/2/2021,7,1,Main_Side,NA,Coho,50,54,1.7,N,N,1
+1680,9/2/2021,8,1,Main_Side,NA,Coho,47,51,1.3,N,N,1
+1681,9/2/2021,9,1,Main_Side,NA,Coho,51,55,1.4,N,N,1
+1682,9/2/2021,10,1,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1683,9/2/2021,11,2,Main_Side,NA,Coho,63,67,2.8,N,N,1
+1684,9/2/2021,12,2,Main_Side,NA,Coho,65,69,3.6,N,N,1
+1685,9/2/2021,13,2,Main_Side,NA,Coho,66,70,3.3,N,N,1
+1686,9/2/2021,14,2,Main_Side,NA,Coho,56,60,2,N,N,1
+1687,9/2/2021,15,2,Main_Side,E0CCF4C,Dolly Varden,153,159,40.8,Y,N,1
+1688,9/2/2021,16,2,Main_Side,NA,Coho,63,66,2.7,N,N,1
+1689,9/2/2021,17,2,Main_Side,NA,Coho,59,64,2.4,N,N,1
+1690,9/2/2021,18,2,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1691,9/2/2021,19,2,Main_Side,NA,Coho,66,70,3.3,Y,N,1
+1692,9/2/2021,20,2,Main_Side,NA,Coho,69,74,3.6,Y,N,1
+1693,9/2/2021,21,2,Main_Side,NA,Coho,65,69,3,N,N,1
+1694,9/2/2021,22,2,Main_Side,NA,Coho,61,65,2.8,N,N,1
+1695,9/2/2021,23,2,Main_Side,NA,Coho,59,64,2.2,N,N,1
+1696,9/2/2021,24,2,Main_Side,NA,Coho,55,59,2,N,N,1
+1697,9/2/2021,25,2,Main_Side,NA,Coho,53,56,1.8,N,N,1
+1698,9/2/2021,26,2,Main_Side,NA,Coho,73,78,4.8,Y,N,1
+1699,9/2/2021,27,2,Main_Side,NA,Coho,51,55,2.1,N,N,1
+1700,9/2/2021,28,2,Main_Side,E0CCF5A,Dolly Varden,91,100,9,Y,N,1
+1701,9/2/2021,29,2,Main_Side,E0CCF0D,Coho,104,111,13.4,Y,N,1
+1702,9/2/2021,30,2,Main_Side,NA,Coho,42,44,1.2,N,N,1
+1703,9/2/2021,31,2,Main_Side,NA,Coho,58,61,2.4,N,N,1
+1704,9/2/2021,32,2,Main_Side,NA,Coho,63,67,2.8,N,N,1
+1705,9/2/2021,33,2,Main_Side,E0CCFA0,Dolly Varden,103,107,10.3,Y,N,1
+1706,9/2/2021,34,2,Main_Side,NA,Dolly Varden,44,46,0.8,N,N,1
+1707,9/2/2021,35,2,Main_Side,NA,Dolly Varden,41,43,0.9,N,N,1
+1708,9/2/2021,36,2,Main_Side,NA,Coho,54,57,1.9,N,N,1
+1709,9/2/2021,37,3,Main_Side,NA,Coho,64,68,3,Y,N,1
+1710,9/2/2021,38,3,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1711,9/2/2021,39,3,Main_Side,NA,Coho,57,61,2.3,N,N,1
+1712,9/2/2021,40,3,Main_Side,E0CCF8A,Dolly Varden,97,102,10.3,Y,N,1
+1713,9/2/2021,41,3,Main_Side,NA,Coho,50,53,1.6,N,N,1
+1714,9/2/2021,42,3,Main_Side,NA,Coho,56,60,2.1,N,N,1
+1715,9/2/2021,43,3,Main_Side,NA,Dolly Varden,79,82,5,Y,N,1
+1716,9/2/2021,44,3,Main_Side,NA,Coho,56,60,2.1,N,N,1
+1717,9/2/2021,45,3,Main_Side,NA,Coho,58,61,2.2,N,N,1
+1718,9/2/2021,46,3,Main_Side,NA,Coho,73,80,4.5,Y,N,1
+1719,9/2/2021,47,3,Main_Side,NA,Coho,49,53,1.2,N,N,1
+1720,9/2/2021,48,3,Main_Side,E0CCF07,Coho,106,114,15.1,Y,N,1
+1721,9/2/2021,49,3,Main_Side,NA,Coho,61,65,2.6,N,N,1
+1722,9/2/2021,50,3,Main_Side,NA,Coho,65,70,3.4,Y,N,1
+1723,9/2/2021,51,3,Main_Side,NA,Coho,64,69,3.2,N,N,1
+1724,9/2/2021,52,3,Main_Side,NA,Coho,70,75,4,Y,N,1
+1725,9/2/2021,53,3,Main_Side,NA,Coho,61,66,2.6,N,N,1
+1726,9/2/2021,54,3,Main_Side,NA,Coho,61,66,2.5,N,N,1
+1727,9/2/2021,55,3,Main_Side,NA,Coho,49,52,1.3,N,N,1
+1728,9/2/2021,56,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1729,9/2/2021,57,3,Main_Side,E0CCFBA,Coho,106,114,14.1,Y,N,1
+1730,9/2/2021,58,3,Main_Side,NA,Coho,49,53,1.4,N,N,1
+1731,9/2/2021,59,3,Main_Side,NA,Coho,54,57,1.6,N,N,1
+1732,9/2/2021,60,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1733,9/2/2021,61,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1734,9/2/2021,62,3,Main_Side,E0CCF6F,Coho,102,110,14,Y,N,1
+1735,9/2/2021,63,3,Main_Side,NA,Coho,56,60,1.9,N,N,1
+1736,9/2/2021,64,3,Main_Side,NA,Coho,65,70,2.8,N,N,1
+1737,9/2/2021,65,3,Main_Side,NA,Coho,71,76,4.7,Y,N,1
+1738,9/2/2021,66,3,Main_Side,NA,Coho,67,71,3.6,N,N,1
+1739,9/2/2021,67,3,Main_Side,NA,Coho,59,63,2.2,N,N,1
+1740,9/2/2021,68,3,Main_Side,NA,Dolly Varden,107,111,12.9,Y,N,1
+1741,9/2/2021,69,3,Main_Side,NA,Coho,50,53,1.3,N,N,1
+1742,9/2/2021,70,3,Main_Side,NA,Dolly Varden,53,55,1.5,N,N,1
+1743,9/2/2021,71,3,Main_Side,NA,Coho,48,51,1.3,N,N,1
+1744,9/2/2021,72,3,Main_Side,NA,Coho,56,59,2,N,N,1
+1745,9/2/2021,73,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1746,9/2/2021,74,3,Main_Side,E0CCF9B,Dolly Varden,102,107,11.2,Y,N,1
+1747,9/2/2021,75,3,Main_Side,NA,Coho,62,67,3,N,N,1
+1748,9/2/2021,76,3,Main_Side,NA,Coho,53,56,1.8,N,N,1
+1749,9/2/2021,77,3,Main_Side,NA,Dolly Varden,94,97,8.3,Y,N,1
+1750,9/2/2021,78,3,Main_Side,NA,Coho,62,66,2.6,N,N,1
+1751,9/2/2021,79,3,Main_Side,NA,Coho,54,58,2,N,N,1
+1752,9/2/2021,80,3,Main_Side,NA,Coho,69,73,3,Y,N,1
+1753,9/2/2021,81,3,Main_Side,NA,Coho,54,57,1.7,N,N,1
+1754,9/2/2021,82,3,Main_Side,NA,Coho,70,76,4.1,Y,N,1
+1755,9/2/2021,83,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1756,9/2/2021,84,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1757,9/2/2021,85,3,Main_Side,NA,Coho,50,53,1.3,N,N,1
+1758,9/2/2021,86,3,Main_Side,NA,Coho,60,63,2.3,N,N,1
+1759,9/2/2021,87,3,Main_Side,NA,Coho,59,62,2.4,Y,N,1
+1760,9/2/2021,88,3,Main_Side,NA,Coho,50,54,1.5,N,N,1
+1761,9/2/2021,89,3,Main_Side,NA,Coho,53,56,1.8,N,N,1
+1762,9/2/2021,90,3,Main_Side,NA,Coho,62,66,2.6,Y,N,1
+1763,9/2/2021,91,3,Main_Side,NA,Coho,51,54,1.6,N,N,1
+1764,9/2/2021,92,3,Main_Side,NA,Coho,65,70,3.2,Y,N,1
+1765,9/2/2021,93,3,Main_Side,NA,Coho,60,64,2.6,Y,N,1
+1766,9/2/2021,94,3,Main_Side,NA,Coho,53,57,2.5,N,N,1
+1767,9/2/2021,95,3,Main_Side,NA,Dolly Varden,43,44,0.8,N,N,1
+1768,9/2/2021,96,3,Main_Side,NA,Coho,49,53,1.4,N,N,1
+1769,9/2/2021,97,3,Main_Side,NA,Coho,71,76,4.2,N,N,1
+1770,9/2/2021,98,3,Main_Side,NA,Coho,57,61,2.2,N,N,1
+1771,9/2/2021,99,3,Main_Side,NA,Dolly Varden,45,46,0.8,N,N,1
+1772,9/2/2021,100,3,Main_Side,NA,Coho,57,60,2,N,N,1
+1773,9/2/2021,101,3,Main_Side,NA,Coho,50,54,1.5,N,N,1
+1774,9/2/2021,102,3,Main_Side,NA,Dolly Varden,51,53,1.3,N,N,1
+1775,9/3/2021,1,2,Main_Side,NA,Dolly Varden,168,176,50.3,Y,N,1
+1776,9/3/2021,2,2,Main_Side,E0CCFB0,Dolly Varden,124,132,18.4,Y,N,1
+1777,9/3/2021,3,2,Main_Side,E0CCF6E,Coho,104,112,14.6,Y,N,1
+1778,9/3/2021,4,2,Main_Side,E0CCF69,Coho,103,112,13.9,Y,N,1
+1779,9/3/2021,5,2,Main_Side,E0CCF9D,Dolly Varden,130,136,23.1,Y,N,1
+1780,9/3/2021,6,2,Main_Side,NA,Coho,108,118,16,N,N,1
+1781,9/3/2021,7,2,Main_Side,NA,Coho,95,102,10.7,N,N,1
+1782,9/3/2021,8,2,Main_Side,NA,Coho,102,110,11.6,N,N,1
+1783,9/3/2021,9,2,Main_Side,NA,Coho,74,80,4.5,N,N,1
+1784,9/3/2021,10,2,Main_Side,NA,Coho,104,112,13.7,N,N,1
+1785,9/3/2021,11,2,Main_Side,NA,Coho,57,NA,1.9,N,N,1
+1786,9/3/2021,12,2,Main_Side,NA,Coho,66,70,3,N,N,1
+1787,9/3/2021,13,2,Main_Side,NA,Coho,102,111,12.3,N,N,1
+1788,9/3/2021,14,2,Main_Side,NA,Coho,107,116,15.1,N,N,1
+1789,9/3/2021,15,2,Main_Side,NA,Coho,62,66,2.7,N,N,1
+1790,9/3/2021,16,2,Main_Side,NA,Dolly Varden,77,80,4.5,N,N,1
+1791,9/3/2021,17,2,Main_Side,NA,Coho,50,53,1,N,N,1
+1792,9/3/2021,18,2,Main_Side,NA,Coho,67,72,3.5,N,N,1
+1793,9/3/2021,19,2,Main_Side,NA,Coho,64,69,2.9,Y,N,1
+1794,9/3/2021,20,2,Main_Side,NA,Coho,82,88,6.3,N,N,1
+1795,9/3/2021,21,2,Main_Side,NA,Coho,71,76,4,N,N,1
+1796,9/3/2021,22,2,Main_Side,NA,Coho,75,82,4.7,N,N,1
+1797,9/3/2021,23,2,Main_Side,NA,Coho,97,106,10.3,N,N,1
+1798,9/3/2021,24,2,Main_Side,NA,Coho,103,111,13.2,N,N,1
+1799,9/3/2021,25,2,Main_Side,NA,Coho,67,72,3.6,N,N,1
+1800,9/3/2021,26,3,Main_Side,NA,Coho,51,55,1.5,N,N,1
+1801,9/3/2021,27,3,Main_Side,NA,Coho,53,57,1.8,N,N,1
+1802,9/3/2021,28,3,Main_Side,NA,Coho,56,59,1.7,N,N,1
+1803,9/3/2021,29,3,Main_Side,NA,Coho,74,79,4.9,N,N,1
+1804,9/3/2021,30,3,Main_Side,NA,Coho,54,58,1.7,N,N,1
+1805,9/3/2021,31,3,Main_Side,NA,Coho,48,51,1.5,N,N,1
+1806,9/3/2021,32,3,Main_Side,NA,Coho,57,59,2,N,N,1
+1807,9/3/2021,33,3,Main_Side,NA,Coho,58,61,2.1,N,N,1
+1808,9/3/2021,34,3,Main_Side,NA,Coho,60,63,2.2,N,N,1
+1809,9/3/2021,35,3,Main_Side,NA,Dolly Varden,90,93,8.5,N,N,1
+1810,9/3/2021,36,3,Main_Side,NA,Dolly Varden,111,120,17.3,N,N,1
+1811,9/3/2021,37,3,Main_Side,NA,Dolly Varden,63,66,2.5,N,N,1
+1812,9/3/2021,38,3,Main_Side,NA,Coho,55,58,1.7,N,N,1
+1813,9/3/2021,39,3,Main_Side,NA,Coho,43,45,0.9,N,N,1
+1814,9/3/2021,40,3,Main_Side,NA,Coho,53,55,1.6,N,N,1
+1815,9/3/2021,41,3,Main_Side,NA,Coho,56,59,1.8,N,N,1
+1816,9/3/2021,42,3,Main_Side,NA,Dolly Varden,51,54,1.3,N,N,1
+1817,9/3/2021,43,3,Main_Side,NA,Coho,51,54,1.3,N,N,1
+1818,9/3/2021,44,3,Main_Side,NA,Coho,53,57,1.6,N,N,1
+1819,9/3/2021,45,3,Main_Side,NA,Coho,62,65,2.7,N,N,1
+1820,9/3/2021,46,3,Main_Side,NA,Coho,46,51,1.5,N,N,1
+1821,9/3/2021,47,3,Main_Side,NA,Coho,68,71,1.6,N,N,1
+1822,9/3/2021,48,3,Main_Side,NA,Coho,64,68,3,N,N,1
+1823,9/3/2021,49,3,Main_Side,NA,Coho,61,65,2.7,N,N,1
+1824,9/3/2021,50,3,Main_Side,NA,Coho,48,51,1.3,N,N,1
+1825,9/3/2021,51,3,Main_Side,NA,Coho,53,55,1.5,N,N,1
+1826,9/3/2021,52,3,Main_Side,NA,Coho,48,52,1.9,N,N,1
+1827,9/3/2021,53,3,Main_Side,NA,Coho,64,67,2.5,N,N,1
+1828,9/3/2021,54,3,Main_Side,NA,Coho,44,47,1,N,N,1
+1829,9/3/2021,55,3,Main_Side,NA,Coho,61,66,2.4,N,N,1
+1830,9/3/2021,56,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1831,9/3/2021,57,3,Main_Side,NA,Coho,57,61,2.1,N,N,1
+1832,9/3/2021,58,3,Main_Side,NA,Coho,59,63,2.5,N,N,1
+1833,9/3/2021,59,3,Main_Side,NA,Dolly Varden,52,54,1.4,N,N,1
+1834,9/3/2021,60,3,Main_Side,NA,Coho,48,51,1.3,N,N,1
+1835,9/3/2021,61,3,Main_Side,NA,Coho,51,54,1.7,N,N,1
+1836,9/3/2021,62,3,Main_Side,NA,Coho,68,72,3.5,N,N,1
+1837,9/3/2021,63,3,Main_Side,NA,Coho,102,110,12.8,Y,N,1
+1838,9/3/2021,64,3,Main_Side,NA,Dolly Varden,100,105,9.8,N,N,1
+1839,9/3/2021,65,3,Main_Side,NA,Coho,68,73,3.5,N,N,1
+1840,9/3/2021,66,3,Main_Side,NA,Dolly Varden,54,56,1.3,N,N,1
+1841,9/3/2021,67,3,Main_Side,NA,Coho,53,57,1.2,N,N,1
+1842,9/3/2021,68,3,Main_Side,NA,Coho,56,60,1.9,N,N,1
+1843,9/3/2021,69,3,Main_Side,NA,Coho,59,63,2.3,N,N,1
+1844,9/3/2021,70,3,Main_Side,NA,Coho,62,66,2.7,Y,N,1
+1845,9/3/2021,71,3,Main_Side,NA,Coho,59,63,2.2,N,N,1
+1846,9/3/2021,72,3,Main_Side,NA,Coho,62,65,2.4,N,N,1
+1847,9/3/2021,73,3,Main_Side,NA,Dolly Varden,84,87,5.9,N,N,1
+1848,9/3/2021,74,3,Main_Side,NA,Dolly Varden,54,56,1,N,N,1
+1849,9/3/2021,75,3,Main_Side,NA,Dolly Varden,52,54,1.2,N,N,1
+1850,9/3/2021,76,3,Main_Side,NA,Dolly Varden,48,50,1,N,N,1
+1851,9/3/2021,77,3,Main_Side,NA,Coho,52,55,1.7,N,N,1
+1852,9/3/2021,78,3,Main_Side,NA,Coho,59,64,2.4,N,N,1
+1853,9/3/2021,79,3,Main_Side,NA,Dolly Varden,77,81,4.5,N,N,1
+1854,9/3/2021,80,3,Main_Side,NA,Coho,58,61,2,N,N,1
+1855,9/3/2021,81,3,Main_Side,NA,Coho,68,71,3.5,N,N,1
+1856,9/3/2021,82,3,Main_Side,NA,Dolly Varden,56,58,1.5,N,N,1
+1857,9/3/2021,83,3,Main_Side,NA,Coho,72,77,4.6,N,N,1
+1858,9/3/2021,84,3,Main_Side,NA,Coho,50,53,1.4,N,N,1
+1859,9/3/2021,85,3,Main_Side,NA,Coho,70,75,4.1,N,N,1
+1860,9/3/2021,86,3,Main_Side,NA,Cutthroat,86,90,6.6,N,N,1
+1861,9/3/2021,87,3,Main_Side,NA,Dolly Varden,98,102,9.7,N,N,1
+1862,9/3/2021,88,1,Main_Side,NA,Dolly Varden,115,120,17.8,N,N,1
+1863,9/3/2021,89,1,Main_Side,NA,Coho,65,69,3.2,N,N,1
+1864,9/3/2021,90,1,Main_Side,NA,Coho,100,107,11.4,Y,N,1
+1865,9/3/2021,91,1,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1866,9/3/2021,92,1,Main_Side,NA,Coho,52,55,1.4,N,N,1
+1867,9/3/2021,93,1,Main_Side,NA,Coho,57,61,2.1,N,N,1
+1868,9/3/2021,94,1,Main_Side,NA,Coho,66,70,3.2,N,N,1
+1869,9/3/2021,95,1,Main_Side,NA,Coho,107,114,14.7,Y,N,1
+1870,9/3/2021,96,1,Main_Side,NA,Coho,100,110,12.3,N,N,1
+1871,9/3/2021,97,1,Main_Side,NA,Coho,56,60,1.8,N,N,1
+1872,9/3/2021,98,1,Main_Side,NA,Dolly Varden,108,113,14.3,N,N,1
+1873,9/3/2021,99,1,Main_Side,NA,Coho,104,111,13.6,N,N,1
+1874,9/3/2021,100,1,Main_Side,NA,Dolly Varden,98,102,11.3,N,N,1
+1875,9/3/2021,101,1,Main_Side,NA,Dolly Varden,93,98,8.7,N,N,1
+1876,9/3/2021,102,1,Main_Side,NA,Dolly Varden,121,126,18.7,N,N,1
+1877,9/3/2021,103,1,Main_Side,NA,Dolly Varden,148,154,37.4,N,N,1
+1878,9/3/2021,104,1,Main_Side,NA,Dolly Varden,97,102,10.4,N,N,1
+1879,9/3/2021,105,1,Main_Side,NA,Coho,114,122,18,N,N,1
+1880,9/3/2021,106,1,Main_Side,NA,Dolly Varden,137,144,30.5,N,N,1
+1881,9/3/2021,107,1,Main_Side,NA,Coho,63,66,2.6,N,N,1
+1882,9/3/2021,108,1,Main_Side,NA,Coho,64,69,3,N,N,1
+1883,9/3/2021,109,1,Main_Side,NA,Coho,56,60,2,N,N,1
+1884,9/3/2021,110,1,Main_Side,NA,Dolly Varden,74,78,3.8,N,N,1
+1885,9/3/2021,111,1,Main_Side,NA,Dolly Varden,137,145,26.5,N,N,1
+1886,9/3/2021,112,4,Main_Side,NA,Coho,54,57,1.8,N,N,1
+1887,9/3/2021,113,4,Main_Side,NA,Cutthroat,85,90,5.9,N,N,1
+1888,9/3/2021,114,4,Main_Side,NA,Coho,48,50,1,N,N,1
+1889,9/3/2021,115,4,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1890,9/3/2021,116,4,Main_Side,NA,Cutthroat,127,133,19.9,N,N,1
+1891,9/3/2021,117,4,Main_Side,NA,Coho,103,112,12.3,Y,N,1
+1892,9/3/2021,118,4,Main_Side,NA,Coho,64,69,3.1,N,N,1
+1893,9/3/2021,119,4,Main_Side,NA,Coho,52,55,1.5,N,N,1
+1894,9/3/2021,120,4,Main_Side,NA,Dolly Varden,77,81,4.4,N,N,1
+1895,9/10/2021,1,2,Main_Side,NA,Coho,NA,69,3.1,N,N,1
+1896,9/10/2021,2,2,Main_Side,NA,Coho,66,70,3.1,N,N,1
+1897,9/10/2021,3,2,Main_Side,NA,Coho,59,63,2.4,N,N,1
+1898,9/10/2021,4,2,Main_Side,E0CCF83,Coho,101,110,14,Y,N,1
+1899,9/10/2021,5,2,Main_Side,E0CD01F,Dolly Varden,161,170,38.3,Y,N,1
+1900,9/10/2021,6,2,Main_Side,E0CCFA8,Dolly Varden,136,141,25.7,Y,N,1
+1901,9/10/2021,7,2,Main_Side,E0CD01B,Coho,85,92,8,Y,N,1
+1902,9/10/2021,8,2,Main_Side,E0CCFF6,Coho,94,101,9.4,Y,N,1
+1903,9/10/2021,9,2,Main_Side,E0CD00D,Dolly Varden,145,151,33.8,Y,N,1
+1904,9/10/2021,10,2,Main_Side,E0CCFDD,Dolly Varden,125,132,21.4,Y,N,1
+1905,9/10/2021,11,2,Main_Side,E0CD005,Dolly Varden,142,149,31.2,Y,N,1
+1906,9/10/2021,12,2,Main_Side,E0CD019,Dolly Varden,153,161,38.3,Y,N,1
+1907,9/10/2021,13,3,Main_Side,NA,Coho,47,51,1.7,N,N,1
+1908,9/10/2021,14,3,Main_Side,NA,Coho,49,51,1.4,N,N,1
+1909,9/10/2021,15,3,Main_Side,NA,Coho,53,56,1.6,Y,N,1
+1910,9/10/2021,16,3,Main_Side,NA,Coho,50,54,1.4,N,N,1
+1911,9/10/2021,17,3,Main_Side,NA,Coho,59,63,2.5,N,N,1
+1912,9/10/2021,18,3,Main_Side,NA,Coho,51,54,1.4,N,N,1
+1913,9/10/2021,19,3,Main_Side,NA,Coho,43,46,0.9,N,N,1
+1914,9/10/2021,20,3,Main_Side,NA,Coho,48,51,1.1,N,N,1
+1915,9/10/2021,21,3,Main_Side,NA,Coho,55,58,2,N,N,1
+1916,9/10/2021,22,3,Main_Side,NA,Coho,55,58,1.8,N,N,1
+1917,9/10/2021,23,3,Main_Side,NA,Coho,58,63,2.4,N,N,1
+1918,9/10/2021,24,3,Main_Side,NA,Coho,53,57,1.6,N,N,1
+1919,9/10/2021,25,3,Main_Side,NA,Coho,58,62,2.2,N,N,1
+1920,9/10/2021,26,3,Main_Side,NA,Coho,47,49,1.4,N,N,1
+1921,9/10/2021,27,3,Main_Side,NA,Coho,53,57,1.5,N,N,1
+1922,9/10/2021,28,3,Main_Side,NA,Coho,53,55,1.6,N,N,1
+1923,9/10/2021,29,3,Main_Side,NA,Coho,47,51,1.1,N,N,1
+1924,9/10/2021,30,3,Main_Side,NA,Coho,51,54,1.3,N,N,1
+1925,9/10/2021,31,3,Main_Side,NA,Coho,53,57,1.6,N,N,1
+1926,9/10/2021,32,3,Main_Side,NA,Coho,53,56,1.5,N,N,1
+1927,9/10/2021,33,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+1928,9/10/2021,34,3,Main_Side,NA,Coho,51,54,1.4,N,N,1
+1929,9/10/2021,35,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1930,9/10/2021,36,3,Main_Side,NA,Coho,62,66,2.5,Y,N,1
+1931,9/10/2021,37,3,Main_Side,NA,Dolly Varden,40,43,0.9,N,N,1
+1932,9/10/2021,38,3,Main_Side,NA,Dolly Varden,60,65,3,Y,N,1
+1933,9/10/2021,39,3,Main_Side,NA,Coho,53,56,1.5,N,N,1
+1934,9/10/2021,40,3,Main_Side,NA,Coho,61,65,2.3,N,N,1
+1935,9/10/2021,41,3,Main_Side,NA,Coho,40,43,0.7,N,N,1
+1936,9/10/2021,42,3,Main_Side,NA,Coho,47,50,1.2,N,N,1
+1937,9/10/2021,43,3,Main_Side,NA,Coho,72,77,4.4,Y,N,1
+1938,9/10/2021,44,3,Main_Side,NA,Coho,61,64,2.4,N,N,1
+1939,9/10/2021,45,3,Main_Side,NA,Coho,56,59,2.1,N,N,1
+1940,9/10/2021,46,3,Main_Side,NA,Coho,61,65,2.4,N,N,1
+1941,9/10/2021,47,3,Main_Side,NA,Coho,54,57,1.6,N,N,1
+1942,9/10/2021,48,3,Main_Side,NA,Coho,60,65,2.2,N,N,1
+1943,9/10/2021,49,3,Main_Side,NA,Coho,70,75,4.2,Y,N,1
+1944,9/10/2021,50,3,Main_Side,E0CD018,Coho,95,102,10.2,Y,N,1
+1945,9/10/2021,51,3,Main_Side,NA,Coho,55,59,2.1,N,N,1
+1946,9/10/2021,52,3,Main_Side,NA,Coho,53,56,1.7,N,N,1
+1947,9/10/2021,53,3,Main_Side,NA,Coho,63,67,2.8,N,N,1
+1948,9/10/2021,54,3,Main_Side,NA,Coho,53,58,1.8,N,N,1
+1949,9/10/2021,55,3,Main_Side,NA,Coho,48,51,1.2,N,N,1
+1950,9/10/2021,56,3,Main_Side,NA,Coho,54,56,1.5,N,N,1
+1951,9/10/2021,57,3,Main_Side,NA,Coho,58,63,1.2,N,N,1
+1952,9/10/2021,58,3,Main_Side,NA,Coho,54,57,1.7,N,N,1
+1953,9/10/2021,59,3,Main_Side,NA,Coho,63,67,3.2,Y,N,1
+1954,9/10/2021,60,1,Main_Side,NA,Dolly Varden,48,49,1.1,N,N,1
+1955,9/10/2021,61,1,Main_Side,NA,Coho,60,65,2.8,Y,N,1
+1956,9/10/2021,62,1,Main_Side,NA,Coho,58,62,2.4,N,N,1
+1957,9/10/2021,63,1,Main_Side,NA,Coho,54,57,2,N,N,1
+1958,9/10/2021,64,1,Main_Side,NA,Coho,53,56,1.8,N,N,1
+1959,9/10/2021,65,1,Main_Side,E0CD011,Dolly Varden,102,107,10.2,Y,N,1
+1960,9/10/2021,66,1,Main_Side,NA,Coho,68,73,3.5,Y,N,1
+1961,9/10/2021,67,1,Main_Side,E0CCF88,Dolly Varden,97,102,8.5,Y,N,1
+1962,9/10/2021,68,4,Seep,NA,Dolly Varden,39,40,1.5,N,N,1
+1963,9/10/2021,69,4,Seep,NA,Coho,41,44,1,N,N,1
+1964,9/10/2021,70,4,Seep,NA,Dolly Varden,41,42,1,N,N,1
+1965,9/10/2021,71,4,Seep,NA,Coho,45,48,1,N,N,1
+1966,9/10/2021,72,4,Seep,NA,Coho,47,50,1.4,N,N,1
+1967,9/10/2021,73,4,Seep,NA,Coho,46,49,1.1,N,N,1
+1968,9/10/2021,74,4,Seep,NA,Coho,50,54,1.2,N,N,1
+1969,9/10/2021,75,4,Seep,NA,Coho,53,57,1.9,N,N,1
+1970,9/10/2021,76,4,Seep,NA,Coho,57,59,1.1,N,N,1
+1971,9/10/2021,77,4,Seep,NA,Coho,57,60,1.8,Y,N,1
+1972,9/10/2021,78,4,Seep,NA,Coho,50,53,1.6,N,N,1
+1973,9/10/2021,79,4,Seep,NA,Coho,61,65,2.6,Y,N,1
+1974,9/10/2021,80,4,Seep,NA,Coho,39,41,0.6,N,N,1
+1975,9/10/2021,81,4,Seep,NA,Coho,59,63,2.1,N,N,1
+1976,9/10/2021,82,4,Seep,NA,Dolly Varden,45,46,0.9,N,N,1
+1977,9/10/2021,83,4,Seep,NA,Coho,46,48,1.1,N,N,1
+1978,9/10/2021,84,4,Seep,NA,Coho,57,61,2.4,Y,N,1
+1979,9/10/2021,85,4,Seep,NA,Dolly Varden,81,85,6.2,Y,N,1
+1980,9/10/2021,86,4,Seep,NA,Cutthroat,66,68,3.1,N,N,1
+1981,9/10/2021,87,4,Seep,NA,Dolly Varden,76,79,4.1,Y,N,1
+1982,9/10/2021,88,4,Seep,NA,Coho,50,54,1.3,N,N,1
+1983,9/10/2021,89,4,Seep,NA,Coho,55,59,1.2,N,N,1
+1984,9/14/2021,1,5,Seep,NA,Coho,59,63,2.2,N,N,1
+1985,9/14/2021,2,5,Seep,NA,Coho,43,46,0.9,N,N,1
+1986,9/14/2021,3,5,Seep,NA,Coho,50,54,1.4,N,N,1
+1987,9/14/2021,4,5,Seep,NA,Coho,54,58,1.7,N,N,1
+1988,9/14/2021,5,5,Seep,NA,Coho,44,47,0.8,N,N,1
+1989,9/14/2021,6,5,Seep,NA,Coho,49,53,1.3,N,N,1
+1990,9/14/2021,7,5,Seep,NA,Dolly Varden,41,42,0.6,N,N,1
+1991,9/14/2021,8,5,Seep,NA,Coho,54,59,1.8,N,N,1
+1992,9/14/2021,9,5,Seep,NA,Dolly Varden,47,49,1,N,N,1
+1993,9/14/2021,10,5,Seep,NA,Coho,60,65,2.4,N,N,1
+1994,9/14/2021,11,5,Seep,NA,Coho,56,60,2,N,N,1
+1995,9/14/2021,12,5,Seep,NA,Coho,46,50,1.1,N,N,1
+1996,9/14/2021,13,5,Seep,NA,Coho,50,54,1.2,N,N,1
+1997,9/14/2021,14,4,Main_Side,NA,Coho,75,80,5.1,N,N,1
+1998,9/14/2021,15,4,Main_Side,E0CCFC2,Dolly Varden,143,149,32.1,N,N,1
+1999,9/14/2021,16,4,Main_Side,NA,Dolly Varden,74,78,3.9,N,N,1
+2000,9/14/2021,17,4,Main_Side,NA,Coho,61,66,2.6,N,N,1
+2001,9/14/2021,18,4,Main_Side,E0CD022,Dolly Varden,112,118,15.2,N,N,1
+2002,9/14/2021,19,4,Main_Side,E0CD021,Dolly Varden,104,109,12.6,N,N,1
+2003,9/14/2021,20,4,Main_Side,NA,Coho,41,44,1,N,N,1
+2004,9/14/2021,21,4,Main_Side,NA,Coho,64,69,2.9,N,N,1
+2005,9/14/2021,22,4,Main_Side,NA,Coho,59,63,2.3,N,N,1
+2006,9/14/2021,23,4,Main_Side,E0CCFE1,Dolly Varden,140,147,27.4,Y,N,1
+2007,9/14/2021,24,4,Main_Side,E0CCFF2,Coho,111,121,16.1,Y,N,1
+2008,9/14/2021,25,4,Main_Side,E0CCFE3,Dolly Varden,144,152,34.2,N,N,1
+2009,9/14/2021,26,4,Main_Side,E0CCFD8,Dolly Varden,144,150,33.9,N,N,1
+2010,9/14/2021,27,4,Main_Side,E0CD002,Dolly Varden,135,141,24,N,N,1
+2011,9/14/2021,28,4,Main_Side,E0CD01C,Dolly Varden,148,157,35.7,Y,N,1
+2012,9/14/2021,29,4,Main_Side,E0CCFD1,Dolly Varden,143,150,30.1,N,N,1
+2013,9/14/2021,30,4,Main_Side,E0CCFDF,Dolly Varden,125,131,21.4,Y,N,1
+2014,9/14/2021,31,4,Main_Side,NA,Dolly Varden,124,131,20.2,N,N,1
+2015,9/14/2021,32,4,Main_Side,E0CCFD4,Coho,99,107,10.8,Y,N,1
+2016,9/14/2021,33,4,Main_Side,NA,Dolly Varden,130,138,23.4,N,N,1
+2017,9/14/2021,34,4,Main_Side,NA,Dolly Varden,130,137,24.6,Y,N,1
+2018,9/14/2021,35,4,Main_Side,NA,Dolly Varden,NA,NA,22.8,N,N,1
+2019,9/14/2021,36,4,Main_Side,NA,Dolly Varden,127,135,21.5,N,N,1
+2020,9/14/2021,37,4,Main_Side,NA,Dolly Varden,112,117,15.6,N,N,1
+2021,9/14/2021,38,4,Main_Side,NA,Dolly Varden,145,153,31.3,N,N,1
+2022,9/14/2021,39,4,Main_Side,NA,Dolly Varden,100,106,10.7,Y,N,1
+2023,9/14/2021,40,4,Main_Side,NA,Dolly Varden,159,167,41.4,N,N,1
+2024,9/14/2021,41,4,Main_Side,NA,Dolly Varden,102,107,10.5,Y,N,1
+2025,9/14/2021,42,4,Main_Side,NA,Dolly Varden,137,145,25.4,N,N,1
+2026,9/14/2021,43,4,Main_Side,NA,Dolly Varden,125,132,19.1,Y,N,1
+2027,9/14/2021,44,4,Main_Side,NA,Dolly Varden,96,100,8.3,N,N,1
+2028,9/14/2021,45,4,Main_Side,NA,Dolly Varden,137,145,24.5,N,N,1
+2029,9/14/2021,46,4,Main_Side,NA,Dolly Varden,120,127,16.7,N,N,1
+2030,9/14/2021,47,4,Main_Side,NA,Dolly Varden,129,136,21.8,N,N,1
+2031,9/14/2021,48,4,Main_Side,NA,Dolly Varden,130,138,24.3,N,N,1
+2032,9/14/2021,49,4,Main_Side,NA,Dolly Varden,107,114,12.7,N,N,1
+2033,9/14/2021,50,4,Main_Side,NA,Dolly Varden,140,147,31.2,N,N,1
+2034,9/14/2021,51,4,Main_Side,NA,Dolly Varden,150,159,29.8,N,N,1
+2035,9/14/2021,52,4,Main_Side,NA,Dolly Varden,105,110,9.5,N,N,1
+2036,9/14/2021,53,4,Main_Side,NA,Dolly Varden,125,131,18.7,N,N,1
+2037,9/14/2021,54,4,Main_Side,NA,Dolly Varden,105,110,11.7,N,N,1
+2038,9/14/2021,55,4,Main_Side,NA,Dolly Varden,148,155,31.9,N,N,1
+2039,9/14/2021,56,4,Main_Side,NA,Dolly Varden,132,140,24.6,N,N,1
+2040,9/14/2021,57,4,Main_Side,NA,Dolly Varden,135,142,23.4,N,N,1
+2041,9/14/2021,58,4,Main_Side,NA,Dolly Varden,95,101,8.1,N,N,1
+2042,9/14/2021,59,4,Main_Side,NA,Coho,78,54,4.9,Y,N,1
+2043,9/14/2021,60,3,Main_Side,NA,Coho,71,77,4.2,N,N,1
+2044,9/14/2021,61,3,Main_Side,NA,Coho,65,70,3.7,N,N,1
+2045,9/14/2021,62,3,Main_Side,NA,Cutthroat/Steelhead,54,56,1.5,N,N,1
+2046,9/14/2021,63,3,Main_Side,NA,Coho,73,79,4.4,Y,N,1
+2047,9/14/2021,64,3,Main_Side,NA,Coho,59,64,2.3,N,N,1
+2048,9/14/2021,65,3,Main_Side,NA,Coho,50,54,1.7,N,N,1
+2049,9/14/2021,66,3,Main_Side,NA,Coho,66,71,3.5,N,N,1
+2050,9/14/2021,67,3,Main_Side,NA,Coho,65,71,3.3,N,N,1
+2051,9/14/2021,68,3,Main_Side,NA,Coho,61,65,2.4,N,N,1
+2052,9/14/2021,69,3,Main_Side,NA,Coho,64,69,2.8,N,N,1
+2053,9/14/2021,70,3,Main_Side,NA,Coho,56,60,2.3,N,N,1
+2054,9/14/2021,71,3,Main_Side,NA,Coho,52,56,1.5,N,N,1
+2055,9/14/2021,72,3,Main_Side,NA,Dolly Varden,107,112,12,N,N,1
+2056,9/14/2021,73,3,Main_Side,NA,Coho,64,69,3.1,N,N,1
+2057,9/14/2021,74,3,Main_Side,NA,Coho,67,72,3.1,N,N,1
+2058,9/14/2021,75,3,Main_Side,NA,Dolly Varden,100,106,11,N,N,1
+2059,9/14/2021,76,3,Main_Side,NA,Coho,79,86,5.8,Y,N,1
+2060,9/14/2021,77,3,Main_Side,E0CCFB5,Coho,108,117,13.9,Y,N,1
+2061,9/14/2021,78,3,Main_Side,NA,Dolly Varden,49,50,1,N,N,1
+2062,9/14/2021,79,3,Main_Side,NA,Coho,57,62,2.2,N,N,1
+2063,9/14/2021,80,3,Main_Side,NA,Coho,62,66,2.5,N,N,1
+2064,9/14/2021,81,3,Main_Side,NA,Coho,56,61,1.8,N,N,1
+2065,9/14/2021,82,3,Main_Side,NA,Coho,52,56,1.8,N,N,1
+2066,9/14/2021,83,3,Main_Side,NA,Coho,54,58,1.9,N,N,1
+2067,9/14/2021,84,3,Main_Side,NA,Coho,58,63,2.4,N,N,1
+2068,9/14/2021,85,3,Main_Side,NA,Coho,51,54,1.5,N,N,1
+2069,9/14/2021,86,3,Main_Side,E0CCFCC,Coho,100,109,13.4,Y,N,1
+2070,9/14/2021,87,3,Main_Side,E0CD01A,Coho,105,115,15.1,Y,N,1
+2071,9/14/2021,88,3,Main_Side,NA,Dolly Varden,95,100,9.2,N,N,1
+2072,9/14/2021,89,3,Main_Side,NA,Dolly Varden,63,66,2.3,N,N,1
+2073,9/14/2021,90,3,Main_Side,NA,Coho,80,87,6.2,N,N,1
+2074,9/14/2021,91,3,Main_Side,NA,Coho,64,69,2.8,N,N,1
+2075,9/14/2021,92,3,Main_Side,E0CCFFC,Coho,103,111,12,Y,N,1
+2076,9/14/2021,93,3,Main_Side,E0CCF46,Coho,102,111,13.1,Y,N,1
+2077,9/14/2021,94,3,Main_Side,NA,Coho,76,83,5.2,N,N,1
+2078,9/14/2021,95,3,Main_Side,NA,Coho,70,75,4,N,N,1
+2079,9/14/2021,96,3,Main_Side,NA,Coho,79,85,6.1,N,N,1
+2080,9/14/2021,97,3,Main_Side,NA,Dolly Varden,44,45,0.7,N,N,1
+2081,9/14/2021,98,3,Main_Side,NA,Coho,51,55,1.5,N,N,1
+2082,9/14/2021,99,3,Main_Side,NA,Dolly Varden,152,159,40.8,Y,N,1
+2083,9/14/2021,100,3,Main_Side,NA,Dolly Varden,97,112,8.8,Y,N,1
+2084,9/14/2021,101,3,Main_Side,NA,Dolly Varden,147,155,33.3,N,N,1
+2085,9/14/2021,102,3,Main_Side,NA,Dolly Varden,92,96,7.9,N,N,1
+2086,9/14/2021,103,3,Main_Side,NA,Coho,69,74,3.4,N,N,1
+2087,9/14/2021,104,3,Main_Side,NA,Coho,60,65,2.6,N,N,1
+2088,9/14/2021,105,3,Main_Side,NA,Coho,70,75,4,N,N,1
+2089,9/14/2021,106,3,Main_Side,NA,Dolly Varden,138,145,28.5,N,N,1
+2090,9/14/2021,107,3,Main_Side,NA,Coho,92,99,8.1,N,N,1
+2091,9/14/2021,108,3,Main_Side,NA,Dolly Varden,132,140,21.9,N,N,1
+2092,9/14/2021,109,3,Main_Side,NA,Dolly Varden,102,108,12.6,N,N,1
+2093,9/14/2021,110,3,Main_Side,NA,Dolly Varden,114,120,15.7,N,N,1
+2094,9/14/2021,111,3,Main_Side,NA,Dolly Varden,102,106,10.8,N,N,1
+2095,9/14/2021,112,3,Main_Side,NA,Coho,79,85,6,N,N,1
+2096,9/14/2021,113,3,Main_Side,NA,Sculpin,NA,99,11.1,N,N,1
+2097,9/14/2021,114,3,Main_Side,NA,Dolly Varden,161,170,41.6,N,N,1
+2098,9/14/2021,115,2,Main_Side,NA,Coho,56,60,2.1,N,N,1
+2099,9/14/2021,116,2,Main_Side,NA,Coho,47,51,1.3,N,N,1
+2100,9/14/2021,117,2,Main_Side,NA,Coho,53,57,1.5,N,N,1
+2101,9/14/2021,118,2,Main_Side,NA,Coho,57,61,2.1,N,N,1
+2102,9/14/2021,119,2,Main_Side,NA,Coho,63,67,2.9,N,N,1
+2103,9/14/2021,120,2,Main_Side,NA,Coho,47,50,1.1,N,N,1
+2104,9/14/2021,121,2,Main_Side,NA,Coho,62,66,2.2,N,N,1
+2105,9/14/2021,122,2,Main_Side,NA,Coho,61,65,2.6,N,N,1
+2106,9/14/2021,123,2,Main_Side,NA,Coho,61,65,2.5,N,N,1
+2107,9/14/2021,124,2,Main_Side,NA,Coho,64,67,3,N,N,1
+2108,9/14/2021,125,2,Main_Side,NA,Coho,52,54,1.6,N,N,1
+2109,9/14/2021,126,2,Main_Side,NA,Coho,61,66,3.3,N,N,1
+2110,9/14/2021,127,2,Main_Side,NA,Coho,56,60,1.7,N,N,1
+2111,9/14/2021,128,2,Main_Side,NA,Coho,63,57,2.8,N,N,1
+2112,9/14/2021,129,2,Main_Side,NA,Coho,70,74,3.5,N,N,1
+2113,9/14/2021,130,2,Main_Side,NA,Coho,76,81,5,N,N,1
+2114,9/14/2021,131,2,Main_Side,NA,Coho,79,80,5.9,N,N,1
+2115,9/14/2021,132,2,Main_Side,NA,Coho,66,71,3.8,N,N,1
+2116,9/14/2021,133,2,Main_Side,NA,Coho,52,55,1.6,N,N,1
+2117,9/14/2021,134,2,Main_Side,NA,Coho,56,59,2,N,N,1
+2118,9/14/2021,135,2,Main_Side,NA,Coho,48,51,1.3,N,N,1
+2119,9/14/2021,136,2,Main_Side,NA,Coho,47,50,1.3,N,N,1
+2120,9/14/2021,137,2,Main_Side,NA,Coho,59,63,2.4,N,N,1
+2121,9/14/2021,138,2,Main_Side,NA,Coho,65,69,3,N,N,1
+2122,9/14/2021,139,2,Main_Side,NA,Coho,58,62,2,N,N,1
+2123,9/14/2021,140,2,Main_Side,NA,Coho,52,56,1.6,N,N,1
+2124,9/14/2021,141,2,Main_Side,NA,Coho,54,57,1.6,N,N,1
+2125,9/14/2021,142,2,Main_Side,NA,Dolly Varden,54,56,1.5,N,N,1
+2126,9/14/2021,143,2,Main_Side,NA,Coho,61,65,2.8,N,N,1
+2127,9/14/2021,144,2,Main_Side,NA,Dolly Varden,107,112,11.3,N,N,1
+2128,9/14/2021,145,1,Main_Side,NA,Coho,64,67,2.2,N,N,1
+2129,9/14/2021,146,1,Main_Side,NA,Coho,55,59,1.7,N,N,1
+2130,9/14/2021,147,1,Main_Side,NA,Dolly Varden,135,142,22.2,N,N,1
+2131,9/14/2021,148,1,Main_Side,NA,Coho,55,59,1.7,N,N,1
+2132,9/14/2021,149,1,Main_Side,NA,Coho,72,76,4.1,Y,N,1
+2133,9/14/2021,150,1,Main_Side,NA,Coho,66,70,3.2,Y,N,1
+2134,9/14/2021,151,1,Main_Side,NA,Coho,76,82,5.2,Y,N,1
+2135,9/14/2021,152,1,Main_Side,NA,Dolly Varden,95,99,8.4,N,N,1
+2136,9/14/2021,153,1,Main_Side,NA,Dolly Varden,100,107,12.6,N,N,1
+2137,9/14/2021,154,1,Main_Side,NA,Dolly Varden,82,86,5.1,N,N,1
+2138,9/14/2021,155,1,Main_Side,NA,Coho,59,63,2,N,N,1
+2139,9/14/2021,156,1,Main_Side,NA,Coho,60,64,2.6,N,N,1
+2140,9/21/2021,1,1,Main_Side,NA,Coho,74,79,4.3,Y,N,0
+2141,9/21/2021,2,1,Main_Side,NA,Coho,68,73,2.8,Y,N,0
+2142,9/21/2021,3,1,Main_Side,NA,Coho,60,65,2.2,N,N,0
+2143,9/21/2021,4,1,Main_Side,NA,Coho,65,69,2.9,N,N,0
+2144,9/21/2021,5,1,Main_Side,NA,Coho,58,63,2.1,N,N,0
+2145,9/21/2021,6,1,Main_Side,NA,Coho,61,66,2.5,Y,N,0
+2146,9/21/2021,7,1,Main_Side,NA,Coho,70,75,3.5,Y,N,0
+2147,9/21/2021,8,1,Main_Side,NA,Coho,52,56,1.7,N,N,0
+2148,9/21/2021,9,1,Main_Side,NA,Coho,57,62,2.1,N,N,0
+2149,9/21/2021,10,1,Main_Side,NA,Coho,50,54,1.3,N,N,0
+2150,9/21/2021,11,1,Main_Side,NA,Coho,57,62,2.1,N,N,0
+2151,9/21/2021,12,1,Main_Side,NA,Coho,69,75,3.4,Y,N,0
+2152,9/21/2021,13,1,Main_Side,NA,Coho,60,64,2.4,Y,N,0
+2153,9/21/2021,14,1,Main_Side,NA,Coho,53,57,1.6,N,N,0
+2154,9/21/2021,15,1,Main_Side,NA,Coho,64,70,3.2,Y,N,0
+2155,9/21/2021,16,4,Seep,NA,Coho,61,65,2.5,Y,N,0
+2156,9/21/2021,17,4,Seep,NA,Dolly Varden,40,41,0.9,N,N,0
+2157,9/21/2021,18,4,Seep,NA,Coho,52,56,2.7,Y,N,0
+2158,9/21/2021,19,4,Seep,NA,Coho,49,52,1.8,N,N,0
+2159,9/21/2021,20,4,Seep,NA,Coho,59,62,2.3,Y,N,0
+2160,9/21/2021,21,4,Seep,NA,Coho,52,55,1.2,N,N,0
+2161,9/21/2021,22,2,Main_Side,NA,Coho,41,44,1,N,N,0
+2162,9/21/2021,23,2,Main_Side,NA,Coho,50,54,1.9,N,N,0
+2163,9/21/2021,24,2,Main_Side,NA,Dolly Varden,82,85,5.8,Y,N,0
+2164,9/21/2021,25,2,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2165,9/21/2021,26,2,Main_Side,E0CD007,Dolly Varden,123,128,17.5,Y,N,0
+2166,9/21/2021,27,2,Main_Side,NA,Sculpin,NA,115,20.3,N,N,0
+2167,9/21/2021,28,2,Main_Side,NA,Dolly Varden,40,41,0.8,N,N,0
+2168,9/21/2021,29,2,Main_Side,NA,Coho,63,67,3.3,Y,N,0
+2169,9/21/2021,30,2,Main_Side,NA,Coho,50,53,1.6,N,N,0
+2170,9/21/2021,31,2,Main_Side,NA,Coho,59,64,2.5,Y,N,0
+2171,9/21/2021,32,2,Main_Side,NA,Coho,49,51,1.3,N,N,0
+2172,9/21/2021,33,2,Main_Side,E0CCFC1,Dolly Varden,123,131,19.5,Y,N,0
+2173,9/21/2021,34,2,Main_Side,NA,Sculpin,NA,109,19.3,N,N,0
+2174,9/21/2021,35,2,Main_Side,NA,Sculpin,NA,103,15.1,N,N,0
+2175,9/21/2021,36,2,Main_Side,E0CD014,Dolly Varden,107,122,17.2,Y,N,0
+2176,9/21/2021,37,2,Main_Side,NA,Coho,66,70,3.1,Y,N,0
+2177,9/21/2021,38,2,Main_Side,E0CCFCD,Dolly Varden,149,157,31.8,Y,N,0
+2178,9/21/2021,39,2,Main_Side,NA,Dolly Varden,91,94,8,Y,N,0
+2179,9/21/2021,40,2,Main_Side,E0CCFD7,Dolly Varden,149,157,26.8,N,N,0
+2180,9/21/2021,41,3,Main_Side,NA,Coho,74,79,4.6,Y,N,0
+2181,9/21/2021,42,3,Main_Side,NA,Dolly Varden,76,80,4.1,Y,N,0
+2182,9/21/2021,43,3,Main_Side,NA,Coho,60,57,2.4,Y,N,0
+2183,9/21/2021,44,3,Main_Side,NA,Coho,66,72,3.3,N,N,0
+2184,9/21/2021,45,3,Main_Side,NA,Cutthroat/Steelhead,NA,100,10.1,N,N,0
+2185,9/21/2021,46,3,Main_Side,NA,Coho,59,63,2.4,N,N,0
+2186,9/21/2021,47,3,Main_Side,NA,Dolly Varden,100,105,10.3,Y,N,0
+2187,9/21/2021,48,3,Main_Side,NA,Coho,59,64,2.4,Y,N,0
+2188,9/21/2021,49,3,Main_Side,E0CD003,Dolly Varden,107,112,11.3,Y,N,0
+2189,9/21/2021,50,3,Main_Side,E0CCFE9,Dolly Varden,115,120,16.2,Y,N,0
+2190,9/21/2021,51,3,Main_Side,NA,Coho,75,80,4.8,Y,N,0
+2191,9/21/2021,52,3,Main_Side,E0CCFFB,Dolly Varden,128,134,21.1,N,N,0
+2192,9/23/2021,1,1,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2193,9/23/2021,2,1,Main_Side,NA,Coho,53,57,1.4,N,N,0
+2194,9/23/2021,3,1,Main_Side,NA,Coho,57,61,2.2,N,N,0
+2195,9/23/2021,4,1,Main_Side,NA,Coho,63,68,2.6,Y,N,0
+2196,9/23/2021,5,1,Main_Side,NA,Coho,63,68,2.6,Y,N,0
+2197,9/23/2021,6,3,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2198,9/23/2021,7,3,Main_Side,NA,Coho,5,60,1.8,N,N,0
+2199,9/23/2021,8,3,Main_Side,NA,Coho,60,65,2.5,N,N,0
+2200,9/23/2021,9,3,Main_Side,E0CD01D,Coho,72,78,4,Y,N,0
+2201,9/23/2021,10,3,Main_Side,NA,Dolly Varden,50,52,1,N,N,0
+2202,9/23/2021,11,3,Main_Side,NA,Coho,50,54,1.5,N,N,0
+2203,9/23/2021,12,3,Main_Side,NA,Coho,58,63,2,Y,N,0
+2204,9/23/2021,13,3,Main_Side,NA,Coho,50,55,1.3,N,N,0
+2205,9/23/2021,14,3,Main_Side,NA,Coho,52,57,1.8,N,N,0
+2206,9/23/2021,15,3,Main_Side,NA,Coho,57,62,1.9,N,N,0
+2207,9/23/2021,16,3,Main_Side,NA,Coho,57,62,2.2,N,N,0
+2208,9/23/2021,17,3,Main_Side,E0CCFD5,Coho,72,77,4.3,Y,N,0
+2209,9/23/2021,18,3,Main_Side,NA,Coho,71,77,4.1,Y,N,0
+2210,9/23/2021,19,3,Main_Side,NA,Coho,69,75,4.1,Y,N,0
+2211,9/23/2021,20,3,Main_Side,NA,Coho,61,67,2.5,N,N,0
+2212,9/23/2021,21,3,Main_Side,NA,Coho,46,50,1.1,N,N,0
+2213,9/23/2021,22,3,Main_Side,NA,Dolly Varden,40,42,0.6,N,N,0
+2214,9/23/2021,23,3,Main_Side,NA,Coho,51,56,1.4,N,N,0
+2215,9/23/2021,24,3,Main_Side,NA,Coho,65,70,2.8,N,N,0
+2216,9/23/2021,25,3,Main_Side,NA,Coho,59,63,2.1,N,N,0
+2217,9/23/2021,26,3,Main_Side,NA,Coho,61,67,2.5,N,N,0
+2218,9/23/2021,27,3,Main_Side,NA,Coho,52,55,1.7,N,N,0
+2219,9/23/2021,28,3,Main_Side,NA,Coho,62,67,2.5,N,N,0
+2220,9/23/2021,29,3,Main_Side,NA,Coho,65,70,3,Y,N,0
+2221,9/23/2021,30,3,Main_Side,NA,Coho,49,55,1.4,N,N,0
+2222,9/23/2021,31,3,Main_Side,NA,Coho,54,58,1.9,N,N,0
+2223,9/23/2021,32,3,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2224,9/23/2021,33,3,Main_Side,NA,Coho,60,65,2.6,N,N,0
+2225,9/23/2021,34,3,Main_Side,NA,Coho,53,57,1.6,N,N,0
+2226,9/23/2021,35,3,Main_Side,NA,Coho,67,73,3.9,N,N,0
+2227,9/23/2021,36,3,Main_Side,NA,Coho,54,58,1.7,N,N,0
+2228,9/23/2021,37,3,Main_Side,NA,Coho,53,57,1.6,N,N,0
+2229,9/23/2021,38,3,Main_Side,NA,Coho,52,56,1.5,N,N,0
+2230,9/23/2021,39,3,Main_Side,NA,Coho,59,63,2.2,N,N,0
+2231,9/23/2021,40,3,Main_Side,NA,Coho,56,60,1.9,N,N,0
+2232,9/23/2021,41,3,Main_Side,NA,Coho,55,59,1.8,N,N,0
+2233,9/23/2021,42,3,Main_Side,NA,Coho,58,63,2.6,N,N,0
+2234,9/23/2021,43,3,Main_Side,NA,Coho,49,53,1.3,N,N,0
+2235,9/23/2021,44,3,Main_Side,NA,Coho,71,77,4.5,N,N,0
+2236,9/23/2021,45,3,Main_Side,NA,Coho,53,58,1.8,N,N,0
+2237,9/23/2021,46,3,Main_Side,NA,Coho,51,55,1.6,N,N,0
+2238,9/23/2021,47,3,Main_Side,NA,Coho,60,66,2,N,N,0
+2239,9/23/2021,48,3,Main_Side,NA,Coho,47,51,1.2,N,N,0
+2240,9/23/2021,49,3,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2241,9/23/2021,50,3,Main_Side,NA,Coho,50,54,1.3,N,N,0
+2242,9/23/2021,51,3,Main_Side,NA,Cutthroat/Steelhead,57,60,1.8,N,N,0
+2243,9/23/2021,52,3,Main_Side,NA,Coho,63,68,2.6,N,N,0
+2244,9/23/2021,53,3,Main_Side,NA,Coho,53,58,1.9,N,N,0
+2245,9/23/2021,54,3,Main_Side,NA,Coho,63,68,3,N,N,0
+2246,9/23/2021,55,3,Main_Side,NA,Coho,61,66,2.9,N,N,0
+2247,9/23/2021,56,3,Main_Side,NA,Coho,45,48,1,N,N,0
+2248,9/23/2021,57,3,Main_Side,NA,Coho,53,57,1.8,N,N,0
+2249,9/23/2021,58,3,Main_Side,NA,Coho,63,68,2.7,N,N,0
+2250,9/23/2021,59,3,Main_Side,NA,Coho,51,55,1.7,N,N,0
+2251,9/23/2021,60,3,Main_Side,NA,Coho,54,58,1.7,N,N,0
+2252,9/23/2021,61,3,Main_Side,NA,Coho,56,60,2.1,N,N,0
+2253,9/23/2021,62,3,Main_Side,NA,Coho,63,68,3,N,N,0
+2254,9/23/2021,63,3,Main_Side,NA,Coho,65,70,3.5,N,N,0
+2255,9/23/2021,64,3,Main_Side,NA,Coho,55,60,1.8,N,N,0
+2256,9/23/2021,65,3,Main_Side,NA,Coho,62,67,2.6,N,N,0
+2257,9/23/2021,66,3,Main_Side,NA,Coho,53,57,1.7,N,N,0
+2258,9/23/2021,67,3,Main_Side,NA,Coho,70,77,4.4,N,N,0
+2259,9/23/2021,68,3,Main_Side,NA,Coho,66,71,4,N,N,0
+2260,9/23/2021,69,3,Main_Side,NA,Coho,65,70,3.3,N,N,0
+2261,9/23/2021,70,3,Main_Side,NA,Coho,61,66,2.8,N,N,0
+2262,9/23/2021,71,3,Main_Side,NA,Coho,67,71,3.5,N,N,0
+2263,9/23/2021,72,3,Main_Side,NA,Coho,60,64,2.4,N,N,0
+2264,9/23/2021,73,3,Main_Side,NA,Coho,73,80,4.5,N,N,0
+2265,9/23/2021,74,3,Main_Side,NA,Coho,55,59,1.9,N,N,0
+2266,9/23/2021,75,3,Main_Side,NA,Coho,58,63,2.2,N,N,0
+2267,9/23/2021,76,3,Main_Side,NA,Coho,59,64,2.2,N,N,0
+2268,9/23/2021,77,3,Main_Side,NA,Coho,85,92,7,Y,N,0
+2269,9/23/2021,78,3,Main_Side,NA,Coho,73,78,4.8,Y,N,0
+2270,9/23/2021,79,3,Main_Side,NA,Coho,78,84,5.5,Y,N,0
+2271,9/23/2021,80,3,Main_Side,NA,Coho,55,59,1.9,N,N,0
+2272,9/23/2021,81,3,Main_Side,NA,Coho,72,78,4.2,N,N,0
+2273,9/23/2021,82,3,Main_Side,NA,Coho,72,78,4.6,N,N,0
+2274,9/23/2021,83,3,Main_Side,NA,Coho,63,67,2.6,N,N,0
+2275,9/23/2021,84,3,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2276,9/23/2021,85,3,Main_Side,NA,Coho,38,40,0.6,N,N,0
+2277,9/23/2021,86,3,Main_Side,NA,Coho,48,52,1.1,N,N,0
+2278,9/23/2021,87,3,Main_Side,NA,Coho,59,64,2.2,N,N,0
+2279,9/23/2021,88,3,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2280,9/23/2021,89,3,Main_Side,NA,Coho,63,68,2.7,Y,N,0
+2281,9/23/2021,90,3,Main_Side,NA,Coho,55,59,2.2,N,N,0
+2282,9/23/2021,91,3,Main_Side,NA,Coho,75,81,5.8,Y,N,0
+2283,9/23/2021,92,3,Main_Side,NA,Coho,62,66,2.7,N,N,0
+2284,9/23/2021,93,3,Main_Side,NA,Coho,72,76,5.7,N,N,0
+2285,9/23/2021,94,3,Main_Side,NA,Dolly Varden,143,150,30.5,Y,N,0
+2286,9/23/2021,95,3,Main_Side,NA,Coho,40,44,1.1,N,N,0
+2287,9/23/2021,96,3,Main_Side,NA,Dolly Varden,113,120,15.5,Y,N,0
+2288,9/23/2021,97,3,Main_Side,NA,Coho,58,62,2.2,N,N,0
+2289,9/23/2021,98,3,Main_Side,NA,Dolly Varden,51,54,1.1,N,N,0
+2290,9/23/2021,99,3,Main_Side,NA,Coho,60,64,2.9,N,N,0
+2291,9/23/2021,100,3,Main_Side,NA,Dolly Varden,68,71,2.8,Y,N,0
+2292,9/24/2021,1,1,Main_Side,NA,Coho,56,61,2.4,N,N,0
+2293,9/24/2021,2,1,Main_Side,NA,Coho,55,59,2.1,N,N,0
+2294,9/24/2021,3,1,Main_Side,NA,Coho,50,53,1.6,N,N,0
+2295,9/24/2021,4,1,Main_Side,NA,Coho,48,51,1.3,N,N,0
+2296,9/24/2021,5,1,Main_Side,NA,Coho,51,55,1.6,N,N,0
+2297,9/24/2021,6,1,Main_Side,NA,Coho,56,61,2.2,N,N,0
+2298,9/24/2021,7,1,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2299,9/24/2021,8,1,Main_Side,NA,Coho,56,60,2.4,Y,N,0
+2300,9/24/2021,9,1,Main_Side,NA,Coho,54,59,2,Y,N,0
+2301,9/24/2021,10,1,Main_Side,NA,Coho,61,66,2.6,N,N,0
+2302,9/24/2021,11,1,Main_Side,E0CCFF3,Coho,76,82,5.1,Y,N,0
+2303,9/24/2021,12,1,Main_Side,NA,Cutthroat/Steelhead,44,45,0.7,N,N,0
+2304,9/24/2021,13,2,Main_Side,NA,Dolly Varden,62,65,2,N,N,0
+2305,9/24/2021,14,2,Main_Side,NA,Coho,47,50,1.2,N,N,0
+2306,9/24/2021,15,2,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2307,9/24/2021,16,2,Main_Side,NA,Coho,66,71,2.9,N,N,0
+2308,9/24/2021,17,2,Main_Side,E0CCFD9,Dolly Varden,127,135,19,Y,N,0
+2309,9/24/2021,18,2,Main_Side,NA,Coho,85,92,7.4,Y,N,0
+2310,9/24/2021,19,2,Main_Side,NA,Coho,55,59,1.7,N,N,0
+2311,9/24/2021,20,2,Main_Side,NA,Coho,57,62,1.9,N,N,0
+2312,9/24/2021,21,2,Main_Side,NA,Coho,59,64,2.3,Y,N,0
+2313,9/24/2021,22,2,Main_Side,NA,Coho,61,66,2.7,N,N,0
+2314,9/24/2021,23,2,Main_Side,NA,Coho,59,64,2.2,N,N,0
+2315,9/24/2021,24,2,Main_Side,NA,Coho,54,59,2,N,N,0
+2316,9/24/2021,25,2,Main_Side,NA,Coho,62,66,2.6,N,N,0
+2317,9/24/2021,26,2,Main_Side,NA,Coho,64,70,3,N,N,0
+2318,9/24/2021,27,2,Main_Side,NA,Coho,55,59,1.7,N,N,0
+2319,9/24/2021,28,2,Main_Side,E0CCFED,Sculpin,NA,101,13.1,N,N,0
+2320,9/24/2021,29,2,Main_Side,E0CD017,Dolly Varden,133,141,21.2,Y,N,0
+2321,9/24/2021,30,2,Main_Side,NA,Coho,50,55,2.5,N,N,0
+2322,9/24/2021,31,2,Main_Side,NA,Coho,57,62,1.9,N,N,0
+2323,9/24/2021,32,2,Main_Side,NA,Coho,50,55,2.4,N,N,0
+2324,9/24/2021,33,2,Main_Side,NA,Coho,65,70,3.4,Y,N,0
+2325,9/24/2021,34,2,Main_Side,NA,Coho,62,67,2.5,N,N,0
+2326,9/24/2021,35,2,Main_Side,E0CCFF9,Dolly Varden,115,121,14.7,Y,N,0
+2327,9/24/2021,36,3,Main_Side,NA,Dolly Varden,44,45,0.7,N,N,0
+2328,9/24/2021,37,3,Main_Side,NA,Coho,40,43,0.9,N,N,0
+2329,9/24/2021,38,3,Main_Side,NA,Coho,52,56,1.3,N,N,0
+2330,9/24/2021,39,3,Main_Side,NA,Coho,59,64,2.2,N,N,0
+2331,9/24/2021,40,3,Main_Side,NA,Coho,59,64,2.3,N,N,0
+2332,9/24/2021,41,3,Main_Side,NA,Coho,56,61,2,Y,N,0
+2333,9/24/2021,42,3,Main_Side,NA,Coho,74,80,4.6,N,N,0
+2334,9/24/2021,43,3,Main_Side,NA,Coho,45,48,1,N,N,0
+2335,9/24/2021,44,3,Main_Side,NA,Coho,48,52,1.4,N,N,0
+2336,9/24/2021,45,3,Main_Side,NA,Coho,66,71,3.3,N,N,0
+2337,9/24/2021,46,3,Main_Side,NA,Coho,62,67,2.4,N,N,0
+2338,9/24/2021,47,3,Main_Side,NA,Coho,58,62,2.2,Y,N,0
+2339,9/24/2021,48,3,Main_Side,NA,Dolly Varden,53,55,1.5,N,N,0
+2340,9/24/2021,49,3,Main_Side,NA,Coho,59,63,2.3,Y,N,0
+2341,9/24/2021,50,3,Main_Side,NA,Coho,62,67,2.8,N,N,0
+2342,9/24/2021,51,3,Main_Side,NA,Coho,59,63,2.4,N,N,0
+2343,9/24/2021,52,3,Main_Side,NA,Coho,60,65,2.6,Y,N,0
+2344,9/24/2021,53,3,Main_Side,NA,Coho,49,53,1.4,N,N,0
+2345,9/24/2021,54,3,Main_Side,NA,Coho,52,56,1.5,N,N,0
+2346,9/24/2021,55,3,Main_Side,NA,Coho,62,67,2.6,N,N,0
+2347,9/24/2021,56,3,Main_Side,NA,Dolly Varden,54,56,1.3,N,N,0
+2348,9/24/2021,57,3,Main_Side,NA,Coho,50,54,1.5,N,N,0
+2349,9/24/2021,58,3,Main_Side,NA,Coho,57,61,2.1,N,N,0
+2350,9/24/2021,59,3,Main_Side,NA,Coho,57,62,2.4,N,N,0
+2351,9/24/2021,60,3,Main_Side,NA,Coho,56,60,2.1,Y,N,0
+2352,10/1/2021,1,1,Main_Side,NA,Coho,47,52,1.1,N,N,0
+2353,10/1/2021,2,2,Main_Side,NA,Coho,55,59,1.7,N,N,0
+2354,10/1/2021,3,2,Main_Side,NA,Coho,51,55,1.5,N,N,0
+2355,10/1/2021,4,2,Main_Side,E0CCFFA,Coho,100,114,12.8,Y,N,0
+2356,10/1/2021,5,2,Main_Side,NA,Dolly Varden,114,120,14.9,Y,N,0
+2357,10/1/2021,6,2,Main_Side,NA,Coho,60,64,3.2,N,N,0
+2358,10/1/2021,7,2,Main_Side,E0CCFFB1,Coho,111,117,13.8,Y,N,0
+2359,10/1/2021,8,2,Main_Side,E0CCFE7,Coho,104,110,11.8,Y,N,0
+2360,10/1/2021,9,2,Main_Side,NA,Cutthroat/Steelhead,47,49,2.2,N,N,0
+2361,10/1/2021,10,2,Main_Side,E0CD006,Coho,109,116,12.7,N,N,0
+2362,10/1/2021,11,2,Main_Side,E0CCFD0,Coho,108,117,14,Y,N,0
+2363,10/1/2021,12,2,Main_Side,NA,Coho,49,52,1.1,N,N,0
+2364,10/1/2021,13,2,Main_Side,NA,Coho,46,49,1.6,N,N,0
+2365,10/1/2021,14,2,Main_Side,NA,Cutthroat/Steelhead,66,68,2.7,N,N,0
+2366,10/1/2021,15,2,Main_Side,NA,Coho,64,67,2.7,Y,N,0
+2367,10/1/2021,16,2,Main_Side,NA,Coho,53,55,1.7,N,N,0
+2368,10/1/2021,17,2,Main_Side,NA,Cutthroat/Steelhead,93,97,9.5,N,N,0
+2369,10/1/2021,18,2,Main_Side,NA,Coho,59,63,2,N,N,0
+2370,10/1/2021,19,2,Main_Side,NA,Coho,52,55,1.3,N,N,0
+2371,10/1/2021,20,2,Main_Side,NA,Coho,51,55,1.3,N,N,0
+2372,10/1/2021,21,2,Main_Side,NA,Coho,51,54,1.4,N,N,0
+2373,10/1/2021,22,2,Main_Side,NA,Coho,70,75,3.8,Y,N,0
+2374,10/1/2021,23,2,Main_Side,E0CCFDC,Coho,111,119,15.7,Y,N,0
+2375,10/1/2021,24,2,Main_Side,NA,Coho,68,72,3.4,N,N,0
+2376,10/1/2021,25,2,Main_Side,NA,Coho,79,82,1.9,N,N,0
+2377,10/1/2021,26,2,Main_Side,NA,Coho,67,70,3.3,N,N,0
+2378,10/1/2021,27,2,Main_Side,NA,Coho,79,84,5.3,N,N,0
+2379,10/1/2021,28,2,Main_Side,NA,Coho,67,71,3.8,N,N,0
+2380,10/1/2021,29,2,Main_Side,E0CCFC0,Coho,109,118,14.3,Y,N,0
+2381,10/1/2021,30,2,Main_Side,NA,Coho,48,50,1,N,N,0
+2382,10/1/2021,31,2,Main_Side,NA,Coho,69,74,3.7,N,N,0
+2383,10/1/2021,32,2,Main_Side,NA,Dolly Varden,94,99,7.1,Y,N,0
+2384,10/1/2021,33,2,Main_Side,NA,Coho,78,82,1.5,N,N,0
+2385,10/1/2021,34,2,Main_Side,NA,Cutthroat/Steelhead,51,53,1.5,N,N,0
+2386,10/1/2021,35,2,Main_Side,NA,Coho,76,81,4.9,N,N,0
+2387,10/1/2021,36,2,Main_Side,NA,Coho,54,57,1.4,N,N,0
+2388,10/1/2021,37,2,Main_Side,NA,Dolly Varden,51,54,1.1,N,N,0
+2389,10/1/2021,38,2,Main_Side,NA,Dolly Varden,45,47,1,N,N,0
+2390,10/1/2021,39,2,Main_Side,NA,Coho,56,60,2.7,N,N,0
+2391,10/1/2021,40,2,Main_Side,NA,Coho,64,69,2.7,N,N,0
+2392,10/1/2021,41,2,Main_Side,NA,Coho,51,55,1.5,N,N,0
+2393,10/1/2021,42,2,Main_Side,NA,Coho,61,66,2.3,N,N,0
+2394,10/1/2021,43,2,Main_Side,NA,Coho,56,60,1.7,N,N,0
+2395,10/1/2021,44,3,Main_Side,NA,Cutthroat/Steelhead,177,185,54.3,N,N,0
+2396,10/1/2021,45,3,Main_Side,E0CD020,Coho,102,110,11.9,N,N,0
+2397,10/1/2021,46,3,Main_Side,NA,Coho,70,75,3.8,N,N,0
+2398,10/1/2021,47,3,Main_Side,NA,Coho,81,88,6.1,N,N,0
+2399,10/1/2021,48,3,Main_Side,NA,Coho,95,102,9.6,N,N,0
+2400,10/1/2021,49,3,Main_Side,NA,Coho,62,66,2.5,N,N,0
+2401,10/1/2021,50,3,Main_Side,NA,Dolly Varden,87,93,6.4,N,N,0
+2402,10/1/2021,51,3,Main_Side,NA,Coho,106,110,10.3,Y,N,0
+2403,10/1/2021,52,3,Main_Side,E0CD009,Coho,115,124,16.7,Y,N,0
+2404,10/1/2021,53,3,Main_Side,E0CCFF4,Coho,114,122,15.7,Y,N,0
+2405,10/1/2021,54,3,Main_Side,NA,Coho,56,60,2.8,N,N,0
+2406,10/1/2021,55,3,Main_Side,NA,Coho,62,66,2.8,N,N,0
+2407,10/1/2021,56,3,Main_Side,NA,Coho,68,74,3.5,N,N,0
+2408,10/1/2021,57,3,Main_Side,NA,Coho,58,64,2,N,N,0
+2409,10/1/2021,58,3,Main_Side,NA,Coho,71,77,4.5,N,N,0
+2410,10/1/2021,59,3,Main_Side,NA,Coho,101,109,10.6,N,N,0
+2411,10/1/2021,60,3,Main_Side,NA,Coho,70,76,3.9,N,N,0
+2412,10/1/2021,61,3,Main_Side,NA,Coho,60,64,2.9,N,N,0
+2413,10/1/2021,62,3,Main_Side,E0CCFE4,Coho,114,123,16.7,N,N,0
+2414,10/1/2021,63,3,Main_Side,NA,Dolly Varden,104,109,10,Y,N,0
+2415,10/1/2021,64,3,Main_Side,NA,Coho,106,112,11.6,N,N,0
+2416,10/1/2021,65,3,Main_Side,NA,Coho,63,68,2.4,Y,N,0
+2417,10/1/2021,66,3,Main_Side,NA,Coho,68,74,3.8,Y,N,0
+2418,10/1/2021,67,3,Main_Side,NA,Coho,67,73,3.5,N,N,0
+2419,10/1/2021,68,3,Main_Side,E0CCFC4,Coho,102,111,6.7,N,N,0
+2420,10/1/2021,69,3,Main_Side,E0CD001,Coho,110,120,17.1,N,N,0
+2421,10/1/2021,70,3,Main_Side,NA,Dolly Varden,111,118,12.8,Y,N,0
+2422,10/1/2021,71,3,Main_Side,NA,Coho,82,88,6.6,N,N,0
+2423,10/1/2021,72,3,Main_Side,NA,Dolly Varden,96,103,9,N,N,0
+2424,10/1/2021,73,3,Main_Side,NA,Coho,66,72,3.2,N,N,0
+2425,10/1/2021,74,3,Main_Side,NA,Coho,59,64,3,N,N,0
+2426,10/1/2021,75,3,Main_Side,E0CCFCB,Coho,101,109,12.7,N,N,0
+2427,10/1/2021,76,3,Main_Side,NA,Coho,65,71,3.2,N,N,0
+2428,10/1/2021,77,3,Main_Side,NA,Dolly Varden,94,100,7.2,N,N,0
+2429,10/1/2021,78,3,Main_Side,NA,Dolly Varden,114,119,15,Y,N,0
+2430,10/1/2021,79,3,Main_Side,NA,Dolly Varden,128,134,22.5,Y,N,0
+2431,10/1/2021,80,3,Main_Side,NA,Dolly Varden,117,124,19.1,N,N,0
+2432,10/1/2021,81,3,Main_Side,NA,Dolly Varden,108,114,12.5,N,N,0
+2433,10/1/2021,82,3,Main_Side,NA,Dolly Varden,109,116,14.3,N,N,0
+2434,10/1/2021,83,3,Main_Side,NA,Coho,68,73,3.5,Y,N,0
+2435,10/1/2021,84,3,Main_Side,NA,Coho,54,57,2.2,N,N,0
+2436,10/1/2021,85,3,Main_Side,NA,Dolly Varden,111,117,13.2,N,N,0
+2437,10/1/2021,86,3,Main_Side,NA,Dolly Varden,117,122,15.4,N,N,0
+2438,10/1/2021,87,3,Main_Side,NA,Dolly Varden,99,104,9.4,N,N,0
+2439,10/1/2021,88,3,Main_Side,NA,Coho,66,72,3.2,N,N,0
+2440,10/1/2021,89,3,Main_Side,NA,Coho,58,63,2.7,N,N,0
+2441,10/1/2021,90,3,Main_Side,NA,Coho,71,77,6.1,N,N,0
+2442,10/1/2021,91,3,Main_Side,NA,Coho,52,57,1.6,N,N,0
+2443,10/1/2021,92,3,Main_Side,E0CD016,Coho,97,105,10.5,N,N,0
+2444,10/2/2021,1,1,Main_Side,NA,Coho,40,42,1.1,N,N,0
+2445,10/2/2021,2,1,Main_Side,NA,Coho,60,65,3.2,Y,N,0
+2446,10/2/2021,3,1,Main_Side,NA,Coho,59,64,2.3,N,N,0
+2447,10/2/2021,4,1,Main_Side,NA,Coho,62,67,3.8,Y,N,0
+2448,10/2/2021,5,1,Main_Side,NA,Coho,50,54,1.7,N,N,0
+2449,10/2/2021,6,1,Main_Side,NA,Coho,54,59,2,Y,N,0
+2450,10/2/2021,7,1,Main_Side,NA,Coho,45,48,1.2,N,N,0
+2451,10/2/2021,8,1,Main_Side,NA,Coho,63,67,2.8,Y,N,0
+2452,10/2/2021,9,1,Main_Side,NA,Coho,58,62,2,N,N,0
+2453,10/2/2021,10,1,Main_Side,NA,Coho,66,72,3.1,Y,N,0
+2454,10/2/2021,11,1,Main_Side,NA,Dolly Varden,60,63,2.7,Y,N,0
+2455,10/2/2021,12,1,Main_Side,NA,Coho,50,54,1.5,N,N,0
+2456,10/2/2021,13,1,Main_Side,E0CCFD6,Coho,99,108,11.7,Y,N,0
+2457,10/2/2021,14,2,Main_Side,NA,Coho,64,70,3.7,N,N,0
+2458,10/2/2021,15,2,Main_Side,NA,Coho,63,67,2.9,N,N,0
+2459,10/2/2021,16,2,Main_Side,NA,Coho,41,43,1.2,N,N,0
+2460,10/2/2021,17,2,Main_Side,NA,Dolly Varden,43,45,1.7,N,N,0
+2461,10/2/2021,18,2,Main_Side,NA,Coho,58,62,2.4,N,N,0
+2462,10/2/2021,19,2,Main_Side,NA,Coho,64,69,3.6,Y,N,0
+2463,10/2/2021,20,2,Main_Side,NA,Coho,52,56,1.6,N,N,0
+2464,10/2/2021,21,2,Main_Side,NA,Coho,56,60,1.8,N,N,0
+2465,10/2/2021,22,2,Main_Side,NA,Dolly Varden,43,45,0.9,N,N,0
+2466,10/2/2021,23,2,Main_Side,NA,Coho,66,70,3.5,Y,N,0
+2467,10/2/2021,24,2,Main_Side,NA,Coho,50,53,1.2,N,N,0
+2468,10/2/2021,25,2,Main_Side,NA,Coho,50,55,2.8,N,N,0
+2469,10/2/2021,26,2,Main_Side,NA,Coho,50,54,1.9,N,N,0
+2470,10/2/2021,27,2,Main_Side,NA,Coho,68,73,3.4,Y,N,0
+2471,10/2/2021,28,2,Main_Side,NA,Coho,61,66,2.7,N,N,0
+2472,10/2/2021,29,2,Main_Side,NA,Coho,55,59,1.5,N,N,0
+2473,10/2/2021,30,2,Main_Side,NA,Coho,50,54,1.2,N,N,0
+2474,10/2/2021,31,2,Main_Side,NA,Coho,50,55,1.7,N,N,0
+2475,10/2/2021,32,2,Main_Side,NA,Coho,56,60,2.1,N,N,0
+2476,10/2/2021,33,2,Main_Side,NA,Coho,58,62,2.1,N,N,0
+2477,10/2/2021,34,2,Main_Side,NA,Coho,62,66,2.5,N,N,0
+2478,10/2/2021,35,2,Main_Side,NA,Coho,65,70,2.8,N,N,0
+2479,10/2/2021,36,2,Main_Side,NA,Dolly Varden,44,46,1.1,N,N,0
+2480,10/2/2021,37,2,Main_Side,NA,Coho,53,57,2.5,N,N,0
+2481,10/2/2021,38,2,Main_Side,NA,Coho,58,62,2.1,N,N,0
+2482,10/2/2021,39,2,Main_Side,NA,Coho,58,62,2,N,N,0
+2483,10/2/2021,40,2,Main_Side,NA,Coho,66,72,3.1,N,N,0
+2484,10/2/2021,41,2,Main_Side,NA,Dolly Varden,46,47,1,N,N,0
+2485,10/2/2021,42,2,Main_Side,NA,Coho,63,67,2.8,N,N,0
+2486,10/2/2021,43,2,Main_Side,NA,Coho,69,74,4,N,N,0
+2487,10/2/2021,44,2,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2488,10/2/2021,45,2,Main_Side,NA,Coho,76,84,5.8,N,N,0
+2489,10/2/2021,46,3,Main_Side,NA,Coho,66,72,3.4,Y,N,0
+2490,10/2/2021,47,3,Main_Side,NA,Dolly Varden,128,133,20,Y,N,0
+2491,10/2/2021,48,3,Main_Side,NA,Coho,54,58,2,N,N,0
+2492,10/2/2021,49,3,Main_Side,NA,Coho,64,68,3.2,N,N,0
+2493,10/2/2021,50,3,Main_Side,NA,Coho,42,45,0.7,N,N,0
+2494,10/2/2021,51,3,Main_Side,NA,Dolly Varden,147,152,31.7,Y,N,0
+2495,10/2/2021,52,3,Main_Side,NA,Coho,63,67,2.9,Y,N,0
+2496,10/7/2021,1,1,Main_Side,NA,Dolly Varden,50,51,1.8,N,N,0
+2497,10/7/2021,2,1,Main_Side,NA,Coho,72,79,4.8,Y,N,0
+2498,10/7/2021,3,1,Main_Side,NA,Coho,61,66,2.3,Y,N,0
+2499,10/7/2021,4,1,Main_Side,NA,Coho,59,63,1.9,N,N,0
+2500,10/7/2021,5,1,Main_Side,NA,Coho,50,54,1.3,N,N,0
+2501,10/7/2021,6,1,Main_Side,NA,Coho,57,61,2,N,N,0
+2502,10/7/2021,7,1,Main_Side,NA,Coho,54,58,1.6,Y,N,0
+2503,10/7/2021,8,1,Main_Side,NA,Coho,62,68,2.5,Y,N,0
+2504,10/7/2021,9,2,Main_Side,NA,Coho,84,90,6.3,Y,N,0
+2505,10/7/2021,10,2,Main_Side,NA,Coho,77,82,4.9,Y,N,0
+2506,10/7/2021,11,2,Main_Side,NA,Coho,72,78,4.3,Y,N,0
+2507,10/7/2021,12,3,Main_Side,NA,Coho,54,59,1.7,N,N,0
+2508,10/7/2021,13,3,Main_Side,NA,Coho,64,70,2.9,Y,N,0
+2509,10/7/2021,14,3,Main_Side,NA,Coho,63,68,2.6,Y,N,0
+2510,10/7/2021,15,3,Main_Side,NA,Coho,62,67,2.6,Y,N,0
+2511,10/7/2021,16,3,Main_Side,NA,Coho,54,59,1.6,N,N,0
+2512,10/7/2021,17,3,Main_Side,NA,Coho,60,65,2.4,Y,N,0
+2513,10/7/2021,18,4,Seep,NA,Coho,51,55,1.5,Y,N,0
+2514,10/7/2021,19,4,Seep,NA,Coho,50,55,1.7,N,N,0
+2515,10/7/2021,20,4,Seep,NA,Coho,49,53,1.4,N,N,0
+2516,10/7/2021,21,4,Seep,NA,Coho,45,48,1.2,N,N,0
+2517,10/12/2021,101,4,Main_Side,E0CCF55,Coho,101,110,11.1,N,N,0
+2518,10/12/2021,102,4,Main_Side,E0CCFD4,Coho,100,108,10.8,N,N,0
+2519,10/12/2021,103,6,Main_Side,E0CCFFC,Coho,104,114,12.6,N,N,0
+2520,10/18/2021,1,1,Main_Side,NA,Cutthroat/Steelhead,50,53,1.2,N,N,0
+2521,10/18/2021,2,1,Main_Side,NA,Coho,50,54,1.4,N,N,0
+2522,10/18/2021,3,1,Main_Side,NA,Coho,51,55,1.5,N,N,0
+2523,10/18/2021,4,1,Main_Side,NA,Dolly Varden,60,62,1.8,N,N,0
+2524,10/18/2021,5,1,Main_Side,NA,Coho,52,56,1.5,N,N,0
+2525,10/18/2021,6,1,Main_Side,NA,Coho,62,67,2.6,Y,N,0
+2526,10/18/2021,7,1,Main_Side,NA,Coho,45,49,1,N,N,0
+2527,10/18/2021,8,1,Main_Side,NA,Coho,45,49,1,N,N,0
+2528,10/18/2021,9,1,Main_Side,NA,Coho,55,60,2,Y,N,0
+2529,10/18/2021,10,1,Main_Side,NA,Coho,54,58,1.6,N,N,0
+2530,10/18/2021,11,1,Main_Side,NA,Coho,47,50,1.2,N,N,0
+2531,10/18/2021,12,1,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2532,10/18/2021,13,1,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2533,10/18/2021,14,1,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2534,10/18/2021,15,1,Main_Side,NA,Coho,53,57,1.6,N,N,0
+2535,10/18/2021,16,1,Main_Side,NA,Coho,58,63,2,Y,N,0
+2536,10/18/2021,17,1,Main_Side,NA,Coho,57,62,2.1,N,N,0
+2537,10/18/2021,18,1,Main_Side,NA,Coho,63,68,2.7,Y,N,0
+2538,10/18/2021,19,1,Main_Side,NA,Coho,54,58,1.7,N,N,0
+2539,10/18/2021,20,1,Main_Side,NA,Coho,54,58,1.7,N,N,0
+2540,10/18/2021,21,1,Main_Side,NA,Coho,56,60,1.8,N,N,0
+2541,10/18/2021,22,1,Main_Side,NA,Coho,56,60,1.8,N,N,0
+2542,10/18/2021,23,1,Main_Side,NA,Coho,72,78,3.8,Y,N,0
+2543,10/18/2021,24,1,Main_Side,NA,Cutthroat/Steelhead,59,61,2.1,N,N,0
+2544,10/18/2021,25,1,Main_Side,NA,Coho,47,51,1.3,N,N,0
+2545,10/18/2021,26,1,Main_Side,NA,Coho,48,52,1.2,N,N,0
+2546,10/18/2021,27,1,Main_Side,NA,Coho,55,58,1.8,N,N,0
+2547,10/18/2021,28,1,Main_Side,NA,Coho,60,64,2.1,Y,N,0
+2548,10/18/2021,29,1,Main_Side,NA,Coho,63,68,2.9,Y,N,0
+2549,10/18/2021,30,1,Main_Side,NA,Coho,47,50,1.1,N,N,0
+2550,10/18/2021,31,1,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2551,10/18/2021,32,1,Main_Side,NA,Coho,52,56,1.7,N,N,0
+2552,10/18/2021,33,1,Main_Side,NA,Coho,56,61,1.9,N,N,0
+2553,10/18/2021,34,1,Main_Side,NA,Coho,61,65,2.4,Y,N,0
+2554,10/18/2021,35,1,Main_Side,NA,Coho,55,59,2,Y,N,0
+2555,10/18/2021,36,2,Main_Side,NA,Coho,51,55,1.3,N,N,0
+2556,10/18/2021,37,2,Main_Side,NA,Coho,54,57,1.6,N,N,0
+2557,10/18/2021,38,2,Main_Side,NA,Coho,45,47,1,N,N,0
+2558,10/18/2021,39,2,Main_Side,NA,Coho,50,53,1.2,N,N,0
+2559,10/18/2021,40,2,Main_Side,NA,Coho,40,43,0.8,N,N,0
+2560,10/18/2021,41,2,Main_Side,NA,Coho,50,54,1.2,N,N,0
+2561,10/18/2021,42,2,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2562,10/18/2021,43,2,Main_Side,NA,Coho,51,55,1.6,N,N,0
+2563,10/18/2021,44,2,Main_Side,NA,Coho,52,57,1.6,N,N,0
+2564,10/18/2021,45,2,Main_Side,NA,Coho,49,53,1.3,N,N,0
+2565,10/18/2021,46,2,Main_Side,NA,Coho,48,52,1.5,N,N,0
+2566,10/18/2021,47,2,Main_Side,NA,Coho,54,58,1.7,N,N,0
+2567,10/18/2021,48,2,Main_Side,NA,Coho,57,62,2,N,N,0
+2568,10/18/2021,49,2,Main_Side,NA,Coho,52,56,1.4,N,N,0
+2569,10/18/2021,50,2,Main_Side,NA,Coho,44,47,1,N,N,0
+2570,10/18/2021,51,2,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2571,10/18/2021,52,2,Main_Side,NA,Coho,47,50,1.1,N,N,0
+2572,10/18/2021,53,2,Main_Side,NA,Coho,52,56,1.3,N,N,0
+2573,10/18/2021,54,2,Main_Side,NA,Coho,51,55,1.3,N,N,0
+2574,10/18/2021,55,2,Main_Side,NA,Coho,55,60,1.9,N,N,0
+2575,10/18/2021,56,2,Main_Side,NA,Coho,58,63,2,N,N,0
+2576,10/18/2021,57,2,Main_Side,NA,Coho,60,64,2.2,N,N,0
+2577,10/28/2021,1,1,Main_Side,NA,Coho,67,73,3.2,Y,N,0
+2578,10/28/2021,2,1,Main_Side,NA,Coho,59,62,2.4,Y,N,0
+2579,10/28/2021,3,1,Main_Side,NA,Coho,64,69,2.7,N,N,0
+2580,10/28/2021,4,1,Main_Side,NA,Coho,59,63,2.3,N,N,0
+2581,10/28/2021,5,1,Main_Side,NA,Coho,58,62,2.1,N,N,0
+2582,10/28/2021,6,1,Main_Side,NA,Coho,62,66,2.9,N,N,0
+2583,10/28/2021,7,1,Main_Side,NA,Coho,64,68,3.6,Y,N,0
+2584,10/28/2021,8,1,Main_Side,NA,Coho,65,69,2.7,N,N,0
+2585,10/28/2021,9,1,Main_Side,NA,Coho,55,59,2.1,N,N,0
+2586,10/28/2021,10,1,Main_Side,NA,Coho,62,68,2.9,N,N,0
+2587,10/28/2021,11,1,Main_Side,NA,Coho,68,72,3.6,N,N,0
+2588,10/28/2021,12,1,Main_Side,NA,Cutthroat/Steelhead,40,41,1.1,N,N,0
+2589,10/28/2021,13,1,Main_Side,NA,Coho,67,71,3.2,Y,N,0
+2590,10/28/2021,14,1,Main_Side,NA,Coho,68,73,3.6,N,N,0
+2591,10/28/2021,15,1,Main_Side,NA,Dolly Varden,50,52,1.4,N,N,0
+2592,10/28/2021,16,1,Main_Side,NA,Cutthroat/Steelhead,50,52,1,N,N,0
+2593,10/28/2021,17,1,Main_Side,NA,Coho,78,83,6,Y,N,0
+2594,10/28/2021,18,1,Main_Side,NA,Coho,76,81,5.6,N,N,0
+2595,10/28/2021,19,1,Main_Side,NA,Coho,65,69,2.2,N,N,0
+2596,10/28/2021,20,1,Main_Side,NA,Cutthroat/Steelhead,56,58,1.7,N,N,0
+2597,10/28/2021,21,1,Main_Side,NA,Coho,73,78,4.2,Y,N,0
+2598,10/28/2021,22,1,Main_Side,NA,Coho,64,69,2.8,N,N,0
+2599,10/28/2021,23,1,Main_Side,NA,Coho,55,59,1.8,N,N,0
+2600,10/28/2021,24,1,Main_Side,NA,Coho,60,65,2.3,N,N,0
+2601,10/28/2021,25,1,Main_Side,NA,Coho,92,99,8.3,Y,N,0
+2602,10/28/2021,26,1,Main_Side,NA,Dolly Varden,51,53,1.1,N,N,0
+2603,10/28/2021,27,1,Main_Side,NA,Coho,64,69,2.6,N,N,0
+2604,10/28/2021,28,1,Main_Side,NA,Coho,53,56,1.4,N,N,0
+2605,10/28/2021,29,1,Main_Side,NA,Coho,48,53,1.6,N,N,0
+2606,10/28/2021,30,1,Main_Side,NA,Coho,54,59,1.9,N,N,0
+2607,10/28/2021,31,1,Main_Side,NA,Coho,59,63,2.1,N,N,0
+2608,10/28/2021,32,1,Main_Side,NA,Coho,61,66,2.5,N,N,0
+2609,10/28/2021,33,1,Main_Side,NA,Coho,81,88,5.8,Y,N,0
+2610,10/28/2021,34,1,Main_Side,NA,Coho,61,66,2.7,Y,N,0
+2611,10/28/2021,35,1,Main_Side,NA,Coho,68,73,3.3,N,N,0
+2612,10/28/2021,36,1,Main_Side,NA,Coho,49,54,1.3,N,N,0
+2613,10/28/2021,37,1,Main_Side,NA,Coho,71,77,3.7,N,N,0
+2614,10/28/2021,38,1,Main_Side,NA,Coho,54,58,1.5,N,N,0
+2615,10/28/2021,39,1,Main_Side,NA,Coho,54,59,1.7,N,N,0
+2616,10/28/2021,40,1,Main_Side,NA,Dolly Varden,56,59,1.5,N,N,0
+2617,10/28/2021,41,1,Main_Side,NA,Coho,54,58,1.6,N,N,0
+2618,10/28/2021,42,1,Main_Side,NA,Coho,64,69,2.6,N,N,0
+2619,10/28/2021,43,1,Main_Side,NA,Coho,81,87,5.8,Y,N,0
+2620,10/28/2021,44,1,Main_Side,NA,Coho,63,68,2.6,N,N,0
+2621,10/28/2021,45,1,Main_Side,NA,Coho,64,69,2.5,N,N,0
+2622,10/28/2021,46,1,Main_Side,NA,Coho,61,68,2.4,N,N,0
+2623,10/28/2021,47,1,Main_Side,NA,Coho,68,73,3,N,N,0
+2624,10/28/2021,48,1,Main_Side,NA,Coho,68,73,3.4,Y,N,0
+2625,10/28/2021,49,1,Main_Side,NA,Coho,69,75,3.4,N,N,0
+2626,10/28/2021,50,1,Main_Side,NA,Dolly Varden,52,54,1.2,N,N,0
+2627,10/28/2021,51,1,Main_Side,NA,Coho,80,87,5.4,N,N,0
+2628,10/28/2021,52,1,Main_Side,NA,Coho,78,84,5.5,Y,N,0
+2629,10/28/2021,53,1,Main_Side,NA,Coho,73,79,4.5,N,N,0
+2630,10/28/2021,54,1,Main_Side,NA,Coho,48,50,1,N,N,0
+2631,10/28/2021,55,1,Main_Side,NA,Coho,76,82,5.1,N,N,0
+2632,10/28/2021,56,1,Main_Side,NA,Cutthroat/Steelhead,50,52,1.6,N,N,0
+2633,10/28/2021,57,1,Main_Side,NA,Coho,63,66,3.2,N,N,0
+2634,10/28/2021,58,1,Main_Side,NA,Coho,75,80,4.9,N,N,0
+2635,10/28/2021,59,1,Main_Side,NA,Coho,59,64,2.6,N,N,0
+2636,10/28/2021,60,1,Main_Side,NA,Coho,70,75,3.8,N,N,0
+2637,10/28/2021,61,1,Main_Side,NA,Coho,108,116,14.4,Y,N,0
+2638,10/28/2021,62,1,Main_Side,NA,Coho,55,59,1.4,N,N,0
+2639,10/28/2021,63,1,Main_Side,NA,Coho,52,55,1.6,N,N,0
+2640,10/28/2021,64,1,Main_Side,NA,Coho,61,65,2.6,N,N,0
+2641,10/28/2021,65,1,Main_Side,NA,Dolly Varden,69,73,3.6,N,N,0
+2642,10/28/2021,66,1,Main_Side,NA,Coho,112,122,16.7,Y,N,0
+2643,10/28/2021,67,1,Main_Side,NA,Coho,71,76,3.9,N,N,0
+2644,10/28/2021,68,1,Main_Side,NA,Coho,52,56,1.5,N,N,0
+2645,10/28/2021,69,1,Main_Side,NA,Coho,50,55,2.1,N,N,0
+2646,10/28/2021,70,1,Main_Side,NA,Coho,60,64,2.5,N,N,0
+2647,10/28/2021,71,1,Main_Side,NA,Coho,79,85,5.4,N,N,0
+2648,10/28/2021,72,1,Main_Side,NA,Dolly Varden,59,61,2.1,N,N,0
+2649,10/28/2021,73,1,Main_Side,NA,Dolly Varden,45,47,1.3,N,N,0
+2650,10/28/2021,74,1,Main_Side,NA,Coho,50,55,1.4,N,N,0
+2651,10/28/2021,75,2,Main_Side,NA,Cutthroat/Steelhead,52,54,1.4,N,N,0
+2652,10/28/2021,76,2,Main_Side,NA,Coho,44,47,1.1,N,N,0
+2653,10/28/2021,77,2,Main_Side,NA,Coho,48,52,1.6,N,N,0
+2654,10/28/2021,78,2,Main_Side,NA,Coho,57,62,2,N,N,0
+2655,10/28/2021,79,2,Main_Side,NA,Coho,47,50,1.2,N,N,0
+2656,10/28/2021,80,2,Main_Side,NA,Coho,48,52,1.5,N,N,0
+2657,10/28/2021,81,2,Main_Side,NA,Coho,60,65,2.5,N,N,0
+2658,10/28/2021,82,2,Main_Side,NA,Coho,60,65,2.5,N,N,0
+2659,10/28/2021,83,2,Main_Side,NA,Coho,61,66,2.9,Y,N,0
+2660,10/28/2021,84,3,Main_Side,NA,Coho,54,58,1.8,N,N,0
+2661,10/28/2021,85,3,Main_Side,NA,Coho,50,54,1.6,N,N,0
+2662,10/28/2021,86,3,Main_Side,NA,Coho,59,63,2.2,N,N,0
+2663,10/28/2021,87,3,Main_Side,NA,Coho,50,53,1.2,N,N,0
+2664,10/28/2021,88,3,Main_Side,NA,Coho,56,60,1.9,N,N,0
+2665,10/28/2021,89,3,Main_Side,NA,Coho,48,50,1.1,N,N,0
+2666,10/28/2021,90,3,Main_Side,NA,Coho,50,53,1.3,N,N,0
+2667,10/28/2021,91,3,Main_Side,NA,Coho,50,54,1.3,N,N,0
+2668,10/28/2021,92,3,Main_Side,NA,Coho,49,52,1.2,N,N,0
+2669,10/28/2021,93,3,Main_Side,NA,Coho,55,60,1.7,N,N,0
+2670,10/28/2021,94,3,Main_Side,NA,Coho,58,62,2.1,N,N,0
+2671,10/28/2021,95,3,Main_Side,NA,Coho,62,67,2.5,Y,N,0
+2672,10/28/2021,96,3,Main_Side,NA,Cutthroat/Steelhead,46,49,1.3,N,N,0
+2673,10/28/2021,97,3,Main_Side,NA,Dolly Varden,51,53,1.3,N,N,0
+2674,10/28/2021,98,3,Main_Side,NA,Dolly Varden,50,53,1.2,N,N,0
+2675,10/28/2021,99,3,Main_Side,NA,Coho,65,70,2.8,N,N,0
+2676,10/28/2021,100,3,Main_Side,NA,Coho,55,59,1.8,N,N,0
+2677,10/28/2021,101,3,Main_Side,NA,Coho,60,65,2.7,N,N,0
+2678,10/28/2021,102,3,Main_Side,NA,Coho,58,62,1.9,N,N,0
+2679,10/28/2021,103,3,Main_Side,NA,Coho,53,57,1.5,N,N,0
+2680,10/28/2021,104,3,Main_Side,NA,Coho,59,62,2.1,N,N,0
+2681,10/28/2021,105,3,Main_Side,NA,Coho,54,58,1.5,N,N,0
+2682,10/28/2021,106,3,Main_Side,NA,Coho,51,55,1.4,N,N,0
+2683,10/28/2021,107,3,Main_Side,NA,Coho,57,62,1.9,N,N,0
+2684,10/28/2021,108,3,Main_Side,NA,Coho,49,53,1.2,N,N,0
+2685,10/28/2021,109,3,Main_Side,NA,Coho,52,56,1.7,N,N,0
+2686,10/28/2021,110,3,Main_Side,NA,Coho,64,70,3.1,N,N,0
+2687,7/2/2021,O1,1,Main_Side,N/A,Coho,33,35,0.3,N,N,0
+2688,7/2/2021,O2,1,Main_Side,N/A,Coho,35,36,0.4,N,N,0
+2689,7/2/2021,O3,1,Main_Side,N/A,Coho,35,37,0.5,N,N,0
+2690,7/2/2021,O4,1,Main_Side,N/A,Coho,36,37,0.5,N,N,0
+2691,7/2/2021,O5,1,Main_Side,N/A,Coho,34,35,0.4,N,N,0
+2692,7/2/2021,O6,1,Main_Side,N/A,Coho,36,38,0.5,N,N,0
+2693,7/2/2021,O7,1,Main_Side,N/A,Coho,35,36,0.4,N,N,0
+2694,7/2/2021,O8,1,Main_Side,N/A,Coho,32,33,0.2,N,N,0
+2695,7/2/2021,O9,1,Main_Side,N/A,Coho,33,34,0.3,N,N,0
+2696,7/2/2021,O10,1,Main_Side,N/A,Coho,35,36,0.3,N,N,0
+2697,7/2/2021,O11,1,Main_Side,N/A,Coho,36,37,0.4,N,N,0
+2698,7/2/2021,O12,1,Main_Side,N/A,Coho,35,37,0.4,N,N,0
+2699,7/2/2021,O13,1,Main_Side,N/A,Coho,35,37,0.4,N,N,0
+2700,7/2/2021,O14,1,Main_Side,N/A,Coho,36,37,0.4,N,N,0
+2701,7/2/2021,O15,1,Main_Side,N/A,Coho,35,37,0.4,N,N,0
+2702,7/2/2021,O16,1,Main_Side,N/A,Coho,33,34,0.3,N,N,0
+2703,7/2/2021,O17,1,Main_Side,N/A,Coho,37,39,0.5,N,N,0
+2704,7/2/2021,O18,1,Main_Side,N/A,Coho,37,38,0.4,N,N,0
+2705,7/2/2021,O19,1,Main_Side,N/A,Coho,34,35,0.3,N,N,0
+2706,7/2/2021,O20,1,Main_Side,N/A,Coho,36,38,0.5,N,N,0
+2707,7/2/2021,O21,1,Main_Side,N/A,Coho,36,37,0.4,N,Y,0
+2708,7/2/2021,O22,1,Main_Side,N/A,Coho,33,34,0.3,N,Y,0
+2709,7/2/2021,O23,1,Main_Side,N/A,Coho,34,35,0.4,N,Y,0
+2710,7/2/2021,O24,1,Main_Side,N/A,Coho,29,30,0.2,N,Y,0
+2711,7/2/2021,O25,1,Main_Side,N/A,Coho,35,36,0.4,N,Y,0
+2712,7/2/2021,O26,1,Main_Side,N/A,Coho,34,35,0.3,N,Y,0
+2713,7/2/2021,O27,1,Main_Side,N/A,Coho,33,34,0.4,N,Y,0
+2714,7/2/2021,O28,1,Main_Side,N/A,Coho,33,34,0.4,N,N,0
+2715,7/2/2021,O29,1,Main_Side,N/A,Coho,31,32,0.2,N,N,0
+2716,7/2/2021,O30,1,Main_Side,N/A,Coho,33,34,0.3,N,N,0
+2717,8/4/2021,O1,1,Main_Side,N/A,Coho,52,56,1.9,N,N,0
+2718,8/4/2021,O2,1,Main_Side,N/A,Coho,43,46,0.9,N,Y,0
+2719,8/4/2021,O3,1,Main_Side,N/A,Coho,43,47,1,N,Y,0
+2720,8/4/2021,O4,1,Main_Side,N/A,Coho,50,54,1.4,N,Y,0
+2721,8/4/2021,O5,1,Main_Side,N/A,Coho,49,52,1.1,N,Y,0
+2722,8/4/2021,O6,1,Main_Side,N/A,Coho,42,44,0.8,N,Y,0
+2723,8/4/2021,O7,1,Main_Side,N/A,Coho,40,43,0.8,N,Y,0
+2724,8/4/2021,O8,1,Main_Side,N/A,Coho,42,45,1,N,N,0
+2725,8/4/2021,O9,1,Main_Side,N/A,Coho,42,45,1,N,N,0
+2726,8/4/2021,O10,1,Main_Side,N/A,Coho,40,42,0.7,N,N,0
+2727,8/4/2021,O11,1,Main_Side,N/A,Coho,40,43,0.9,N,N,0
+2728,8/4/2021,O12,1,Main_Side,N/A,Coho,40,43,0.8,N,N,0
+2729,8/4/2021,O13,1,Main_Side,N/A,Coho,38,40,0.7,N,N,0
+2730,8/4/2021,O14,1,Main_Side,N/A,Coho,37,39,0.6,N,N,0
+2731,8/4/2021,O15,1,Main_Side,N/A,Coho,38,41,0.6,N,N,0
+2732,8/4/2021,O16,1,Main_Side,N/A,Coho,35,37,0.5,N,N,0
+2733,8/4/2021,O17,1,Main_Side,N/A,Coho,35,37,0.5,N,N,0
+2734,8/4/2021,O18,1,Main_Side,N/A,Coho,40,43,0.7,N,N,0
+2735,8/4/2021,O19,1,Main_Side,N/A,Coho,37,40,0.6,N,N,0
+2736,8/4/2021,O20,1,Main_Side,N/A,Coho,42,45,1,N,N,0
+2737,8/4/2021,O21,2,Main_Side,N/A,Coho,50,53,1.6,N,N,0
+2738,8/4/2021,O22,2,Main_Side,N/A,Coho,41,45,0.9,N,N,0
+2739,9/14/2021,O1,1,Main_Side,N/A,Coho,47,50,1.1,N,N,0
+2740,9/14/2021,O2,1,Main_Side,N/A,Coho,54,58,1.8,N,N,0
+2741,9/14/2021,O3,1,Main_Side,N/A,Coho,57,62,2.2,N,N,0
+2742,9/14/2021,O4,1,Main_Side,N/A,Coho,67,72,3.3,N,N,0
+2743,9/14/2021,O5,1,Main_Side,N/A,Coho,65,70,3.5,N,N,0
+2744,9/14/2021,O6,2,Main_Side,N/A,Coho,72,78,4.7,N,N,0
+2745,9/14/2021,O7,2,Main_Side,N/A,Coho,44,47,0.7,N,N,0
+2746,9/14/2021,O8,2,Main_Side,N/A,Coho,54,59,1.8,N,N,0
+2747,9/14/2021,O9,2,Main_Side,N/A,Coho,52,56,1.6,N,N,0
+2748,9/14/2021,O10,2,Main_Side,N/A,Coho,70,75,3.1,N,N,0
+2749,9/14/2021,O11,3,Main_Side,N/A,Coho,68,73,3.5,N,N,0
+2750,9/14/2021,O12,3,Main_Side,N/A,Coho,44,47,1.3,N,N,0
+2751,9/14/2021,O13,3,Main_Side,N/A,Coho,64,70,3.6,N,N,0
+2752,9/14/2021,O14,3,Main_Side,N/A,Coho,60,65,2.5,N,N,0
+2753,9/14/2021,O15,3,Main_Side,N/A,Coho,55,60,1.9,N,N,0
+2754,9/14/2021,O16,4,Main_Side,N/A,Coho,50,55,1.6,N,N,0
+2755,9/14/2021,O17,4,Main_Side,N/A,Coho,62,66,2.6,N,N,0
+2756,9/14/2021,O18,4,Main_Side,N/A,Coho,72,77,4.3,N,N,0
+2757,9/14/2021,O19,4,Main_Side,N/A,Coho,69,74,3.5,N,N,0
+2758,9/14/2021,O20,4,Main_Side,N/A,Coho,65,70,3.2,N,N,0
+2759,10/12/2021,1,1,Main_Side,N/A,Coho,41,43,0.7,N,N,0
+2760,10/12/2021,2,1,Main_Side,N/A,Coho,45,49,0.9,N,N,0
+2761,10/12/2021,3,1,Main_Side,N/A,Coho,72,78,4.1,Y,N,0
+2762,10/12/2021,4,1,Main_Side,N/A,Coho,69,74,3.1,Y,N,0
+2763,10/12/2021,5,1,Main_Side,N/A,Coho,60,64,2.3,Y,N,0
+2764,10/12/2021,6,1,Main_Side,N/A,Coho,70,75,3.8,Y,N,0
+2765,10/12/2021,7,1,Main_Side,N/A,Coho,67,72,3.2,Y,N,0
+2766,10/12/2021,8,1,Main_Side,N/A,Coho,66,71,3,Y,N,0
+2767,10/12/2021,9,1,Main_Side,N/A,Coho,66,70,2.9,Y,N,0
+2768,10/12/2021,10,1,Main_Side,N/A,Coho,58,61,2.2,Y,N,0
+2769,10/12/2021,11,1,Main_Side,N/A,Coho,51,54,1.3,N,N,0
+2770,10/12/2021,12,1,Main_Side,N/A,Coho,49,52,1.1,N,N,0
+2771,10/12/2021,13,2,Main_Side,N/A,Coho,76,81,4.8,Y,N,0
+2772,10/12/2021,14,2,Main_Side,N/A,Coho,67,70,2.8,Y,N,0
+2773,10/12/2021,15,2,Main_Side,N/A,Coho,59,62,2.4,Y,N,0
+2774,10/12/2021,16,2,Main_Side,N/A,Coho,51,53,1.5,Y,N,0
+2775,10/12/2021,17,2,Main_Side,N/A,Coho,60,63,2,Y,N,0
+2776,10/12/2021,18,2,Main_Side,N/A,Coho,61,65,2,Y,N,0
+2777,10/12/2021,19,2,Main_Side,N/A,Coho,62,66,2.5,Y,N,0
+2778,10/12/2021,20,2,Main_Side,N/A,Coho,53,56,1.6,Y,N,0
+2779,10/12/2021,21,2,Main_Side,N/A,Coho,63,67,2.5,Y,N,0
+2780,10/12/2021,22,2,Main_Side,N/A,Coho,54,57,1.6,Y,N,0
+2781,10/12/2021,23,2,Main_Side,N/A,Coho,48,51,1.1,N,N,0
+2782,10/12/2021,24,2,Main_Side,N/A,Coho,49,51,0.9,N,N,0
+2783,10/12/2021,25,3,Main_Side,N/A,Coho,50,54,1.7,Y,N,0
+2784,10/12/2021,26,3,Main_Side,N/A,Coho,50,54,1.6,Y,N,0
+2785,10/12/2021,27,3,Main_Side,N/A,Coho,51,54,1.4,N,N,0
+2786,10/12/2021,28,3,Main_Side,N/A,Coho,72,77,3.8,N,N,0
+2787,10/12/2021,29,3,Main_Side,N/A,Coho,64,68,2.5,N,N,0
+2788,10/12/2021,30,4,Main_Side,N/A,Coho,57,62,2,N,N,0
+2789,10/12/2021,31,4,Main_Side,N/A,Coho,55,59,1.7,N,N,0
+2790,10/12/2021,32,4,Main_Side,N/A,Coho,78,85,5.2,N,N,0
+2791,10/12/2021,33,4,Main_Side,N/A,Coho,78,84,5.7,N,N,0
+2792,10/12/2021,34,4,Main_Side,N/A,Coho,59,64,2.2,N,N,0
+2793,10/12/2021,35,4,Main_Side,N/A,Coho,81,88,6.4,N,N,0
+2794,10/12/2021,36,4,Main_Side,N/A,Coho,57,61,2,N,N,0
+2795,10/12/2021,37,4,Main_Side,N/A,Coho,62,67,2.6,N,N,0
+2796,10/12/2021,38,4,Main_Side,N/A,Coho,65,70,2.8,N,N,0
+2797,10/12/2021,39,4,Main_Side,N/A,Coho,73,80,4.5,N,N,0
+2798,10/12/2021,40,4,Main_Side,N/A,Coho,65,70,3.3,N,N,0
+2799,10/12/2021,41,4,Main_Side,N/A,Coho,67,72,3.2,N,N,0
+2800,10/12/2021,42,4,Main_Side,N/A,Coho,61,66,2.9,N,N,0
+2801,10/12/2021,43,4,Main_Side,N/A,Coho,65,70,3.1,N,N,0
+2802,10/12/2021,44,4,Main_Side,N/A,Coho,63,68,2.9,N,N,0
+2803,10/12/2021,45,4,Main_Side,N/A,Coho,81,88,6.3,N,N,0
+2804,10/12/2021,46,4,Main_Side,N/A,Coho,69,75,3.7,N,N,0
+2805,10/12/2021,47,4,Main_Side,N/A,Coho,72,78,4,N,N,0
+2806,10/12/2021,48,4,Main_Side,N/A,Coho,69,75,3.7,N,N,0
+2807,10/12/2021,49,4,Main_Side,N/A,Coho,77,84,5.1,N,N,0
+2808,10/12/2021,50,4,Main_Side,N/A,Coho,57,61,2.1,N,N,0
+2809,10/12/2021,51,5,Main_Side,N/A,Coho,69,75,4.4,N,N,0
+2810,10/12/2021,52,5,Main_Side,N/A,Coho,64,69,2.8,N,N,0
+2811,10/12/2021,53,5,Main_Side,N/A,Coho,60,65,2.7,N,N,0
+2812,10/12/2021,54,5,Main_Side,N/A,Coho,63,69,3,N,N,0
+2813,10/12/2021,55,5,Main_Side,N/A,Coho,58,63,2.3,N,N,0
+2814,10/12/2021,56,5,Main_Side,N/A,Coho,62,66,2.3,N,N,0
+2815,10/12/2021,57,5,Main_Side,N/A,Coho,62,67,2.7,N,N,0
+2816,10/12/2021,58,5,Main_Side,N/A,Coho,62,67,2.6,N,N,0
+2817,10/12/2021,59,5,Main_Side,N/A,Coho,65,70,3,N,N,0
+2818,10/12/2021,60,5,Main_Side,N/A,Coho,57,62,1.9,N,N,0
+2819,10/12/2021,61,5,Main_Side,N/A,Coho,62,67,2.7,N,N,0
+2820,10/12/2021,62,5,Main_Side,N/A,Coho,62,67,2.9,N,N,0
+2821,10/12/2021,63,5,Main_Side,N/A,Coho,57,62,2.2,N,N,0
+2822,10/12/2021,64,5,Main_Side,N/A,Coho,61,66,2.6,N,N,0
+2823,10/12/2021,65,5,Main_Side,N/A,Coho,61,66,2.5,N,N,0
+2824,10/12/2021,66,6,Main_Side,N/A,Coho,50,53,1.4,N,N,0
+2825,10/12/2021,67,6,Main_Side,N/A,Coho,55,60,1.8,N,N,0
+2826,10/12/2021,68,6,Main_Side,N/A,Coho,63,68,2.7,N,N,0
+2827,10/12/2021,69,6,Main_Side,N/A,Coho,68,72,3.2,N,N,0
+2828,10/12/2021,70,6,Main_Side,N/A,Coho,47,50,1.2,N,N,0
+2829,10/12/2021,71,6,Main_Side,N/A,Coho,58,63,2.4,N,N,0
+2830,10/12/2021,72,6,Main_Side,N/A,Coho,60,65,2.6,N,N,0
+2831,10/12/2021,73,6,Main_Side,N/A,Coho,80,85,5.5,N,N,0
+2832,10/12/2021,74,6,Main_Side,N/A,Coho,78,85,5.1,N,N,0
+2833,10/12/2021,75,6,Main_Side,N/A,Coho,60,65,2.7,N,N,0
+2834,10/12/2021,76,6,Main_Side,N/A,Coho,61,66,2.5,N,N,0
+2835,10/12/2021,77,6,Main_Side,N/A,Coho,72,78,4.1,N,N,0
+2836,10/12/2021,78,6,Main_Side,N/A,Coho,64,69,2.7,N,N,0
+2837,10/12/2021,79,6,Main_Side,N/A,Coho,60,65,2.5,N,N,0
+2838,10/12/2021,80,6,Main_Side,N/A,Coho,56,60,2.2,N,N,0
+2839,10/12/2021,81,6,Main_Side,N/A,Coho,52,55,2.1,N,N,0
+2840,10/12/2021,82,6,Main_Side,N/A,Coho,71,77,3.8,N,N,0
+2841,10/12/2021,83,6,Main_Side,N/A,Coho,63,68,2.7,N,N,0
+2842,10/12/2021,84,6,Main_Side,N/A,Coho,50,54,1.5,N,N,0
+2843,10/12/2021,85,6,Main_Side,N/A,Coho,60,65,2.4,N,N,0
+2844,10/12/2021,86,6,Main_Side,N/A,Coho,52,55,1.8,N,N,0
+2845,10/12/2021,87,6,Main_Side,N/A,Coho,56,60,2.2,N,N,0
+2846,10/12/2021,88,6,Main_Side,N/A,Coho,56,60,2.1,N,N,0
+2847,10/12/2021,89,6,Main_Side,N/A,Coho,52,57,1.9,N,N,0
+2848,10/12/2021,90,1,Main_Side,N/A,Coho,72,78,4.2,N,N,0
+2849,10/12/2021,91,1,Main_Side,N/A,Coho,58,62,2.2,N,N,0
+2850,10/12/2021,92,1,Main_Side,N/A,Coho,63,69,2.8,N,N,0
+2851,10/12/2021,93,1,Main_Side,N/A,Coho,49,52,1.5,N,N,0
+2852,10/12/2021,94,1,Main_Side,N/A,Coho,56,60,2,N,N,0
+2853,10/12/2021,95,1,Main_Side,N/A,Coho,53,57,1.8,N,N,0
+2854,10/12/2021,96,1,Main_Side,N/A,Coho,61,66,2.2,N,N,0
+2855,10/12/2021,97,1,Main_Side,N/A,Coho,62,67,2.6,N,N,0
+2856,10/12/2021,98,1,Main_Side,N/A,Coho,69,74,3.5,N,N,0
+2857,10/12/2021,99,1,Main_Side,N/A,Coho,64,69,3,N,N,0
+2858,10/12/2021,100,1,Main_Side,N/A,Coho,55,59,2.2,N,N,0
